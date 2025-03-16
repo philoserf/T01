@@ -10,7 +10,8 @@ date: 2025-03-16
 
 ## Era 1: Solar System Expansion (100 years)
 
-**Technology:** Sub-light speed travel, no FTL capabilities **Total Human Population:** 25-30 billion
+**Technology:** Sub-light speed travel, no FTL capabilities
+**Total Human Population:** 25-30 billion
 
 ### Population Distribution
 
@@ -32,7 +33,8 @@ date: 2025-03-16
 
 ## Era 2: First FTL Era (150 years, 1 parsec/week)
 
-**Technology:** First-generation FTL (1 parsec/week with mandatory 1-week in-system pause) **Total Human Population:** 45-60 billion
+**Technology:** First-generation FTL (1 parsec/week with mandatory 1-week in-system pause) 
+**Total Human Population:** 45-60 billion
 
 ### Population Distribution
 
@@ -54,7 +56,8 @@ date: 2025-03-16
 
 ## Era 3: Wormhole Era (50 years)
 
-**Technology:** First-generation FTL + wormhole to distant galactic location **Total Human Population:** 75-90 billion
+**Technology:** First-generation FTL + wormhole to distant galactic location
+**Total Human Population:** 75-90 billion
 
 ### Near Side Population
 
@@ -78,7 +81,8 @@ date: 2025-03-16
 
 ## Era 4: Advanced FTL Era (50 years, 2 parsecs/week)
 
-**Technology:** Second-generation FTL (2 parsecs/week with 1-week in-system pause) **Total Human Population:** 110-130 billion
+**Technology:** Second-generation FTL (2 parsecs/week with 1-week in-system pause)
+**Total Human Population:** 110-130 billion
 
 ### Near Side Population
 
@@ -104,7 +108,8 @@ date: 2025-03-16
 
 ## Era 5: Post-Wormhole Closure
 
-**Technology:** Second-generation FTL continued, wormhole connection severed **Total Human Population:** Split between two isolated civilizations
+**Technology:** Second-generation FTL continued, wormhole connection severed
+**Total Human Population:** Split between two isolated civilizations
 
 ### Near Side Population: 85-100 billion
 
