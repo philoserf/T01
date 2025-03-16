@@ -1,24 +1,7 @@
 {
-  "showSidebar": true,
+  "showSidebar": false,
   "nav": {
     "logo": "",
-    "title": "Bottom of the Hole",
-    "social": [
-      {
-        "label": "GitHub",
-        "name": "GitHub",
-        "href": "https://github.com/philoserf"
-      },
-      {
-        "label": "Bluesky",
-        "name": " Bluesky",
-        "href": "https://philoserf.bsky.social/"
-      },
-      {
-        "label": "Mastodon",
-        "name": "Mastodon",
-        "href": "https://pkm.social/@philoserf"
-      }
-    ]
+    "title": "Bottom of the Hole"
   }
 }

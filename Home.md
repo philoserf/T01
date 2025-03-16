@@ -5,6 +5,7 @@ authors:
   - Mark Ayers
 date: 2025-03-16
 ---
+
 > Human Interstellar Expansion Timeline
 
 ## Era 1: Solar System Expansion (100 years)
@@ -36,9 +37,9 @@ date: 2025-03-16
 ### Population Distribution
 
 - **Solar System:** 25-30 billion
-    - **Earth:** 15-18 billion
-    - **Mars:** 5-6 billion
-    - **Rest of Solar System:** 5-6 billion
+  - **Earth:** 15-18 billion
+  - **Mars:** 5-6 billion
+  - **Rest of Solar System:** 5-6 billion
 - **Inner colonies (0-10 parsecs, ~30 star systems):** 10-15 billion
 - **Mid-range colonies (10-30 parsecs, ~100 star systems):** 8-12 billion
 - **Outer colonies (30+ parsecs):** 2-3 billion
@@ -58,9 +59,9 @@ date: 2025-03-16
 ### Near Side Population
 
 - **Solar System:** 28-32 billion
-    - **Earth:** 14-16 billion
-    - **Mars:** 7-8 billion
-    - **Rest of Solar System:** 7-8 billion
+  - **Earth:** 14-16 billion
+  - **Mars:** 7-8 billion
+  - **Rest of Solar System:** 7-8 billion
 - **Near colonies (0-30 parsecs):** 30-35 billion
 - **Extended colonies (30-150 parsecs):** 8-10 billion
 
@@ -82,9 +83,9 @@ date: 2025-03-16
 ### Near Side Population
 
 - **Solar System:** 30-35 billion
-    - **Earth:** 13-15 billion
-    - **Mars:** 8-10 billion
-    - **Rest of Solar System:** 9-10 billion
+  - **Earth:** 13-15 billion
+  - **Mars:** 8-10 billion
+  - **Rest of Solar System:** 9-10 billion
 - **Near colonies (0-50 parsecs):** 40-45 billion
 - **Mid-range colonies (50-150 parsecs):** 15-20 billion
 - **Frontier (150-250 parsecs):** 5-7 billion
@@ -121,6 +122,6 @@ date: 2025-03-16
 - Different resource availability and challenges leading to divergent technological paths
 - Mythology and legends developing about the "other side"
 - Possible attempts to reconnect through either:
-    - Reopening/recreating the wormhole
-    - Developing even faster FTL technology
-    - Finding alternate wormholes or shortcuts
+  - Reopening/recreating the wormhole
+  - Developing even faster FTL technology
+  - Finding alternate wormholes or shortcuts
