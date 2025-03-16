@@ -1,6 +1,8 @@
 {
   "showSidebar": true,
   "nav": {
+    "logo": "",
+    "title": "Bottom of the Hole",
     "social": [
       {
         "label": "GitHub",
