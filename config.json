@@ -7,16 +7,16 @@
       {
         "label": "GitHub",
         "name": "GitHub",
-        "href": "https://github.com/philoserf"
+        "href": "https://github.com/philoserf",
       },
       {
         "label": "Bluesky",
         "name": " Bluesky",
-        "href": "https://philoserf.bsky.social/"
+        "href": "https://philoserf.bsky.social/",
       },
         "label": "Mastodon",
         "name": "Mastodon".
-        "href": "https://pkm.social/@philoserf"
+        "href": "https://pkm.social/@philoserf",
     ]
   }
 }
