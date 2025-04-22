@@ -18,7 +18,7 @@ This is an experimental exploration using Obsidian and Flowershow to produce a s
 
 [Obsidian](https://obsidian.md/) for content management
 
-[Flowershow]([https://flowershow.app](https://flowershow.app/)) for content presentation
+[Flowershow](https://flowershow.app/)) for content presentation
 
 [GitHub](https://github.com/) for content change management
 
