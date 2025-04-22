@@ -12,13 +12,8 @@
     ],
     "social": [
       {
-        "label": "github",
-        "name": "GitHub",
-        "href": "https://github.com/philoserf"
-      },
-            {
         "label": "mastodon",
-        "name": "PKM Social",
+        "name": "Follow me on Mastodon",
         "href": "https://pkm.social/@philoserf"
       },
       {
