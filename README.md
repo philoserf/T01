@@ -14,26 +14,26 @@ This is an experiment. It is beginning now.
 
 ## Roadmap 
 
-- what
-- why
-- when
-- who
-- how
-- club
-- district
-- region
-- meetings
-- meeting roles
-- club roles
-- district roles
-- prepared speeches
-- evaluations
-- extemporaneous speaking 
-- reports
-- education program 
-- international 
-- contests
-- conferences 
+- [[what]]
+- [[why]]
+- [[when]]
+- [[who]]
+- [[how]]
+- [[club]]
+- [[district]]
+- [[region]]
+- [[meetings]]
+- [[meeting roles]]
+- [[club roles]]
+- [[district roles]]
+- [[prepared speeches]]
+- [[evaluations]]
+- [[extemporaneous speaking]] 
+- [[reports]]
+- [[education program]] 
+- [[international]] 
+- [[contests]]
+- [[conferences]] 
 - [[Modern Toastmasters Club Reboot]]
 - [[Strategic Plan for Toastmasters Club Transformation]]
 - [[Toastmasters Club Building Process Explained]]
