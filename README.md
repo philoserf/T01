@@ -10,13 +10,13 @@ category: Methodology
 description: Outlines a strategic plan and roadmap for revitalizing a Toastmasters club, detailing roles, meetings, speeches, evaluations, and international activities to enhance public speaking and leadership skills.
 ---
 
-# Contents
+## Contents
 
 - [[Modern Toastmasters Club Reboot]]
 - [[Strategic Plan for Toastmasters Club Transformation]]
 - [[Toastmasters Club Building Process Explained]]
 
-# Roadmap
+## Roadmap
 
 - what
 - why
