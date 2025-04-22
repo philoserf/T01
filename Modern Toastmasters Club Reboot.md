@@ -38,7 +38,7 @@ created: 2025-04-22
 
 ### Membership
 - **Minimum viable club**: 8 people
-- **Maximum**: 16 people (spawn new clubs beyond)
+- **Maximum**: 30 people (spawn new clubs beyond)
 - **Commitment**: 3-month seasons with clear start/end
 
 ### Roles (rotate monthly, not weekly)
@@ -47,13 +47,13 @@ created: 2025-04-22
 - **Growth Lead**: Handles recruitment, retention
 
 ### Administration
-- Single shared doc for everything (Google Doc/Notion)
+- Single shared doc
 - No complex officer structure
 - No dues initially (pay for space/snacks as needed)
 
 ## Technology Use (minimal)
-- WhatsApp/Signal group for coordination
-- Single scheduling tool (Calendly/When2meet)
+- Signal group for coordination
+- Single scheduling tool
 - Shared feedback document
 - No custom software, no complex systems
 
@@ -65,7 +65,7 @@ created: 2025-04-22
 ## Growth Model
 - Personal invites only (no mass marketing)
 - New members shadow one meeting before joining
-- When club reaches 16, senior members seed new club
+- When club reaches 30, senior members seed new club
 
 ## Modern Adaptations
 - Topics relevant to current work (AI, remote leadership, startup pitches)
