@@ -16,10 +16,10 @@ This is an experimental exploration using Obsidian and Flowershow to produce a s
 
 ## Colophon
 
-[Obsidian]([https://obsidian.md](https://obsidian.md/) for content management
+[Obsidian](https://obsidian.md/) for content management
 
 [Flowershow]([https://flowershow.app](https://flowershow.app/)) for content presentation
 
-[GitHub]([https://github.com](https://github.com/) for content change management
+[GitHub](https://github.com/) for content change management
 
 [Linter](https://platers.github.io/obsidian-linter/) plugin for content formatting
