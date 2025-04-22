@@ -3,22 +3,20 @@ title: Home
 date: 2025-04-22
 image: /assets/front-page.jpg
 showHero: true
-updated: 2025-04-22 12:44:15
+updated: 2025-04-22
 created: 2025-03-15
-tags:
-  - Toastmasters
-  - Club Transformation
-  - Public Speaking
+tags: [Club Transformation, Public Speaking, Toastmasters]
 category: Methodology
 description: Outlines a strategic plan and roadmap for revitalizing a Toastmasters club, detailing roles, meetings, speeches, evaluations, and international activities to enhance public speaking and leadership skills.
 ---
 
-## Contents
+# Contents
 
 - [[Modern Toastmasters Club Reboot]]
 - [[Strategic Plan for Toastmasters Club Transformation]]
 - [[Toastmasters Club Building Process Explained]]
-## Roadmap 
+
+# Roadmap
 
 - what
 - why
@@ -34,9 +32,9 @@ description: Outlines a strategic plan and roadmap for revitalizing a Toastmaste
 - district roles
 - prepared speeches
 - evaluations
-- extemporaneous speaking 
+- extemporaneous speaking
 - reports
-- education program 
-- international 
+- education program
+- international
 - contests
-- conferences 
+- conferences
