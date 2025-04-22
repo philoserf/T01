@@ -91,11 +91,13 @@ _Strategic approach to modernize while maintaining legal compliance_
 "Professionals seeking to develop modern communication and leadership skills for business environments"
 
 **Section 3 (Dues/Fees)**:
+
 - Club dues: $0 additional (International dues only)
 - New member fee: $0 additional
 - Transfer fee: $0
 
 **Section 4 (Meetings)**:
+
 - Weekly in-person meetings only
 - 90 minutes maximum
 - Consistent venue for stability
