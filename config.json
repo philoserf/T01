@@ -2,6 +2,12 @@
   "showSidebar": false,
   "nav": {
     "logo": "",
-    "title": "T01"
+    "title": "T01",
+    "links": [
+      {
+        "href": "/",
+        "name": "About"
+      }
+    ]
   }
 }
