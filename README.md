@@ -35,3 +35,5 @@ This is an experiment. It is beginning now.
 - contests
 - conferences 
 - [[Modern Toastmasters Club Reboot]]
+- [[Strategic Plan for Toastmasters Club Transformation]]
+- 
