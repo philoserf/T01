@@ -10,7 +10,7 @@ date: 2025-04-22
 
 _Strategic approach to modernize while maintaining legal compliance_
 
-# What We Must Keep (Legal Requirements)
+## What We Must Keep (Legal Requirements)
 
 1. **Minimum 20 members** for charter
 2. **Membership dues to International** must be paid
@@ -20,16 +20,16 @@ _Strategic approach to modernize while maintaining legal compliance_
 6. **Financial obligations** to Toastmasters International
 7. **Legal affiliation** with Toastmasters International and District
 
-# What We Can Transform (Using Addendum Options)
+## What We Can Transform (Using Addendum Options)
 
-## 1. Meeting Structure (Using Article IV flexibility)
+### 1. Meeting Structure (Using Article IV flexibility)
 
 - Weekly in-person meetings only for deeper connection and practice
 - Full-year officer terms for stability and consistency
 - Set meeting time to 90 minutes
 - Define "regular meetings" as including introductions, main speeches, feedback, skill sprints, and closing
 
-## 2. Officer Structure (Using Article VI flexibility)
+### 2. Officer Structure (Using Article VI flexibility)
 
 - Elect minimum required officers (3)
 - Rotate additional unofficial "coordinator" roles monthly
@@ -37,12 +37,12 @@ _Strategic approach to modernize while maintaining legal compliance_
 - VP Education can handle main speech coordination
 - Secretary can manage single document repo for all operations
 
-## 3. Membership Model
+### 3. Membership Model
 
 - Set club dues to minimum possible (Addendum Section 3)
 - Use membership composition restrictions (Addendum Section 2)
 
-## 4. Modernize Educational Approach
+### 4. Modernize Educational Approach
 
 - Use existing education programs but:
   - Focus on real-world applications
@@ -50,16 +50,16 @@ _Strategic approach to modernize while maintaining legal compliance_
   - Incorporate tech presentations
 - VP Education can customize program delivery
 
-## 5. Streamline Administration
+### 5. Streamline Administration
 
 - Use existing committees but redefine duties:
   - Executive Committee meets monthly, not weekly
   - Combine most administrative functions
   - Use modern tools for coordination
 
-# Implementation Strategy
+## Implementation Strategy
 
-## Phase 1: New Club Formation
+### Phase 1: New Club Formation
 
 1. Find 20 founding members aligned with vision
 2. Charter with minimal required structure
@@ -69,21 +69,21 @@ _Strategic approach to modernize while maintaining legal compliance_
    - Modern membership focus
    - 1-year officer terms for stability
 
-## Phase 2: Operational Transformation
+### Phase 2: Operational Transformation
 
 1. Elect minimum officers with clear mandate
 2. Establish single-doc management system
 3. Define meeting format in club procedures
 4. Create unofficial coordinator roles
 
-## Phase 3: Cultural Evolution
+### Phase 3: Cultural Evolution
 
 1. Focus education on modern skills
 2. Build reputation through quality
 3. Attract aligned members
 4. Scale through replication
 
-# Key Addendum Choices
+## Key Addendum Choices
 
 **Section 1 (Name)**: "[City] Modern Speakers"
 
@@ -107,7 +107,7 @@ None required beyond minimum
 **Section 7 (Terms)**:
 Full-year terms (July 1 - June 30) for leadership stability
 
-# Tactical Advantages
+## Tactical Advantages
 
 1. **Legal compliance** maintains charter protection
 2. **Financial efficiency** through minimal dues structure
@@ -115,7 +115,7 @@ Full-year terms (July 1 - June 30) for leadership stability
 4. **Cultural transformation** through practice not policy
 5. **Scalable model** that can replicate legally
 
-# Risk Mitigation
+## Risk Mitigation
 
 1. Maintain all required reporting to International
 2. Pay all required dues promptly
