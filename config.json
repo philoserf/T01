@@ -1,7 +1,8 @@
 {
-  "showSidebar": false,
+  "showSidebar": true,
+  "showEditLink": true,
   "nav": {
-    "logo": "",
+    "logo": "https://philoserf.com/favicon.ico",
     "title": "T01",
     "links": [
       {
