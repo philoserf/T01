@@ -4,6 +4,7 @@ description: Welcome to this experiment
 authors:
   - Mark Ayers
 date: 2025-04-22
+image: /assets/front-page.jpg
 ---
 This is an experiment. It is beginning now.
 
