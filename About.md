@@ -16,7 +16,7 @@ date: 2025-04-22
 
 [Obsidian](https://obsidian.md/) for content management
 
-[Flowershow](https://flowershow.app/)) for content presentation
+[Flowershow](https://flowershow.app/) for content presentation
 
 [GitHub](https://github.com/) for content change management
 
