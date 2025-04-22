@@ -8,6 +8,13 @@
         "href": "/",
         "name": "About"
       }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub",
+        "href": "https://github.com/philoserf"
+      }
     ]
   }
 }
