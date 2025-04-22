@@ -12,71 +12,71 @@ _A bias-toward-action design for rebuilding Toastmasters from first principles_
 
 If we were to rebuild our organization without any restrictions from Toastmasters International, drawing inspiration from how Toastmasters was established in the mid-1920s, adapted for our modern era, we might:
 
-# The Meeting Format (90 minutes max)
+## The Meeting Format (90 minutes max)
 
-## 1. Lightning Round (15 min)
+### 1. Lightning Round (15 min)
 
 - Everyone gives a 30-second update
 - No exceptions, no preparation
 - Theme: "What's on your mind?"
 
-## 2. Main Speeches (45 min)
+### 2. Main Speeches (45 min)
 
 - 3 speakers, 10-12 minutes each
 - Modern formats: pitch, demo, story, lesson
 - Speaker provides one specific feedback request
 
-## 3. Rapid Feedback (20 min)
+### 3. Rapid Feedback (20 min)
 
 - 2-minute evaluations per speech
 - Written feedback on cards (keep physical artifacts)
 - Focus on what worked + one suggestion
 
-## 4. Skill Sprint (10 min)
+### 4. Skill Sprint (10 min)
 
 - One specific skill practice
 - Examples: vocal variety, body language, storytelling
 - Everyone participates in 30-second exercises
 
-# Club Structure
+## Club Structure
 
-## Membership
+### Membership
 
 - **Minimum viable club**: 8 people
 - **Maximum**: 16 people (spawn new clubs beyond)
 - **Commitment**: 3-month seasons with clear start/end
 
-## Roles (rotate monthly, not weekly)
+### Roles (rotate monthly, not weekly)
 
 - **Host**: Runs meetings, manages time
 - **Content Lead**: Coordinates speakers, themes
 - **Growth Lead**: Handles recruitment, retention
 
-## Administration
+### Administration
 
 - Single shared doc
 - No complex officer structure
 - No dues initially (pay for space/snacks as needed)
 
-# Meeting Locations
+## Meeting Locations
 
 - Consistent venue (coffee shop, coworking space)
 - Same day/time each week
 - Physical space requirements: quiet, seats 20, allows 2-hour blocks
 
-# Growth Model
+## Growth Model
 
 - Personal invites only (no mass marketing)
 - New members shadow one meeting before joining
 - When club reaches 16, senior members seed new club
 
-# Modern Adaptations
+## Modern Adaptations
 
 - Topics relevant to current work (AI, remote leadership, startup pitches)
 - Diverse speech formats (TED-style, product demos, investor pitches)
 - Cross-pollination events with other clubs quarterly
 
-# What We Drop
+## What We Drop
 
 - Complex parliamentary procedure
 - Formal titles ("Mr. Toastmaster")
@@ -84,7 +84,7 @@ If we were to rebuild our organization without any restrictions from Toastmaster
 - Complicated award systems
 - International hierarchy
 
-# Success Metrics
+## Success Metrics
 
 - Member retention after 3 months
 - Speech improvement (self-assessed)
