@@ -1,14 +1,13 @@
 ---
-tags:
-  - Toastmasters
-  - Club Building
-  - Meetings
+tags: [Club Building, Meetings, Toastmasters]
 category: Methodology
 description: Details the ten-step process Toastmasters International uses to establish a new club, including demonstration and workshop meetings that guide potential members from introduction to club chartering.
 title: Toastmasters Club Building Process Explained
-updated: 2025-04-22 12:21:22
+updated: 2025-04-22
 created: 2025-04-22
+date: 2025-04-22
 ---
+
 The Toastmasters International standard process for establishing a new club, which typically follows their 10-meeting framework called the "Club Building Program" or "Club Demonstration Meeting Series."
 
 Here's the structured progression:
@@ -23,6 +22,3 @@ Here's the structured progression:
 8. **Workshop Meeting #3** - Further practice, prepare for charter
 9. **Workshop Meeting #4** - Final preparation before chartering
 10. **Charter Meeting** - Adopt constitution, elect officers, officially form club
-
-
-
