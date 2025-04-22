@@ -36,4 +36,4 @@ This is an experiment. It is beginning now.
 - conferences 
 - [[Modern Toastmasters Club Reboot]]
 - [[Strategic Plan for Toastmasters Club Transformation]]
-- 
+- [[Toastmasters Club Building Process Explained]]
