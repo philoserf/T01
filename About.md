@@ -8,11 +8,11 @@ description: An exploration of using Obsidian and Flowershow to create a website
 date: 2025-04-22
 ---
 
-# Technical links
+## Technical links
 
 [Website](https://flowershow.app/@philoserf/T01) | [Console](https://cloud.flowershow.app) | [Source](https://github.com/philoserf/T01)
 
-## Colophon
+### Colophon
 
 [Obsidian](https://obsidian.md/) for content management
 
