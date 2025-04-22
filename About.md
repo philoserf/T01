@@ -8,8 +8,6 @@ description: An exploration of using Obsidian and Flowershow to create a website
 date: 2025-04-22
 ---
 
-This is an experimental exploration using Obsidian and Flowershow to produce a site. We will see what it will become.
-
 # Technical links
 
 [Website](https://flowershow.app/@philoserf/T01) | [Console](https://cloud.flowershow.app) | [Source](https://github.com/philoserf/T01)
