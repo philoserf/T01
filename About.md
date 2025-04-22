@@ -12,4 +12,4 @@ This is an experimental exploration using Obsidian and Flowershow to produce a s
 
 # Technical links
 
-[Website](https://flowershow.app/@philoserf/T01) | [Console](https://cloud.flowershow.app) | [Source](https://github.com/philoserf/T010)
+[Website](https://flowershow.app/@philoserf/T01) | [Console](https://cloud.flowershow.app) | [Source](https://github.com/philoserf/T01)
