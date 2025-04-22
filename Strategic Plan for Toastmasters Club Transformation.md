@@ -25,28 +25,26 @@ created: 2025-04-22
 ## What We Can Transform (Using Addendum Options)
 
 ### 1. Meeting Structure (Using Article IV flexibility)
-- Choose weekly meetings with half-year officer terms
-- Specify "hybrid" meetings in Addendum Section 4
+- Weekly in-person meetings only for deeper connection and practice
+- Full-year officer terms for stability and consistency
 - Set meeting time to 90 minutes
-- Define "regular meetings" as including main speeches, feedback, and skill sprints
+- Define "regular meetings" as including introductions, main speeches, feedback, skill sprints, and closing
 
 ### 2. Officer Structure (Using Article VI flexibility)
 - Elect minimum required officers (3)
 - Rotate additional unofficial "coordinator" roles monthly
 - Simplify duties through Addendum Section 6
 - VP Education can handle main speech coordination
-- Secretary can manage single document for all operations
+- Secretary can manage single document repo for all operations
 
 ### 3. Membership Model
 - Set club dues to minimum possible (Addendum Section 3)
-- Use membership composition restrictions (Addendum Section 2) to focus on:
-  - "Professionals interested in modern communication skills"
-  - This allows filtering without discrimination
+- Use membership composition restrictions (Addendum Section 2) 
 
 ### 4. Modernize Educational Approach
 - Use existing education programs but:
   - Focus on real-world applications
-  - Structure around business cases
+  - Structure around modern use cases
   - Incorporate tech presentations
 - VP Education can customize program delivery
 
@@ -62,10 +60,10 @@ created: 2025-04-22
 1. Find 20 founding members aligned with vision
 2. Charter with minimal required structure
 3. Complete Addendum with modern options:
-   - Weekly meetings, hybrid format
+   - In-person meetings only for deeper connection
    - Minimal club dues
    - Modern membership focus
-   - Streamlined operations
+   - 1-year officer terms for stability
 
 ### Phase 2: Operational Transformation
 1. Elect minimum officers with clear mandate
@@ -92,15 +90,16 @@ created: 2025-04-22
 - Transfer fee: $0
 
 **Section 4 (Meetings)**: 
-- Weekly hybrid meetings
+- Weekly in-person meetings only
 - 90 minutes maximum
+- Consistent venue for stability
 - Focus on practical applications
 
 **Section 6 (Additional Officers)**: 
 None required beyond minimum
 
 **Section 7 (Terms)**: 
-Half-year terms for rapid iteration
+Full-year terms (July 1 - June 30) for leadership stability
 
 ## Tactical Advantages
 
@@ -118,4 +117,4 @@ Half-year terms for rapid iteration
 4. Build positive reputation with District leadership
 5. Share successes to influence broader change
 
-This approach creates maximum transformation while staying entirely within the legal framework of Toastmasters International.
+This approach creates maximum transformation while staying entirely within the legal framework of Toastmasters International.## Implementation Strategy
