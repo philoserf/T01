@@ -15,6 +15,16 @@
         "label": "github",
         "name": "GitHub",
         "href": "https://github.com/philoserf"
+      },
+            {
+        "label": "mastodon",
+        "name": "PKM Social",
+        "href": "https://pkm.social/@philoserf"
+      },
+      {
+        "label": "blsky",
+        "name": "Follow me on Bluesky",
+        "href": "https://philoserf.bsky.social"
       }
     ]
   }
