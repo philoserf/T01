@@ -22,3 +22,7 @@ Here's the structured progression:
 8. **Workshop Meeting #3** - Further practice, prepare for charter
 9. **Workshop Meeting #4** - Final preparation before chartering
 10. **Charter Meeting** - Adopt constitution, elect officers, officially form club
+
+---
+
+Boil this down to the intentions, expectations, and challenges. Add specifics on how to accomplish the goals. Show the quick and slow path through. Link club charter documents here. 
