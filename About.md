@@ -2,13 +2,13 @@
 tags: [Creative, Flowershow, Obsidian, Projects]
 category: Tech & Knowledge
 title: About
-updated: 2025-04-22
+updated: 2025-05-21
 created: 2025-04-22
 description: An exploration of using Obsidian and Flowershow to create a website, detailing the project's development and technical links.
 date: 2025-04-22
 ---
 
-## Technical links
+## Technical Links
 
 [Website](https://flowershow.app/@philoserf/T01) | [Console](https://cloud.flowershow.app) | [Source](https://github.com/philoserf/T01)
 
