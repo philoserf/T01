@@ -12,10 +12,10 @@ description: Outlines a strategic plan and roadmap for revitalizing a Toastmaste
 
 ## Contents
 
-- [[Exact Requirements of the Club Constitution]]
 - [[Strategic Plan for Transformation]]
 - [[Demonstration Meeting Series]]
 - [[Member States (discipline)]]
+- [[Exact Requirements of the Club Constitution]]
 - [[Essential Operational Elements and Requirements]]
 - [[Required Documents and Information for a Toastmasters Club]]
 
