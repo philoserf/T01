@@ -2,6 +2,10 @@
 title: Member graph
 date: 2025-05-21
 updated: 2025-05-21
+tags: [membership, organizational flow, voting process]
+category: Methodology
+description: Diagram outlining the membership journey and status transitions, including active, inactive, honorary, suspended, and removed states, influenced by voting decisions, misconduct, and renewal choices.
+created: 2025-05-21
 ---
 
 ```mermaid
