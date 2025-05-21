@@ -15,7 +15,7 @@ description: Outlines a strategic plan and roadmap for revitalizing a Toastmaste
 - [[Exact Requirements of the Club Constitution]]
 - [[Strategic Plan for Transformation]]
 - [[Demonstration Meeting Series]]
-- [[Member graph]]
+- [[Member States (discipline)]]
 
 ## Roadmap
 
