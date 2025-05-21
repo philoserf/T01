@@ -12,9 +12,10 @@ description: Outlines a strategic plan and roadmap for revitalizing a Toastmaste
 
 ## Contents
 
-- [[Modern Toastmasters Club Reboot]]
-- [[Strategic Plan for Toastmasters Club Transformation]]
-- [[Toastmasters Club Building Process Explained]]
+- [[Club Reimagined]]
+- [[Strategic Plan for Transformation]]
+- [[Demonstration Meeting Series]]
+- [[Exact Requirements of the Club Constitution]]
 
 ## Roadmap
 
