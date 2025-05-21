@@ -2,7 +2,7 @@
 tags: [club-design, leadership, public-speaking]
 category: Ideas & Inspiration
 description: A modern redesign of a Toastmasters club, focusing on simplified operations and modern adaptations for effective public speaking practice. The format emphasizes rapid feedback, diverse speech styles, and minimal administrative burden, fostering growth and consistent skill improvement.
-title: Modern Toastmasters Club Reboot
+title: Club Reimagined
 updated: 2025-05-21
 created: 2025-04-22
 date: 2025-04-22
@@ -12,14 +12,14 @@ _A bias-toward-action design for rebuilding Toastmasters from first principles_
 
 If we were to rebuild our organization without any restrictions from Toastmasters International, drawing inspiration from how Toastmasters was established in the mid-1920s, adapted for our modern era, we might:
 
-## Meeting format
+## Meeting Format
 
 1. Introductions (themed)
 2. Speeches
 3. Feedback
 4. Educational moment/practice
 
-## Club structure
+## Club Structure
 
 ### Membership
 
@@ -27,7 +27,7 @@ If we were to rebuild our organization without any restrictions from Toastmaster
 - **Maximum**: 16 people (spawn new clubs beyond)
 - **Commitment**: 3-month seasons with clear start/end
 
-### Roles (rotate monthly, not weekly)
+### Roles (rotate Monthly, not weekly)
 
 - **Host**: Runs meetings, manages time
 - **Content Lead**: Coordinates speakers, themes
