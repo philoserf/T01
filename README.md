@@ -1,9 +1,9 @@
 ---
-title: Home
+title: README
 date: 2025-04-22
 image: /assets/front-page.jpg
 showHero: true
-updated: 2025-04-22
+updated: 2025-05-21
 created: 2025-03-15
 tags: [Club Transformation, Public Speaking, Toastmasters]
 category: Methodology
