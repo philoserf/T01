@@ -1,5 +1,5 @@
 ---
-title: Member graph
+title: Member States (discipline)
 date: 2025-05-21
 updated: 2025-05-21
 tags: [membership, organizational flow, voting process]
@@ -7,7 +7,6 @@ category: Methodology
 description: Diagram outlining the membership journey and status transitions, including active, inactive, honorary, suspended, and removed states, influenced by voting decisions, misconduct, and renewal choices.
 created: 2025-05-21
 ---
-
 
 🛑 Suspension, Expulsion, and Non-Renewal
 
@@ -60,8 +59,6 @@ graph TD
   F -->|Reapply| A
 ```
 
-
-
 🗺️ Explanation of Transitions
 
 |                                         |                                         |
@@ -91,5 +88,3 @@ The Constitution does not define these terms precisely, so clubs may interpret t
 - Use suspension as a temporary step when resolving issues—especially if facts are in dispute.
 - Use expulsion only with due care, documentation, and procedural fairness.
 - Keep a membership standards policy on file (informal or formal), aligned with TI guidance, to justify any removal if challenged.
-
-
