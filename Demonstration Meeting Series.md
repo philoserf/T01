@@ -1,10 +1,10 @@
 ---
-tags: [Club-Building, Meetings, Toastmasters]
+tags: [club-building, meetings, toastmasters]
 category: Methodology
 description: Details the ten-step process Toastmasters International uses to establish a new club, including demonstration and workshop meetings that guide potential members from introduction to club chartering.
 title: Demonstration Meeting Series
-updated: 2025-05-21
-created: 2025-04-22
+updated: 2025-05-28
+created: 2025-05-28
 date: 2025-04-22
 ---
 
