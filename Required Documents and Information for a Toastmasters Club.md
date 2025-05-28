@@ -2,7 +2,7 @@
 title: Required Documents and Information for a Toastmasters Club
 date: 2025-05-21
 updated: 2025-05-28
-tags: [club-management, documentation, toastmasters]
+tags: [club-management, documentation]
 category: Work Thoughts
 description: Details the responsibilities and documentation required for a Toastmasters club, including charter, records, rosters, financial reports, and membership payment proof. Responsibilities are divided between the Club Secretary and the Club Treasurer, highlighting the procedures for managing and updating essential club documents.
 created: 2025-05-28

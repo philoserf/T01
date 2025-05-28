@@ -1,7 +1,7 @@
 ---
 date: 2025-05-21
 updated: 2025-05-28
-tags: [club-governance, membership-rules, toastmasters]
+tags: [club-governance, membership-rules]
 category: Methodology
 description: Details the club constitution requirements including membership rules, officer responsibilities, meeting protocols, dues collection, and adherence to Toastmasters International guidelines, with an emphasis on structured governance through regular meetings and Robert's Rules of Order.
 title: Exact Requirements of the Club Constitution
