@@ -3,18 +3,16 @@ title: README
 date: 2025-04-22
 image: /assets/front-page.jpg
 showHero: true
-updated: 2025-05-28 12:28:31
-created: 2025-05-28
-tags:
-  - club
-  - public-speaking
-  - transformation
+updated: 2025-05-28
+created: 2025-03-15
+tags: [Club, Public, Speaking, Toastmasters, Transformation]
 category: Methodology
 description: Outlines a strategic plan and roadmap for revitalizing a Toastmasters club, detailing roles, meetings, speeches, evaluations, and international activities to enhance public speaking and leadership skills.
 ---
 
 ## Contents
 
+- [[Links]]
 - [[Strategic Plan for Transformation]]
 - [[Demonstration Meeting Series]]
 - [[Member States (discipline)]]
