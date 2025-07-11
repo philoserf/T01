@@ -1,18 +1,18 @@
 ---
 title: Essential Operational Elements and Requirements
-date: 25-05-21
-updated: 25-05-28
-tags: leadership skills, oral communication, Toastmasters
+date: 2021-05-25
+updated: 2025-07-10
+tags: [leadership skills, oral communication, Toastmasters]
 category: Tech & Knowledge
 description: Outlines membership rules, meeting protocols, officer roles, and affiliations for clubs within Toastmasters International, emphasizing oral communication and leadership skills development. Additionally, it covers legal status, financial rules, and amendment procedures for club constitutions.
 created: 25-05-21
 ---
 
-## Purpose To provide a mutually supportive and positive learning environment for members to develop oral communication and leadership skills.
+Purpose: To provide a Mutually Supportive and Positive Learning Environment for Members to Develop Oral Communication and Leadership Skills
 
 ## Membership
 
-- Individuals must be at least  years old.
+- Individuals must be at least years old.
 - Membership is by invitation only.
 - Admission requires a favorable vote of at least a majority of active individual members present and voting at a business meeting.
 - Membership classifications include active, inactive, and honorary. Active members have voting privileges, can hold office, and are counted towards a quorum. Inactive and honorary members have limitations on privileges.
