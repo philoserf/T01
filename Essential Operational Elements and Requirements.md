@@ -1,11 +1,10 @@
 ---
 title: Essential Operational Elements and Requirements
 date: 2021-05-25
-updated: 2025-07-10
-tags: [leadership skills, oral communication, Toastmasters]
-category: Tech & Knowledge
+updated: 2025-07-10 22:39:48
 description: Outlines membership rules, meeting protocols, officer roles, and affiliations for clubs within Toastmasters International, emphasizing oral communication and leadership skills development. Additionally, it covers legal status, financial rules, and amendment procedures for club constitutions.
-created: 25-05-21
+created: 2025-05-21
+category: Methodology
 ---
 
 Purpose: To provide a Mutually Supportive and Positive Learning Environment for Members to Develop Oral Communication and Leadership Skills
