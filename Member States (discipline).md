@@ -2,13 +2,13 @@
 title: Member States (discipline)
 date: 2025-05-21
 updated: 2025-05-28
-tags: [membership, organizational-flow, voting-process]
+tags: [membership, organizational flow, voting process]
 category: Methodology
 description: Diagram outlining the membership journey and status transitions, including active, inactive, honorary, suspended, and removed states, influenced by voting decisions, misconduct, and renewal choices.
-created: 2025-05-28
+created: 2025-05-21
 ---
 
-Suspension, Expulsion, and Non-Renewal
+🛑 Suspension, Expulsion, and Non-Renewal
 
 Under Article II, §6, clubs have explicit authority to:
 
@@ -19,7 +19,7 @@ Under Article II, §6, clubs have explicit authority to:
 
 This authority is broad but bounded by some conditions.
 
-Grounds for Action
+🔹 Grounds for Action
 
 A club may take action against a member who:
 
@@ -29,19 +29,19 @@ A club may take action against a member who:
 4. Acts against the ethical or behavioral standards set by the club or by Toastmasters International (including those in Policy and Protocol documents),
 5. Commits any other "just cause" determined by the club.
 
-Important: If the TI International President formally requests that a club expel a member for violating TI standards—and the club refuses—the club itself may be expelled from Toastmasters unless it can justify its decision to the Board.
+⚠️ Important: If the TI International President formally requests that a club expel a member for violating TI standards—and the club refuses—the club itself may be expelled from Toastmasters unless it can justify its decision to the Board.
 
-Club Responsibilities in Taking Action
+🔹 Club Responsibilities in Taking Action
 
 - The Constitution doesn't mandate a specific disciplinary process, but the club may establish its own routine procedures.
 - This includes automatic removal for nonpayment or prolonged absence.
 - Any such procedures must comply with TI's Policy and Protocol if one exists.
 
-Membership State Model
+🔁 Membership State Model
 
 Let's now map all possible member states and transitions, based on the Constitution.
 
-Membership States
+🧭 Membership States
 
 ```mermaid
 graph TD
@@ -59,7 +59,7 @@ graph TD
   F -->|Reapply| A
 ```
 
-Explanation of Transitions
+🗺️ Explanation of Transitions
 
 |                                         |                                         |
 | --------------------------------------- | --------------------------------------- |
@@ -76,11 +76,11 @@ Explanation of Transitions
 
 The Constitution does not define these terms precisely, so clubs may interpret them as:
 
-|           |                                                                     |                                      |
-| --------- | ------------------------------------------------------------------- | ------------------------------------ |
-| Status    | Effect                                                              | Reinstatement                        |
-| Suspended | Temporarily removed from rights/privileges; possibly still on rolls | May be reinstated without reapplying |
-| Expelled  | Removed from membership entirely                                    | Must reapply and be voted in again   |
+|   |   |   |
+|---|---|---|
+|Status|Effect|Reinstatement|
+|Suspended|Temporarily removed from rights/privileges; possibly still on rolls|May be reinstated without reapplying|
+|Expelled|Removed from membership entirely|Must reapply and be voted in again|
 
 ✅ Strategic Implications for Clubs
 
