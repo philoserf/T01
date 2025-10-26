@@ -76,11 +76,11 @@ graph TD
 
 The Constitution does not define these terms precisely, so clubs may interpret them as:
 
-|   |   |   |
-|---|---|---|
-|Status|Effect|Reinstatement|
-|Suspended|Temporarily removed from rights/privileges; possibly still on rolls|May be reinstated without reapplying|
-|Expelled|Removed from membership entirely|Must reapply and be voted in again|
+|           |                                                                     |                                      |
+| --------- | ------------------------------------------------------------------- | ------------------------------------ |
+| Status    | Effect                                                              | Reinstatement                        |
+| Suspended | Temporarily removed from rights/privileges; possibly still on rolls | May be reinstated without reapplying |
+| Expelled  | Removed from membership entirely                                    | Must reapply and be voted in again   |
 
 ✅ Strategic Implications for Clubs
 

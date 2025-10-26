@@ -26,10 +26,10 @@ Purpose: To provide a Mutually Supportive and Positive Learning Environment for 
 
 ## Quorum and Voting
 
- - A majority of active individual members constitutes a quorum for club business.
- - Each active individual member has one vote.
- - Proxy or absentee voting is not permitted.
- - Unless a greater vote is required, a majority vote of active members present and voting at a duly held business meeting with a quorum is the act of the club.
+- A majority of active individual members constitutes a quorum for club business.
+- Each active individual member has one vote.
+- Proxy or absentee voting is not permitted.
+- Unless a greater vote is required, a majority vote of active members present and voting at a duly held business meeting with a quorum is the act of the club.
 
 ## Officers
 
