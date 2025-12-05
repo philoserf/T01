@@ -22,23 +22,17 @@ description: Outlines a strategic plan and roadmap for revitalizing a Toastmaste
 
 ## Roadmap
 
-- what
-- why
-- when
-- who
-- how
-- club
-- district
-- region
-- meetings
-- meeting roles
-- club roles
-- district roles
-- prepared speeches
-- evaluations
-- extemporaneous speaking
-- reports
-- education program
-- international
-- contests
-- conferences
+This transformation plan addresses the following key areas:
+
+- **What & Why** - [[Strategic Plan for Transformation|Strategic rationale]] for modernizing while maintaining legal compliance
+- **Who** - [[Member States (discipline)|Member management]] and roles
+- **When & How** - [[Demonstration Meeting Series|Implementation timeline]] and meeting structure
+- **Club Operations** - [[Essential Operational Elements and Requirements|Core requirements]] and [[Required Documents and Information for a Toastmasters Club|documentation]]
+- **Legal Framework** - [[Exact Requirements of the Club Constitution|Constitutional compliance]]
+- **Key Elements**
+  - Meeting roles and club leadership structure
+  - Prepared speeches and evaluations
+  - Extemporaneous speaking practice
+  - Education program alignment
+  - District, region, and international requirements
+  - Contests and conferences participation

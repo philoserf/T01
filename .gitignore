@@ -1,2 +1,18 @@
+# Plugin data that may contain sensitive information (tokens, credentials)
 .obsidian/plugins/flowershow/data.json
 .obsidian/plugins/exmemo-tools/data.json
+
+# Obsidian workspace (local settings)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# Obsidian trash
+.trash/
+
+# Temporary files
+*.tmp
+*~
