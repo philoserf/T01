@@ -1,12 +1,9 @@
 ---
-tags:
-  - Legal-Compliance
-  - Toastmasters
-  - Transformation
+tags: [Legal-Compliance, Toastmasters, Transformation]
 category: Work Thoughts
 description: The article outlines a strategic plan for transforming Toastmasters clubs while ensuring legal compliance. Key areas of transformation include modernizing meeting and officer structures, adopting a modern membership model, and streamlining administrative processes, with a focus on practical skills and scalable operations.
 title: Strategic Plan for Transformation
-updated: 2025-05-28 11:48:23
+updated: 2025-12-05
 created: 2025-04-22
 date: 2025-04-22
 ---

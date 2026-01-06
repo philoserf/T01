@@ -1,8 +1,14 @@
-# CLAUDE.md
+---
+title: CLAUDE
+date: 2025-10-26
+updated: 2025-12-05
+---
+
+## CLAUDE.md
 
 This file provides guidance to Claude Code (<https://claude.ai/code>) when working with code in this repository.
 
-## Project Overview
+### Project Overview
 
 T01 is an Obsidian vault documenting a strategic plan for transforming a Toastmasters club. The content is published as a website using Flowershow (<https://flowershow.app/@philoserf/T01>).
 
@@ -13,9 +19,9 @@ The repository focuses on:
 - Meeting structures and demonstration series
 - Member management and club operations
 
-## Content Management
+### Content Management
 
-### Obsidian-Specific
+#### Obsidian-Specific
 
 This is an Obsidian vault with specific plugins and configurations:
 
@@ -23,7 +29,7 @@ This is an Obsidian vault with specific plugins and configurations:
 - **Flowershow Plugin**: Publishes content to the web (repo: philoserf/T01)
 - **Navigation**: Uses Obsidian wikilinks (`[[Page Name]]`) for internal navigation
 
-### Frontmatter Requirements
+#### Frontmatter Requirements
 
 All markdown files MUST include YAML frontmatter with these fields:
 
@@ -48,7 +54,7 @@ description: Brief description
 - Arrays are sorted alphabetically by Linter
 - YAML keys are sorted with priority keys first
 
-### Linter Formatting Rules
+#### Linter Formatting Rules
 
 The Obsidian Linter plugin enforces strict formatting. Key rules:
 
@@ -78,7 +84,7 @@ The Obsidian Linter plugin enforces strict formatting. Key rules:
 - Emphasis with `_underscores_`
 - Strong with `**asterisks**`
 - No bare URLs (must be in markdown link format)
-- Proper ellipsis (`…` not `...`)
+- Proper ellipsis (`…` not `…`)
 - Smart quotes enabled
 - Trailing spaces removed
 - Line break at document end
@@ -89,7 +95,7 @@ The Obsidian Linter plugin enforces strict formatting. Key rules:
 - Empty line around blockquotes, code fences, tables, math blocks
 - No multiple spaces
 
-### Git Workflow
+#### Git Workflow
 
 The repository uses a simple git workflow:
 
@@ -100,9 +106,9 @@ The repository uses a simple git workflow:
 
 **Note:** The Flowershow plugin data contains a GitHub token - this file should never be committed or shared.
 
-## Content Structure
+### Content Structure
 
-### Core Documents
+#### Core Documents
 
 - `README.md`: Index page with links to all main documents
 - `About.md`: Technical background and colophon
@@ -114,7 +120,7 @@ The repository uses a simple git workflow:
 - `Essential Operational Elements and Requirements.md`: Operations guide
 - `Required Documents and Information for a Toastmasters Club.md`: Documentation requirements
 
-### Website Configuration
+#### Website Configuration
 
 `config.json` defines Flowershow website settings:
 
@@ -123,7 +129,7 @@ The repository uses a simple git workflow:
 - Logo and branding
 - Edit link visibility
 
-## Editing Guidelines
+### Editing Guidelines
 
 When editing markdown files:
 
@@ -135,7 +141,7 @@ When editing markdown files:
 6. Ensure blank line after frontmatter
 7. Start content headings at H2 level
 
-## Publishing
+### Publishing
 
 Content is automatically published via:
 

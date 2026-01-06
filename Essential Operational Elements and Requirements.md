@@ -1,7 +1,7 @@
 ---
 title: Essential Operational Elements and Requirements
 date: 2021-05-25
-updated: 2025-07-10 22:39:48
+updated: 2025-12-05
 description: Outlines membership rules, meeting protocols, officer roles, and affiliations for clubs within Toastmasters International, emphasizing oral communication and leadership skills development. Additionally, it covers legal status, financial rules, and amendment procedures for club constitutions.
 created: 2025-05-21
 category: Methodology

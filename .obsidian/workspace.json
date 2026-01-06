@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30abb3af4ad9e975",
+        "id": "43c34ee17639d3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d81a7e64077303",
+            "id": "e597f40f6933e914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Member States (discipline).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Member States (discipline)"
             }
           }
         ]
@@ -84,10 +84,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Member States (discipline).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Member States (discipline)"
             }
           },
           {
@@ -156,10 +156,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -167,19 +169,19 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "f2d81a7e64077303",
+  "active": "e597f40f6933e914",
   "lastOpenFiles": [
-    "Strategic Plan for Transformation.md",
     "README.md",
-    "Links.md",
-    "Required Documents and Information for a Toastmasters Club.md",
-    "Exact Requirements of the Club Constitution.md",
-    "Demonstration Meeting Series.md",
-    "Member States (discipline).md",
-    "Essential Operational Elements and Requirements.md",
     "About.md",
-    "assets/101-your-path-to-leadership-A4-ff.pdf",
+    "Strategic Plan for Transformation.md",
+    "Required Documents and Information for a Toastmasters Club.md",
+    "Member States (discipline).md",
+    "Links.md",
+    "Exact Requirements of the Club Constitution.md",
+    "Essential Operational Elements and Requirements.md",
+    "Demonstration Meeting Series.md",
     "CLAUDE.md",
+    "assets/101-your-path-to-leadership-A4-ff.pdf",
     "Club Success Plan Template.md",
     "assets/Club Sponsor Role 218h-powerpoint.key",
     "assets/Urls.pdf",

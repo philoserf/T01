@@ -1,57 +1,25 @@
-.digital-garden-publish-status-view ul {
-  list-style-type: none;
-  position: relative;
-  margin-left: 5px;
-  margin-top: 0;
-  max-height: 250px;
-  overflow: auto;
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+*/
+
+/* Reapplies Mui styles that get overriden by Obsidian styles */
+.modal-content input[type=checkbox] {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
 }
 
-.digital-garden-publish-status-view .progress-container {
-  height: 33px;
-}
-
-.digital-garden-publish-status-view .header-container {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 10px;
-  align-items: center;
-}
-
-.digital-garden-publish-status-view .title-container {
-  display: flex;
-  align-items: center;
-}
-
-.digital-garden-publish-status-view .title-container .collapsable {
-  margin: 20px 10px;
-}
-
-.digital-garden-publish-status-view .count {
-  margin-left: 10px;
-}
-
-.digital-garden-publish-status-view h2 {
-  margin-top: 0;
-  margin-bottom: 5px;
-}
-
-.digital-garden-publish-status-view .collapsable {
-  cursor: pointer;
-  margin-left: 10px;
-}
-
-.dg-settings > h1,
-h2,
-h3,
-h4 {
-  margin-top: 40px;
-}
-
-.dg-settings .svg-icon {
-  margin-right: 10px;
-}
-
-.pr-link {
-  margin-bottom: 10px;
+.MuiCheckbox-root .MuiSvgIcon-root {
+  color: var(--text-faint)
 }
