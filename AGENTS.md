@@ -1,28 +1,29 @@
 ---
 title: AGENTS
 date: 2025-10-26
-updated: 2025-12-05
+updated: 2026-02-05
 ---
 
 ## Project Overview
 
 T01 is an Obsidian vault for Toastmasters club transformation, published via Flowershow.
 
-## Frontmatter Requirements
+## Architecture
 
-All markdown files MUST include:
+Obsidian vault → Linter (on save) → Flowershow plugin → GitHub → Flowershow cloud
 
-```yaml
----
-title: Page Title
-date: YYYY-MM-DD
-updated: YYYY-MM-DD
-created: YYYY-MM-DD
-tags: [tag1, tag2]
-category: Category Name
-description: Brief description
----
+## Content Structure
+
+- All markdown content lives flat in the root directory
+- Images go in `assets/`
+
+## Commands
+
+```bash
+bunx prettier --write <file>   # format markdown
 ```
+
+## Frontmatter Requirements
 
 Frontmatter is auto-managed by Obsidian Linter on save.
 
@@ -45,8 +46,14 @@ Frontmatter is auto-managed by Obsidian Linter on save.
 - Single space after list markers
 - Blank lines before/after headings, code blocks, tables
 
+## Key Configuration
+
+- `config.json` — Flowershow site config (nav, sidebar, edit link)
+
 ## Publishing
 
-Content auto-publishes via Obsidian Flowershow plugin → GitHub → Flowershow cloud
+Content auto-publishes via Obsidian Flowershow plugin → GitHub → Flowershow cloud.
 
-**Note:** Flowershow plugin data contains GitHub token—never commit or share.
+**Sensitive files — never commit or share:**
+
+- `.obsidian/plugins/flowershow/data.json` (contains GitHub token)

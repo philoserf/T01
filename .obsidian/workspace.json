@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Member States (discipline).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Member States (discipline)"
+              "title": "README"
             }
           }
         ]
@@ -161,21 +161,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flowershow:Publish with Flowershow": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "flowershow:Publish with Flowershow": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e597f40f6933e914",
   "lastOpenFiles": [
+    "Member States (discipline).md",
     "README.md",
     "About.md",
     "Strategic Plan for Transformation.md",
     "Required Documents and Information for a Toastmasters Club.md",
-    "Member States (discipline).md",
     "Links.md",
     "Exact Requirements of the Club Constitution.md",
     "Essential Operational Elements and Requirements.md",
