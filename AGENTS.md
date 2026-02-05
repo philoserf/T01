@@ -10,7 +10,7 @@ T01 is an Obsidian vault for Toastmasters club transformation, published via Flo
 
 ## Architecture
 
-Obsidian vault → Linter (on save) → Flowershow plugin → GitHub → Flowershow cloud
+Obsidian vault → Linter (on save) → git push → GitHub → Flowershow cloud
 
 ## Content Structure
 
@@ -52,8 +52,4 @@ Frontmatter is auto-managed by Obsidian Linter on save.
 
 ## Publishing
 
-Content auto-publishes via Obsidian Flowershow plugin → GitHub → Flowershow cloud.
-
-**Sensitive files — never commit or share:**
-
-- `.obsidian/plugins/flowershow/data.json` (contains GitHub token)
+Content auto-publishes when pushed to GitHub → Flowershow cloud.
