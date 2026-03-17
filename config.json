@@ -3,23 +3,12 @@
   "showEditLink": true,
   "nav": {
     "logo": "https://philoserf.com/favicon.ico",
-    "title": "T01",
-    "links": [
-      {
-        "href": "/About",
-        "name": "About"
-      }
-    ],
+    "title": "Testing 1..2..3",
     "social": [
       {
         "label": "mastodon",
         "name": "Follow me on Mastodon",
         "href": "https://pkm.social/@philoserf"
-      },
-      {
-        "label": "blsky",
-        "name": "Follow me on Bluesky",
-        "href": "https://philoserf.bsky.social"
       }
     ]
   }
