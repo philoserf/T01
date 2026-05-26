@@ -25,7 +25,3 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 ## Backlog
 
 The next concrete step for this repo lives in `../NEXT.md` at the workspace root (one row per repo). Read the T01 row when starting work; update it when that step ships. If no T01 row exists yet, add one.
-
-## State note
-
-The repo was recently restarted (see commits `7946fb9`, `16e0c49`). Earlier scaffolding — `config.json` for Flowershow site chrome, `.github/settings.yml` distributed via [probot/settings](https://github.com/repository-settings/app) — is not currently present. If reintroduced, `config.json` follows Flowershow's schema (nav, social links, sidebar), and repo metadata changes belong in `.github/settings.yml` rather than the GitHub UI (the UI edits get overwritten).
