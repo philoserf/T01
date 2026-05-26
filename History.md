@@ -9,3 +9,4 @@ Scottish origins, the American game's arc, public-course history, and the long l
 - [[Early American Golf's Decline]]
 - [[History of Public Golf in America]]
 - [[Golf Equipment Historical Eras]]
+- [[American Golf Writing, 1950–1970]]
