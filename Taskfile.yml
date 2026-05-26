@@ -1,0 +1,16 @@
+version: "3"
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - task --list
+
+  fmt:
+    desc: Format markdown with prettier
+    cmds:
+      - prettier --list-different --ignore-unknown --ignore-path .ignore --write .
+
+  check:
+    desc: Run all formatting checks
+    deps: [fmt]

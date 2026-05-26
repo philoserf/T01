@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "a0453a103f182d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ae9a9dd81e0746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb784360e99fac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c2f2e893ac9fa92",
+    "type": "split",
+    "children": [
+      {
+        "id": "780d494c83041788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ea3c0127227343",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a26c411ab4a3dbb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e00a996ba435bf4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2fa88273c5afda7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0d4889f812a56e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e69595d069c445b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "767c544f6df64ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "8a52eea262f7150c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4188f50e463df0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "497c10317151dec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "flowershow:Publish with Flowershow": false,
+      "zenmode:Toggle zen mode": false,
+      "recent-notes:Recent notes": false
+    }
+  },
+  "active": "cbb784360e99fac4",
+  "lastOpenFiles": [
+    "Walkable Public Golf Courses Ranked.md",
+    "Tom Doak Course Chronology.md",
+    "Taskfile.yml",
+    "Scottish Golf in the Regency Era.md",
+    "Recovering Golf's Original Orientation.md",
+    "Modernization's Corruption of Golf.md",
+    "Minimalist Golf Architecture School.md",
+    "Michigan's Top Golf Courses.md",
+    "Michigan Golf Terrain.md",
+    "Links-Style Golf Courses.md",
+    "History.md",
+    "History of Public Golf in America.md",
+    "Hickory Golf Starter Guide.md",
+    "Hickory Golf Resources Directory.md",
+    "Hickory Era.md",
+    "Hickory Era Golf Club Names.md",
+    "Hickory Era American Golf.md",
+    "Hanse Golf Course Design Portfolio.md",
+    "Golf's Original Constraints.md",
+    "Golf Rules History 1830s to Hickory Era.md",
+    "Golf Equipment Historical Eras.md",
+    "Golf Course Design Principles.md",
+    "Golden Age Walking Courses Near Grand Rapids.md",
+    "Game Philosophy.md",
+    "Enemies of Golf.md",
+    "Early American Golf's Decline.md",
+    "Dream Golf & Cabot Portfolio.md"
+  ]
+}

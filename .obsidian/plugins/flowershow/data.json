@@ -1,0 +1,11 @@
+{
+  "flowershowToken": "fs_pat_3Edk-bRenwQF6AQiBuAvHhvYOgdxCM0VIAzVF_dijdA",
+  "siteName": "T01",
+  "rootDir": "",
+  "excludePatterns": [
+    "LICENSE.md",
+    "CONTENT-LICENSE.md",
+    "CLAUDE.md"
+  ],
+  "lastSeenVersion": ""
+}
