@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-A [Flowershow](https://flowershow.app) digital garden, hosted at <https://t01-philoserf.flowershow.me>. Content-only — Flowershow renders the markdown from its hosted side; pushing to `main` is the "deploy."
+A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. Content-only — Flowershow renders the markdown from its hosted side; pushing to `main` is the "deploy."
 
 ## Commands
 

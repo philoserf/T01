@@ -1,0 +1,18 @@
+{
+  "title": "Notes of the C&RBGC",
+  "description": "Notes on golf — its history, its architects, its courses, and especially the walking, hickory-era version of the game.",
+  "favicon": "⛳",
+  "nav": {
+    "title": "Notes of the C&RBGC",
+    "links": [
+      { "href": "/Hickory Era", "name": "Hickory Era" },
+      { "href": "/Course Architecture", "name": "Course Architecture" },
+      { "href": "/Courses to Play", "name": "Courses to Play" },
+      { "href": "/Game Philosophy", "name": "Game Philosophy" },
+      { "href": "/History", "name": "History" },
+      { "href": "https://crbgc.org", "name": "Club" }
+    ]
+  },
+  "showSidebar": true,
+  "showEditLink": false
+}
