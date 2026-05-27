@@ -1,5 +1,4 @@
 ---
-title: C&RBGC Notes
 date: 2026-05-26
 showHero: false
 ---
