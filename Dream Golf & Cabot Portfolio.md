@@ -9,24 +9,24 @@ Dream Golf properties (Keiser family, wholly owned):
 
 Bandon Dunes Golf Resort, Bandon, Oregon (1999):
 
-    •	Bandon Dunes, 1999, David McLay Kidd
-    •	Pacific Dunes, 2001, Tom Doak
-    •	Bandon Trails, 2005, Coore & Crenshaw
-    •	Old Macdonald, 2010, Doak & Jim Urbina
-    •	Bandon Preserve, 13-hole par-3, 2012, Coore & Crenshaw
-    •	Punchbowl, putting course, 2014, Doak & Urbina
-    •	Sheep Ranch, 2020, Coore & Crenshaw (rebuilt from a 13-hole Doak original)
-    •	Shorty’s, 19-hole par-3, 2024, Rod Whitman / Dave Axland / Keith Cutten
-    •	Charlotte’s, 9-hole par-3 practice course
+• Bandon Dunes, 1999, David McLay Kidd
+• Pacific Dunes, 2001, Tom Doak
+• Bandon Trails, 2005, Coore & Crenshaw
+• Old Macdonald, 2010, Doak & Jim Urbina
+• Bandon Preserve, 13-hole par-3, 2012, Coore & Crenshaw
+• Punchbowl, putting course, 2014, Doak & Urbina
+• Sheep Ranch, 2020, Coore & Crenshaw (rebuilt from a 13-hole Doak original)
+• Shorty’s, 19-hole par-3, 2024, Rod Whitman / Dave Axland / Keith Cutten
+• Charlotte’s, 9-hole par-3 practice course
 
 Sand Valley, Nekoosa, Wisconsin (2017):
 
-    •	Sand Valley, 2017, Coore & Crenshaw
-    •	The Sandbox, 17-hole par-3, 2018, Coore & Crenshaw
-    •	Mammoth Dunes, 2018, David McLay Kidd
-    •	The Lido, 2022 private opening with limited resort access, Tom Doak (recreation of the lost 1914 C.B. Macdonald course)
-    •	Sedge Valley, 2024, Tom Doak
-    •	The Commons, 12-hole, 2026, Jim Craig (based on the early Prestwick routing)
+• Sand Valley, 2017, Coore & Crenshaw
+• The Sandbox, 17-hole par-3, 2018, Coore & Crenshaw
+• Mammoth Dunes, 2018, David McLay Kidd
+• The Lido, 2022 private opening with limited resort access, Tom Doak (recreation of the lost 1914 C.B. Macdonald course)
+• Sedge Valley, 2024, Tom Doak
+• The Commons, 12-hole, 2026, Jim Craig (based on the early Prestwick routing)
 
 Rodeo Dunes, Hudson, Colorado (announced 2023, in construction; ~50 miles east of Denver on the Cervi family's sand-hills cattle ranch). First two 18-hole courses by Coore & Crenshaw and Tom Doak, with a short course and additional layouts planned; preview play targeted for 2026.
 
@@ -40,25 +40,25 @@ The Cabot Collection (Keiser co-owns with Ben Cowan-Dewar; separate operating co
 
 Cabot Cape Breton, Inverness, Nova Scotia:
 
-    •	Cabot Links, 2012, Rod Whitman
-    •	Cabot Cliffs, 2015, Coore & Crenshaw
-    •	The Nest, 10-hole par-3, 2022, Whitman/Axland/Cutten
+• Cabot Links, 2012, Rod Whitman
+• Cabot Cliffs, 2015, Coore & Crenshaw
+• The Nest, 10-hole par-3, 2022, Whitman/Axland/Cutten
 
 Cabot Saint Lucia, Cap Estate, Saint Lucia:
 
-    •	Point Hardy Golf Club, 2023, Coore & Crenshaw
+• Point Hardy Golf Club, 2023, Coore & Crenshaw
 
 Cabot Highlands, Inverness, Scotland (acquired 2022; previously Castle Stuart):
 
-    •	Castle Stuart, 2009, Mark Parsinen & Gil Hanse (predates Cabot ownership)
-    •	Old Petty, 2026, Doak with Clyde Johnson
+• Castle Stuart, 2009, Mark Parsinen & Gil Hanse (predates Cabot ownership)
+• Old Petty, 2026, Doak with Clyde Johnson
 
 Cabot Citrus Farms, Brooksville, Florida (acquired 2022; formerly World Woods):
 
-    •	Karoo (Kyle Franz redesign of Pine Barrens)
-    •	Roost (Mike Nuzzo & Ran Morrissett redesign of Rolling Oaks)
-    •	Squeeze, 11-hole short course
-    •	The Wedge, 9-hole par-3
+• Karoo (Kyle Franz redesign of Pine Barrens)
+• Roost (Mike Nuzzo & Ran Morrissett redesign of Rolling Oaks)
+• Squeeze, 11-hole short course
+• The Wedge, 9-hole par-3
 
 Cabot Revelstoke, British Columbia (in development): Rod Whitman 18-hole on Mt. Mackenzie.
 
@@ -68,8 +68,8 @@ Other Keiser involvements outside Dream Golf and Cabot, often called the "Keiser
 
 Barnbougle, Bridport, Tasmania (Richard Sattler property; Keiser as early investor and advisor):
 
-    •	Barnbougle Dunes, 2004, Doak with Mike Clayton
-    •	Barnbougle Lost Farm, 2010, Coore & Crenshaw
-    •	Bougle Run, 14-hole short course, 2023, Bill Coore
+• Barnbougle Dunes, 2004, Doak with Mike Clayton
+• Barnbougle Lost Farm, 2010, Coore & Crenshaw
+• Bougle Run, 14-hole short course, 2023, Bill Coore
 
 Not part of the Keiser portfolio, despite often being grouped with it: Streamsong (Florida; developed by The Mosaic Company), Tara Iti and Te Arai Links (New Zealand; Ric Kayne's Tara Iti Investments), and Sand Hills in Nebraska (Dick Youngscap), all of which are stylistic siblings rather than Bandon-team builds.
