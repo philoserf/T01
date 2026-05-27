@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. Content-only — Flowershow renders the markdown from its hosted side; pushing to `main` is the "deploy."
 
+## Related: the club site
+
+The club's formal/governance site (bylaws, minutes, notices, news) lives in the sibling repo `../crbgc/` ([philoserf/crbgc](https://github.com/philoserf/crbgc)) and publishes via Hugo to <https://crbgc.org>. This repo (`T01/`) is the personal/editorial side — essays, history surveys, course architecture writing. Keep the split clean: prose and notes here, governance and official records there.
+
 ## Commands
 
 ```bash
