@@ -1,24 +1,45 @@
-##### Crail is a small fishing village in Fife, about 10 miles (16km) south of St Andrews. Apparently, Crail played the sea alongside the course as a lateral water hazard. Loose impediments may only be moved when playing with a 'timber' club, but not with an iron. A Mutchken is an old Scottish measure equivalent to approximately ¾ pint (425 ml).
+##### Read the history of the Burgess Golf Society. To preserve the ground around the hole, digging for tee-sand is prevented within ten yards. Following a dispute, a new resolution in 1807 emphasising that this club will follow the 'Leith system', that is, in stroke play no stymies are to be played. Read more about this here.
 
 
   
   
-**
 
-## Regulations enacted for the Good Government of Crail Golfing Society 23 Feby, 1786
+## RULES TO BE OBSERVED AT THE GAME OF GOLF APPROVED OF BY EDINBURGH BURGESS GOLFING SOCIETY, 2 July 1802
 
   
 
-That all Balls are to be teed within three club lengths of the Hole.
+1\. That in order to preserve the holes no golfer or cadie shall be allowed to make any tee within ten yards of the hole and no ball shall be teed nearer the hole than two club-lengths nor farther from it than four.
 
-That if one Ball shall lie within the full sea mark it shall be in the option of the party either to play his Ball as it shall lie, or take it out, lose a stroke, and tee it on the Green.
+2\. That in case two or more parties meet at the hole the party who plays first to be allowed to play their second strokes before the party who plays after them shall be allowed to strike off their first balls, and if the first party’s ball be in a hazard the said party shall stand aside till the second passes them.
 
-That the party to play must declare before he removes any Stones whether he is to play as his Ball shall lie or take it out and lose a stroke.
+3\. That to prevent disputes in the game the ball shall be played in whatever situation it lies except when in the tract or half its depth in water, when the player shall drop the ball behind and play it with an iron.
 
-That the Party to play may remove stones or other Break clubs when he is to play with a Timber club; but if he is to play with an iron club no incumbrances are to be removed, except only in the case of putting, when the party to play shall have liberty to use what club he chuses and remove incumbrances.
+4\. That a lost ball shall be held and considered a lost hole.
 
-That three rounds of the Links shall decide all matches, except the parties shall have previously agreed to go more or less, and in the case of an equality that one hole or one round more as the parties shall agree must be played to determine the Match, and in case any one of the parties refuses to play such hole or round he must pay the fines of the Match.
+5\. That if any golfer shall be at a loss to know his own ball from his opponent’s he shall not lift any of the balls till they agree.
 
-No sand is to be taken out of any hole except the play holes under the penalty of one [mutchken](#mutchken) of punch, every member to be answerable for his caddie. It is also enacted that no Member is to break the ground on the teeing of his ball from the hole either with the shaft of his club or any other instrument whatever under the above penalty.
+6\. That if a ball shall be so played as to stick fast in the ground, the said ball shall be loosened by the opposite party to the owner of the ball so fastened.
 
-**
+  
+
+---
+
+REGULATIONS (approved on 2 May 1807) to be observed in playing for the gold medal  
+proposed to be annually given by the EDINBURGH BURGESS GOLFING SOCIETY  
+but which was abandoned owing to a dispute, after being played for in the year 1807
+
+1\. That the Medal be of gold, and of the value of three guineas, bear on one side the arms and motto of the club, on the other the name of the winner and the date when and the number of strokes by which it was won.
+
+2\. That the medal be played for on the first Saturday of May annually, and the player holing two rounds at the fewest number of strokes is to be the winner; such winner never being allowed to play for a medal again, till every member standing on the roll entitled to play shall have gained one.
+
+3\. That the competitors play in single parties and each party to have a marker.
+
+4\. That a player may at any time lift his ball upon losing a stroke, and dropping it over his shoulder behind the hazard.
+
+  
+
+1\. That the system to be observed is *not* the Brunonian, but expressly the Leith system, lifting the opponent’s ball if it should in any way obstruct playing to the hole.
+
+2\. That if a ball goes into the whins or is lost, in playing through the Green, the striker goes to the place from whence he struck, drops the ball if it is found, or in case it is lost, another, over his shoulder and loses a stroke.
+
+3\. If playing the cross hole, the ball flies into the Park, it is in the striker’s option, either to play the ball out of the Park, or return to the place he struck from and again tee his ball, in which last event both strokes count. The above rules and explanations only apply when playing annually for the medal.
