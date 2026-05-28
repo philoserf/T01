@@ -1,35 +1,43 @@
-##### Rules of the Musselburgh Club, said to have been instituted in 1744. Now Royal Musselburgh. Musselburgh is where the HCEG moved to when the Leith links became untenable in 1836. Uniquely among clubs at this time, there was no relief at all from balls closer than six inches to each other.
+##### A recognisable modern idea is relief from what we would now call a hole made by a greenkeeper. Free relief for a ball in water, going against contemporary codes. No loss of distance for a lost ball. Montrose is about half way between Aberdeen and St Andrews on the east coast of Scotland.
 
 
   
   
 
-## RULES TO BE OBSERVED BY THE MUSSELBURGH GOLF CLUB,
+## RULES OF THE GAME OF GOLF ESTABLISHED BY THE MONTROSE GOLF CLUB, APRIL 1830
 
-1st. The Game to be commenced at the hole opposite the distance post, to be proceeded with Eastward, and the present round of seven holes to be completed.
+  
 
-2d. The Ball shall not be teed nearer the hole than two club lengths, nor farther from it than four, and the tee shall not be behind the hole. The green shall not be dug up for a tee, nor shall turf, sand, or clay be taken from any part of it, within ten yards of the hole.
+I. The Ball must be teed not nearer the hole than two Club-lengths, nor further from it than four; and the tee must be on the ground.
 
-3d. The ball which is struck off the tee shall not be changed before the hole is played out.
+II. The Ball farthest from the hole, after being struck from the tee, must be first played.
 
-4th. The ball farthest from the hole to which the party are proceeding, shall always be played first.
+III. The Ball struck from the tee must not be changed before the hole is played out; and if at a loss to distinguish one Ball from another neither of them is to be lifted till both parties agree.
 
-5th. No second party shall play off till the first has struck a second stroke; and while first party is putting at the hole the second shall not play upon them.
+IV. Break-clubs such as stones, bones &c. are not to be removed in order to play a Ball, except on the putting green, and that only within six Club-lengths of the hole.
 
-6\. Should a player break his Club in striking the Ball, or strike the ground, or pass over his ball, a stroke shall in each of these cases be counted.
+V. When it is impossible to play the Ball, the player shall be entitled to lift and drop it at such a distance as he thinks proper, behind the hazard and lose one stroke, but where he cannot get behind the hazard, without going off the green, he shall be entitled to drop his Ball on the green, in a line with the place where it lay.
 
-7th. No stones, nor any break-club, shall be removed from the ball, in order that it might be played.
+VI. Should a Ball get into any hole on the putting green that comes within the denomination of made-holes it shall not be considered a hazard; but in such case, the player is entitled to lift the Ball and drop it behind the hole, and play without losing a stroke.
 
-8th. When the ball is covered with, sunk or swimming in, water or under ice or in a hole when a Club cannot reach it (such hole being at least three inches in depth and not more than twelve inches in diameter) the player may take it out, allow a Cady to drop it behind the Hazard, and play it with an Iron; his opponent being entitled to a stroke.
+VII. If a Ball on the green is half covered with water or filth, the player is at liberty to take it out, drop it behind the hazard, and play with an iron or putter without losing a stroke, and where the Ball is completely covered with fog, furze, or grass, so much thereof may be set aside as that the player shall have a view of his Ball before he plays.
 
-9th. No Player shall beat down or spread back the turf or sand in playing through the green.
+VIII. When two Balls only are playing, the Ball, betwixt the other and the hole on the putting green, is not to be lifted; but when more than two Balls are playing, or when the match is to be decided by the number of strokes, as in playing for medals or prizes, if one Ball lie on the putting green, betwixt another and the hole, the Ball nearest the hole shall be lifted till the other is played.
 
-10th. When a ball is lost, the Player shall lose the Hole; only five minutes being allowed him to seek for the Ball.
+IX. If a ball be stopped by accident, it shall notwithstanding, be reckoned stroke; but the hole shall be declared lost to the party who may, by himself or his cady, stop or interrupt the Ball of his opponent.
 
-11th. When a ball is accidentally stopped by any third party, it shall be played from the spot where it lies; but if stopped by an antagonist or his Cady, the antagonist shall lose one stroke, if the opponent playing the Ball requires it.
+X. If a ball is lost, the player shall drop another behind the place where it was lost and lose one stroke.
 
-12th. No ball shall be lifted to allow the opponent to play, however near the Balls may be to each other; and should they be equi-distant from the hole, the party whose turn it is to strike, shall play.
+XI. Every attempt to strike shall be considered a stroke, whether or not the Club break, touch the ground or pass the Ball.
 
-13th. No obstructions shall be removed at Putting; but the parties may order the ground, for ten yards round the Holes, to be swept or cleaned before the game is commenced.
+XII. At putting, the direction of the hole is not to be marked, but the Ball is to played honestly for the hole; - all loose impediments, however, may be removed, if within six Club-lengths of the hole.
 
-13\. When Holing, no party shall play upon his antagonist's Ball, if it is not lying directly in his way to the hole. Neither shall any party mark by a line upon the ground, the direction he wishes the Ball to take.
+XIII. When several parties are playing over the ground, no stroke shall be played from the tee till each of the advanced party has played his second stroke; and should the party following advance on the latter, they must call out before playing their Ball.
+
+XIV. In all cases where a Ball is to be dropped, the party dropping shall front the hole to which he is playing, and drop the Ball over his head.
+
+XV. Parties are at liberty to ask advice for directions from their partners, or cadies, in playing, but not from onlookers, whose observations on the play are not to listened to; and while the one party is prohibited from walking before the other, it is understood, that no spectator shall interfere in the most distant manner with the game while playing.
+
+XVI. Disputes, relative to the reckoning of any hole, must be settled before the parties strike off for the next hole.
+
+XVII. All disputes respecting the play shall be referred to the Captain and his Council, whose determination shall be binding on the parties.
