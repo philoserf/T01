@@ -24,7 +24,7 @@ title: Rules of Golf 1744
 
 _—John Rattray, Capt_
 
-## Amendment (1758)
+### Amendment (1758)
 
 The 5th, and 13th Articles of the foregoing Laws having occasioned frequent Disputes It is found Convenient That in all time Coming, the Law Shall be, That in no Case Whatever a Ball Shall be Lifted without losing a Stroke Except it is in the Scholars holes When it may be taken out teed and played with any Iron Club without losing a Stroke - And in all other Cases the Ball must be Played where it lyes Except it is at least half Covered with Water or filth When it may, if the Player Chuses be taken out Teed and Played with any Club upon Loosing a Stroke.
 
