@@ -1,31 +1,43 @@
-##### The Society of Golfers at Bruntsfield became the Burgess Golfing Society in 1800, and the Royal Burgess Golfing Society from 1929. The origin of not touching the ground in a hazard can be seen in rule V. Ball substitution allowed if agreed by both parties. Elementary relief for an embedded ball. Ball taken by an outside agency may be replaced without penalty. Caddies were worth no more than a penny per round - the player was fined six times as much should he give an old ball to a caddie!
+##### The Gentlemen Golfers' revision of the original 1744 Rules. The teeing area is enlarged. The ball must be half covered or more by water for relief (incorporating the 1758 amendment). Balls within 6 inches of each other can be lifted. If a ball strikes opponent or his caddie, he loses the hole. Penalty for a lost ball is stroke only, going against the other prominent rules of the day - an old rule kept alive on modern day municipals! New Rule giving relief from 'the cut of the Spade' - sounds like the first GUR.
 
 
   
   
 
-## Regulations to be Observed by the Members of The Society of Golfers in and about Edinburgh at Bruntsfield Links 8 April 1773.
+## Laws to be Observed by the Members of The Golfing Company in playing Golf22 April 1775
 
   
 
-I. In order to preserve the holes, no Golfer or Cadie shall be allowed to make any Tee within ten yards of the hole, and no Ball shall be teed nearer the hole than two Club lengths, nor farther from it than four.
+1\. You must Tee your Ball not nearer the Hole than two club lengths, nor farther distant than four.
 
-II. In case two or more parties meet at the hole, the party who playes first must be allowed to play their second strokes before the party who plays after them shall be allowed to strike off their first Ball. And if the first party’s ball be in a hazard, the said party shall stand aside till the second pass them.
+2\. Your Tee must be upon the Ground.
 
-III. To prevent Disputes in taking up Balls from water, every Ball taken from water or Tee, either upon the Green or a hazard such ball shall be teed behind and lose one, excepting in the case of a made hazard, when the ball is to be dropped behind by the opposite party and played with an iron club.
+3\. You are not to change the Ball you strike off the Tee before that Hole is played out.
 
-IV. Any Golfer losing his Ball either by accident or in a hazard, shall go to the place from whence he last struck and lose one: But in case the Ball is seen fairly on the Green, and afterwards stolen, or run away with by a dog, then a new ball must be drop’t where the former one was last seen, and no loss ensue.
+4\. You are not to remove stones, bones or any break club, in order to play your Ball, except upon the fair Green.
 
-V. Every Golfer addressing himself to his Ball shall not have liberty to put down Earth, sand or anything else, nor in drawing his stroke take anything away from behind his Ball except a Stone or a Bone.
+5\. If your Ball is half covered or more with water, you are at liberty to take it out, tee it behind the Hazard and play it with any Club allowing your Adversary a stroke; And if on Tee, you may take it up, and tee behind the Tee, losing one, or play it off the Tee, in the option of the Player.
 
-VI. No Golfer is to change his Ball either in the Green or hazards except agreed on by both parties, and then the opposite party is to take up the one Ball and lay down the other.
+6\. If your Ball lye in a made Hazard, or in any of the Water-tracts for draining the links, when the cut of the Spade appears at the place where the Ball lyes, it may be taken out, dropped behind the Hazard, and played with an iron club without losing a stroke; or, in the opinion of the Player, the Ball to be tee’d, and lose one; And in no case, but what is mentioned in this and the immediately preceding law, can a Ball be lifted, but must be played where it lyes.
 
-VII. If any Golfer shall be at a loss to know his own Ball from his opposite, he shall not lift any of the Balls till they both agree.
+7\. If your Balls be found anywhere touching or within six inches of one another, you are to lift the first Ball until the other is played.
 
-VIII. If a Ball shall be so played as to stick fast to the ground, the said Ball shall be loosened by the opposite party to the owner of the Ball so fastened.
+8\. At Holing, you are to play your Ball honestly for the Hole, and not to play upon your Adversary’s Ball not lying in your way to the Hole.
 
-IX. When a Ball is struck into the Whins or any part where it may be covered, so much of the fogg grass, &c., must be set aside, that the player may have a view of his Ball before he playes, but no whins must be laid aside excepting such as he shall set his foot upon when playing his ball.
+9\. If you lose a Ball, you are to drop another as near as can be judged to the place where your Ball was lost, and allow your adversary a stroke for the misfortune.
 
-X. No Golfer shall under any pretence whatever give any old Balls to the Cadies, if they do, they shall for every such Ball given away forfeit sixpence to the Treasurer.
+10\. At Holing, you are not to mark the direction to the Hole.
 
-XI1. That no member of this Society pay the Cadies more than one penny p. round.
+11\. If a Ball be stopped by accident, it must be played where it lies; and if stopped by the Adversary, his cadie, or servant, the party who stops the Ball to lose one.
+
+12\. If in striking, your club breaks, it is nevertheless to be accounted a stroke, if you strike the ground, or pass the ball with the club.
+
+13\. The Ball farthest from the Hole must be played first.
+
+14\. In playing, you are to strike off from the Braehead-hole, and play from it to the Sawmill, for the First Hole; from the Sawmill to the North Mid-hole, for the Second Hole; to the east Hole for the Third; to the South Mid-hole, for the Fourth; and to the Thorntree-Hole, for the Fifth, where the First Round ends; and every other Round is to begin at the Thorntree-Hole, playing from that to the Sawmill-hole, and from thence to the North mid-hole, etcetera, as above, until you come again to the Thorntree-hole, where every Round ends.
+
+15\. Any disputes arising between the parties on the Green shall be determined by the Captain for the time being, if present, or by the latest Captain who may be on the ground.
+
+  
+
+At the Golf House the 22nd day of April 1775. In a general meeting of the Company of Golfers, called for revising the Laws and Regulations of the Company, the meeting having taken the above Laws and Regulations under consideration they Approve of the same.
