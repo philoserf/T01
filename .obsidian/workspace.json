@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules of Golf README.md",
+                "file": "American Golf Writing, 1950–1970.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules of Golf README"
+              "title": "American Golf Writing, 1950–1970"
             }
           }
         ]
@@ -148,13 +148,18 @@
   },
   "active": "cbb784360e99fac4",
   "lastOpenFiles": [
-    "Rules of Golf 1960.md",
+    "Arccos - Smart Sensors vs Air Comparison.md",
+    "American Golf Writing, 1950–1970.md",
+    "Hickory Era Golf Writing Survey.md",
+    "Hickory Era Golf Club Names.md",
+    "Hickory Era American Golf.md",
     "Rules of Golf 1925.md",
     "Rules of Golf 1891.md",
+    "Rules of Golf 1960.md",
+    "Rules of Golf README.md",
     "Rules of Golf 1858.md",
     "Rules of Golf 1744.md",
     "Rules of Golf.md",
-    "Rules of Golf README.md",
     "History of Public Golf in America.md",
     "Minimalist Golf Architecture School.md",
     "Modernization's Corruption of Golf.md",
@@ -169,11 +174,6 @@
     "Links-Style Golf Courses.md",
     "History.md",
     "Hickory Golf Starter Guide.md",
-    "Hickory Golf Resources Directory.md",
-    "Hickory Era Golf Writing Survey.md",
-    "Hickory Era American Golf.md",
-    "Hickory Era.md",
-    "Hanse Golf Course Design Portfolio.md",
     "config.json",
     "Taskfile.yml"
   ]
