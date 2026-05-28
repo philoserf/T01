@@ -1,47 +1,49 @@
-##### Ball moved by an outside agency is played where it lies. No obstruction of any kind to be removed -- this is the first mention of an obstruction, but it did not have the same meaning as it does today. First indication of conceding a putt in match play. A dress code for competitions, and extra rules for medal play including unplayable ball, no stymies and removing loose impediments within three yards of the hole.
+##### Society of Golfers at Aberdeen now known as Royal Aberdeen Golf Club. First definition of Putting Green, being within 15 yards of the hole. Different penalty for lost ball if driven off the ordinary course (i.e. out of bounds) in stroke play. Penalty for breach of etiquette, giving the offended player a free stroke. Hitting an opponent's ball gave him the option of either playing the ball where it lies without counting the stroke or to replace the ball.
 
 
   
   
 
-## REGULATIONS ADOPTED BY THE EDINBURGH BURGESS GOLFING SOCIETY, 1 October 1814
+## REGULATIONS FOR PLAYING GOLF ON THE LINKS OF ABERDEEN, Adopted 7 October 1815
 
   
 
-1\. No Golfer or Cadie to be allowed to dig tee within ten yards of the hole; and no ball to be teed nearer the hole than two club-lengths, nor farther from it than four, and the ball to be teed on the ground.
+1\. No sand to be taken for teeing within ten yards of the hole. The Tee must be placed on the ground not nearer than four yards of the hole.
 
-2\. Two or more parties meeting at the hole, the party who plays first to be allowed to play their second strokes, before the succeeding party strikes off; but should the first party's ball be in a hazard, they shall stand aside till the second party passes them.
+2\. The party playing off is not to be followed by another party until a full stroke distant, nor to be played upon when holing.
 
-3\. Every hole must be played out with the same ball that is struck from the tee, and no obstruction of any kind to be removed, but the ball must be played wherever it lyes, unless in the water track when the player may lift his ball, drop it over his shoulder behind the hazard and play it with an iron.
+3\. The opposite party must not any time interrupt the player by walking about, speaking to or standing in his way, under the penalty of a stroke in the player's favour, or playing the stroke again at his option.
 
-4\. No hole is gained unless the ball is holed, (except by consent of the parties) and a party losing their ball loses the hole.
+4\. The ball farthest from the hole must be first played.
 
-5\. In case of doubt as to the ball belonging to either party, neither ball to be lifted unless by consent of both parties, and the ball farthest from the hole always to be played first.
+5\. All strokes aimed at the ball must count, whether the ball be hit or not, even if in striking the club should break.
 
-6\. If the ball is struck or moved by any one not of the party, that ball must be played from wherever it is so struck or moved to.
+6\. A ball cannot be changed between holes without consent of both parties, and if either party play the wrong ball, it shall be optional for the other either to hold the stroke for himself, or take the ball and play it as he pleases within a yard of the place it was struck from, and play it again.
 
-7\. In a match of more than two players, if a ball is struck twice or oftener successively by one player, that side of the match loses the hole.
+7\. The player shall at all times have it in his power to lift his ball from a hazard upon losing a stroke; he must, however, retire to any distance he pleases directly behind the hazard; then, fronting the hole to which he is playing, drop the ball over the back of his head, which must then be played however it lies.
 
-8\. If a party plays the adversary's ball, the adversary gains the hole.
+8\. If a ball lies in water, it may be taken out and dropped behind, as in the preceeding Rule, and played with an iron; no penalty.
 
-9\. If a party personally or by their cadie stops or touches any ball of their match, the adversary gains the hole.
+9\. Should a ball be lost, it must be reckoned a lost hole, and no longer than 5 minutes to be allowed for finding a ball.
 
-10\. If a ball sticks fast in the ground it must be loosened and the opposite party may insist to do so.
+10\. In playing out of sand or loose ground, the player shall neither beat down nor draw away the sand or soil from the ball, nor shall the player through the green beat down or alter the ground about the ball before playing, under penalty of one stroke.
 
-11\. It shall be deemed fair to play a ball against the adversary's ball, provided the player does not touch the adversary's ball with his club.
+11\. All break clubs may be removed within 12 feet of the player, but if his ball in consequence drop into a hole, it must be played or lose one. Turf is no break club.
 
-12\. In playing for prizes, no competition to be allowed unless the parties are dressed in the uniform of the club.
+12\. If a ball is by accident stopped or impelled upon the green, it must be played where it lies, but if stopped by either of the parties playing, it is a lost hole to the party stopping.
+
+13\. When the balls lie within six inches of one another, the ball nearest the hole to be lifted until the other is played. When a party of three is playing an interposing ball is at all times to be lifted.
+
+14\. At holing the player is not to mark the direction to the hole; he is to play honestly for the hole and never play on his adversary's ball not lying in his way; but all loose impediments may be removed on the putting green, which is declared to be 15 yards from the hole all around, and should either ball go into any hole within this distance it may be taken out and played with an iron from the back of it. No penalty.
+
+Any disputes during the play shall be determined by the Captain, or one of the Councillors present.
 
   
 
-REGULATIONS TO BE OBSERVED IN PLAYING FOR THE GOLD MEDAL OF THE EDINBURGH BURGESS GOLFING SOCIETY, ADOPTED ON 18 MAY, 1816
+1\. That any ball lying in the way of another, may be removed if required by the adversary.
 
-1\. That the Medal shall be played on the last Saturday of April annually and the candidate holing two rounds at the fewest number of strokes shall be the winner, such winner not being allowed to play for the medal again until three years after the year in which he shall have gained it.
+2\. That the Candidates shall play two and two, to be drawn for by lot.
 
-2\. That the Competitors shall play in single parties and that each party shall have a marker along with them, and if it shall happen that any member wishing to compete for the medal is without a partner such member shall be allowed to play by himself and to take a marker along with him.
+3\. In case of a lost ball, another may be substituted if in the fair course, without any penalty, but if driven off the ordinary ground another may be dropped in its place, as near as possible to the place where the ball was lost, and the player to lose one stroke.
 
-3\. That a player may *at any time* lift his ball upon losing a stroke and dropping the ball over his shoulder behind the hazard.
-
-4\. That if a ball, in playing through the green, shall go into the whins, or the water, or the Park, or shall be lost, the striker may return to the place, as nearly as possible from whence the ball was struck, drop it if it is found, or if it is lost another ball, over his shoulder and lose a stroke.
-
-5\. That in playing through the green all break-clubs, and the balls, if they should happen to lye so close as not to be played, shall be removed, and at the putting, when the ball is within three yards of the hole, every loose impediment whatever as well as the opponent's ball if it shall happen to lay in the direction of the hole, shall be taken away.
+The medal to be delivered to the successful Candidate by the Captain and he is to wear the same on all public occassions of the Club, under an award of half a crown.
