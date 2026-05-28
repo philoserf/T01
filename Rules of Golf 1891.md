@@ -1,11 +1,6 @@
 ##### The hole's dimensions are specified for the first time, at four and a quarter inches. Search time for a lost ball reduced to five minutes.
 
-
-  
-
 ## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, 29 September 1891.
-
-  
 
 1
 
@@ -33,7 +28,7 @@ The player who shall play first on each side shall be named by his own side. In 
 
 10\. Unless with the opponent’s consent, a ball struck from the tee shall not be changed, touched, or moved before the hole is played out, under the penalty of one stroke, except as otherwise provided for in the Rules.
 
-11\. In playing through the green, all *loose* impediments, within a club length of a ball which is not lying in or touching a hazard, may be removed, but loose impediments which are more than a club length from the ball shall not be removed, under the penalty of one stroke.
+11\. In playing through the green, all _loose_ impediments, within a club length of a ball which is not lying in or touching a hazard, may be removed, but loose impediments which are more than a club length from the ball shall not be removed, under the penalty of one stroke.
 
 12\. Before striking at a ball, the player shall not move, bend, nor break anything fixed or growing near the ball, except in the act of placing his feet on the ground for the purpose of addressing the ball and in soling his club to address the ball, under the penalty of the loss of the hole, except as provided for in Rule [18](#18).
 
@@ -55,7 +50,7 @@ The player who shall play first on each side shall be named by his own side. In 
 
 21\. If a ball lie or be lost in water, the player may drop a ball, under penalty of one stroke.
 
-22\. Whatever happens by accident to a ball *in motion* such as its being deflected or stopped by any agency outside the match, or by the forecaddie, is a ‘rub of the green.’ and the ball shall be played from where it lies. Should a ball lodge in anything moving, such ball, or if it cannot be recovered, another ball shall be dropped as nearly as possible to the spot place where the object was when the ball lodged in it. But if a ball *at rest* be displaced by any agency outside the match, the player shall drop it or another ball as near as possible to the spot where it lay. On the [putting-green](#putting) the ball shall be replaced by hand.
+22\. Whatever happens by accident to a ball _in motion_ such as its being deflected or stopped by any agency outside the match, or by the forecaddie, is a ‘rub of the green.’ and the ball shall be played from where it lies. Should a ball lodge in anything moving, such ball, or if it cannot be recovered, another ball shall be dropped as nearly as possible to the spot place where the object was when the ball lodged in it. But if a ball _at rest_ be displaced by any agency outside the match, the player shall drop it or another ball as near as possible to the spot where it lay. On the [putting-green](#putting) the ball shall be replaced by hand.
 
 23\. If the player’s ball strike, or be accidentally moved by an opponent or an opponent’s caddie or clubs, the opponent shall lose the hole.
 

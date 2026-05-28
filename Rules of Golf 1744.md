@@ -1,9 +1,6 @@
 ##### These are the earliest surviving written Rules of Golf, compiled by the Gentlemen Golfers of Leith, later the Honourable Company of Edinburgh Golfers, drafted on 7th March 1744, for a tournament played on 2nd April. As well as I can manage, I have reproduced the original spelling and punctuation. Obviously, disputes over the Rules are nothing new; some years later, the Gentlemen Golfers had to publish an amendment, looking rather like the very first decision, and this is attached at the bottom of the page. Pictures of the Leith links as it is today, and a layout of the original course can be seen here.
 
-
-  
-  
-**
+\*\*
 
 ## Articles & Laws in Playing at Golf.
 
@@ -13,7 +10,7 @@
 
 3\. You are not to change the Ball which you Strike off the Tee.
 
-4\. You are not to remove Stones, Bones or any Break Club, for the sake of playing your Ball, Except upon the fair Green *<sup>&amp; that only</sup>* within a Club's length of your Ball.
+4\. You are not to remove Stones, Bones or any Break Club, for the sake of playing your Ball, Except upon the fair Green _<sup>&amp; that only</sup>_ within a Club's length of your Ball.
 
 5\. If your Ball comes among watter, or any wattery filth, you are at liberty to take out your Ball & bringing it behind the hazard and Teeing it, you may play it with any Club and allow your Adversary a Stroke for so getting out your Ball.
 
@@ -31,13 +28,9 @@
 
 12\. He whose Ball lyes farthest from the Hole is obliged to play first.
 
-13\. Neither Trench, Ditch or Dyke, made for the preservation of the Links, nor the Scholar's Holes, or the Soldier's Lines, Shall be accounted a Hazard; But the Ball is to be taken out *<sup>Teed</sup>* and play’d with any Iron Club.
-
-  
+13\. Neither Trench, Ditch or Dyke, made for the preservation of the Links, nor the Scholar's Holes, or the Soldier's Lines, Shall be accounted a Hazard; But the Ball is to be taken out _<sup>Teed</sup>_ and play’d with any Iron Club.
 
 John Rattray, Capt
-
-  
 
 Amendment to the Articles & Laws - 1758
 
@@ -45,4 +38,4 @@ The 5th, and 13th Articles of the foregoing Laws having occasioned frequent Disp
 
 Thomas Boswall, Capt
 
-**
+\*\*
