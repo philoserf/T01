@@ -11,7 +11,7 @@ title: Rules of Golf 1744
 1. You must Tee your Ball within a Club's length of the Hole.
 2. Your Tee must be upon the Ground.
 3. You are not to change the Ball which you Strike off the Tee.
-4. You are not to remove Stones, Bones or any Break Club, for the sake of playing your Ball, Except upon the fair Green _<sup>& that only</sup>_ within a Club's length of your Ball.
+4. You are not to remove Stones, Bones or any Break Club, for the sake of playing your Ball, Except upon the fair Green & that only within a Club's length of your Ball.
 5. If your Ball comes among watter, or any wattery filth, you are at liberty to take out your Ball & bringing it behind the hazard and Teeing it, you may play it with any Club and allow your Adversary a Stroke for so getting out your Ball.
 6. If your Balls be found any where touching one another, You are to lift the first Ball, till you play the last.
 7. At Holling, you are to play your Ball honestly for the Hole, and not to play upon your Adversary’s Ball, not lying in your way to the Hole.
@@ -20,7 +20,7 @@ title: Rules of Golf 1744
 10. If a Ball be stopp’d by any Person, Horse, Dog or anything else, The Ball so stop’d must be play’d where it lyes.
 11. If you draw your Club in Order to Strike, & proceed so far in the Stroke as to be bringing down your Club; If then, your Club shall break, in any way, it is to be Accounted a Stroke.
 12. He whose Ball lyes farthest from the Hole is obliged to play first.
-13. Neither Trench, Ditch or Dyke, made for the preservation of the Links, nor the Scholar's Holes, or the Soldier's Lines, Shall be accounted a Hazard; But the Ball is to be taken out _<sup>Teed</sup>_ and play’d with any Iron Club.
+13. Neither Trench, Ditch or Dyke, made for the preservation of the Links, nor the Scholar's Holes, or the Soldier's Lines, Shall be accounted a Hazard; But the Ball is to be taken out Teed and play’d with any Iron Club.
 
 —John Rattray, Capt
 
