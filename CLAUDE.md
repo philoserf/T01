@@ -23,7 +23,7 @@ task check  # alias for fmt; placeholder for future checks
 
 Prettier is the only toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache).
 
-The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree. Don't touch `.obsidian/` files unless the user asks—they're per-machine editor state.
+The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree.
 
 ### Content Model
 
