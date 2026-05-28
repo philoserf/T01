@@ -1,49 +1,41 @@
-##### Society of Golfers at Aberdeen now known as Royal Aberdeen Golf Club. First definition of Putting Green, being within 15 yards of the hole. Different penalty for lost ball if driven off the ordinary course (i.e. out of bounds) in stroke play. Penalty for breach of etiquette, giving the offended player a free stroke. Hitting an opponent's ball gave him the option of either playing the ball where it lies without counting the stroke or to replace the ball.
+##### The Thistle Golf Club was established in Edinburgh in 1815. They played on the Leith Links, sharing it with the Honourable Company. First example of relief from a hole made by a greenkeeper.
 
 
   
   
 
-## REGULATIONS FOR PLAYING GOLF ON THE LINKS OF ABERDEEN, Adopted 7 October 1815
+## RULES OF THE GAME OF GOLF TO BE OBSERVED BY THE MEMBERS OF THE THISTLE GOLF CLUB, 1824
 
-  
+I. You must tee your ball, not nearer the hole than two club-lengths, nor farther from it than six, and your tee must be upon the ground.
 
-1\. No sand to be taken for teeing within ten yards of the hole. The Tee must be placed on the ground not nearer than four yards of the hole.
+II. The ball farthest from the hole, to first played.
 
-2\. The party playing off is not to be followed by another party until a full stroke distant, nor to be played upon when holing.
+III. You are not to change the ball struck from the tee, before the hole is played out; and if at a loss to know the one ball from the other, neither of them to be uplifted, till both parties agree.
 
-3\. The opposite party must not any time interrupt the player by walking about, speaking to or standing in his way, under the penalty of a stroke in the player's favour, or playing the stroke again at his option.
+IV. You are not to remove stones, bones or any break-club, in order to play your ball, except upon the fair green: if a ball stick fast in the ground, it may be loosened, but not lifted from the ground.
 
-4\. The ball farthest from the hole must be first played.
+V. The player, in every case, shall be entitled to lift his ball, drop it at such distance as he thinks proper, behind the hazard, and lose one stroke; but where he cannot get behind the hazard without going off the green, he shall be entitled to drop his ball on the green, in a line with the place where it lay.
 
-5\. All strokes aimed at the ball must count, whether the ball be hit or not, even if in striking the club should break.
+> N.B. According to the usage of Leith Links, holes made for putting, or are known by the name of made holes, are not considered hazards - should a ball get into one of these, the player is entitled to drop it behind the hole, and play with an iron, without losing a stroke.
 
-6\. A ball cannot be changed between holes without consent of both parties, and if either party play the wrong ball, it shall be optional for the other either to hold the stroke for himself, or take the ball and play it as he pleases within a yard of the place it was struck from, and play it again.
+VI. If a ball be half covered, or more, with water, on the green, the player is at liberty to take it out, drop it behind the hazard, and play it with an iron, without losing a stroke; and where the ball is completely covered with fog or grass, so much thereof may be set aside, as that the player may have a view of the ball before he plays.
 
-7\. The player shall at all times have it in his power to lift his ball from a hazard upon losing a stroke; he must, however, retire to any distance he pleases directly behind the hazard; then, fronting the hole to which he is playing, drop the ball over the back of his head, which must then be played however it lies.
+VII. If a ball lie within the hollow, formed in cutting any of the water-tracks on the green, it may be taken out, dropped behind the track, and played with an iron, without losing a stroke.
 
-8\. If a ball lies in water, it may be taken out and dropped behind, as in the preceeding Rule, and played with an iron; no penalty.
+VIII. In all cases where a ball is to be dropt, the party dropping, shall front the hole to which he is playing, and drop the ball behind him, over his head.
 
-9\. Should a ball be lost, it must be reckoned a lost hole, and no longer than 5 minutes to be allowed for finding a ball.
+IX. When the balls lie within six inches of each other, the ball nearest the hole to be lifted, till the other is played.
 
-10\. In playing out of sand or loose ground, the player shall neither beat down nor draw away the sand or soil from the ball, nor shall the player through the green beat down or alter the ground about the ball before playing, under penalty of one stroke.
+X. In the case of more than two balls being played in the same party; or of the match being decided by the number of strokes, as in playing for medals or prizes; if one ball lie betwixt the other and the hole, the ball nearest the hole must be first played.
 
-11\. All break clubs may be removed within 12 feet of the player, but if his ball in consequence drop into a hole, it must be played or lose one. Turf is no break club.
+XI. If a ball be stopt by accident, it must be played as it lies; but if stopt by the adversary, or his cady, the party who stopt the ball to lose the hole.
 
-12\. If a ball is by accident stopped or impelled upon the green, it must be played where it lies, but if stopped by either of the parties playing, it is a lost hole to the party stopping.
+XII. If a ball be lost on the green, the player shall drop another at the place where his ball was supposed to have been lost, and lose one stroke; but if it can be ascertained, that the ball was lost in any of the tracks on the green, another may be dropt behind the track, and played with an iron, without losing a stroke.
 
-13\. When the balls lie within six inches of one another, the ball nearest the hole to be lifted until the other is played. When a party of three is playing an interposing ball is at all times to be lifted.
+XIII. If in striking, the club break, it is nevertheless to be counted as a stroke, if you either strike the ground, or pass the ball.
 
-14\. At holing the player is not to mark the direction to the hole; he is to play honestly for the hole and never play on his adversary's ball not lying in his way; but all loose impediments may be removed on the putting green, which is declared to be 15 yards from the hole all around, and should either ball go into any hole within this distance it may be taken out and played with an iron from the back of it. No penalty.
+XIV. At holing, you are not to mark the direction to the hole, you are to play your ball honestly for the hole, and not play on your adversary's ball, not lying in your way to the hole; but all loose impediments may be removed in putting.
 
-Any disputes during the play shall be determined by the Captain, or one of the Councillors present.
+XV. Mistakes relative to the reckoning of any particular hole cannot be rectified after the parties have struck off for the next hole.
 
-  
-
-1\. That any ball lying in the way of another, may be removed if required by the adversary.
-
-2\. That the Candidates shall play two and two, to be drawn for by lot.
-
-3\. In case of a lost ball, another may be substituted if in the fair course, without any penalty, but if driven off the ordinary ground another may be dropped in its place, as near as possible to the place where the ball was lost, and the player to lose one stroke.
-
-The medal to be delivered to the successful Candidate by the Captain and he is to wear the same on all public occassions of the Club, under an award of half a crown.
+> N.B. It may not be improper here to mention certain points of etiquette, which it is of importance should be observed by all who are in the habit of attending matches at Golf. It is understood that no looker-on is entitled to make any observation whatsoever respecting the play - to walk before the players - to remove impediments out of their way - or, in short, to interfere in the most distant manner with the game while playing. The player is at liberty, at all times, to ask advice from his partner or cady, but from no other person.
