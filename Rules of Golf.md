@@ -1,8 +1,10 @@
 ---
+date: 2026-05-27
+showHero: false
 title: Rules of Golf
 ---
 
-## RULES OF GOLF AS APPROVED BY R&A RULES LIMITED and theUNITED STATES GOLF ASSOCIATION effective January 2023
+## Rules of Golf as approved by R&A Rules Limited and the United States Golf Association, effective January 2023
 
 ## I. Fundamentals of the Game (Rules 1-4)
 
