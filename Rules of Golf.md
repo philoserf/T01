@@ -1,15 +1,18 @@
-##### A comprehensive revision, new layout and - they say - simplification for the 25th Edition. A player may now lift his ball if he considers it may assist another player (match play). Flat-sided grips now only allowed on putters. A ball to be replaced must be marked before being lifted (previously a recommendation) No relief from an obstruction if the ball is in a water hazard. New dropping procedure - player drops at arm’s length. A moved ball must be replaced, except after address.
+##### Following the extensive changes of four years earlier, only a few small changes for the 26th edition. Demise of the 1.62" ball, as of 1st Jan 1990. Ball at rest moved after address is now to be replaced. Second ball under Rule 3-3: if no ball is chosen to score, then the original counts When dropping a ball back on a line (Rules 25, 26, 28) the ball has to be dropped on the line, not an arm's length awayConcessions in a match may not be withdrawn.
 
 
   
 
-## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS,and theUNITED STATES GOLF ASSOCIATION effective 1 April 1984.
+## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, SCOTLANDand theUNITED STATES GOLF ASSOCIATION effective 1 January 1988.
 
   
 
 ### SECTION I - ETIQUETTE
 
 ### COURTESY ON THE COURSE
+
+**Safety**  
+Prior to playing a stroke or making a practice swing, the player should ensure that no one is standing close by or in a position to be hit by the club, the ball or any stones, pebbles, twigs or the like which may be moved by the stroke or swing.
 
 **Consideration for Other Players**  
 The player who has the honour should be allowed to play before his opponent or fellow-competitor tees his ball.  
@@ -68,11 +71,11 @@ See ['Lost Ball'](#Lost)
 
 **Ball in Play**
 
-A ball is 'in play' as soon as the player has made a [stroke](#Stroke) on the [teeing ground](#Teeing). It remains in play until holed out, except when it is [out of bounds](#oob), [lost](#lost) or lifted, or another ball has been substituted under an applicable Rule; a ball so substituted becomes the ball in play.
+A ball is 'in play' as soon as the player has made a [stroke](#Stroke) on the [teeing ground](#Teeing). It remains in play until holed out, except when it is [lost](#lost), [out of bounds](#oob) or lifted, or another ball has been substituted under an applicable Rule, whether or not such Rule permits substitution; a ball so substituted becomes the ball in play.
 
 **Bunker**
 
-A 'bunker' is a [hazard](#hazard) consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker.
+A 'bunker' is a [hazard](#hazard) consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker. The margin of a bunker extends vertically downwards, but not upwards.
 
 **Caddie**
 
@@ -81,7 +84,7 @@ When one caddie is employed by more than one player, he is always deemed to be t
 
 **Casual Water**
 
-'Casual water' is any temporary accumulation of water on the [course](#Course) which is visible before or after the player takes his [stance](#Stance) and is not in a [water hazard](#Water). Snow and ice are either casual water or [loose impediments](#Loose), at the option of the player. Dew is not casual water.
+'Casual water' is any temporary accumulation of water on the [course](#Course) which is visible before or after the player takes his [stance](#Stance) and is not in a [water hazard](#Water). Snow and ice are either casual water or [loose impediments](#Loose), at the option of the player except that manufactured ice is an [obstruction](#obstruction). Dew is not casual water.
 
 **Committee**
 
@@ -90,7 +93,7 @@ The 'Committee' is the committee in charge of the competition or, if the matter 
 **Competitor**
 
 A 'competitor' is a player in a stroke competition. A 'fellow-competitor' is any person with whom the competitor plays. Neither is [partner](#Partner) of the other.  
-In stroke play foursome and four-ball competitions, where the context so admits, the word 'competitor' or 'fellow-competitor' shall be held to include his partner.
+In stroke play foursome and four-ball competitions, where the context so admits, the word 'competitor' or 'fellow-competitor' includes his partner.
 
 **Course**
 
@@ -110,11 +113,11 @@ The 'flagstick' is a movable straight indicator, with or without bunting or othe
 
 **Forecaddie**
 
-A 'forecaddie' is one who is employed by the Committee to indicate to players the position of balls during play and is an [outside agency](#Agency).
+A 'forecaddie' is one who is employed by the Committee to indicate to players the position of balls during play. He is an [outside agency](#Agency).
 
 **Ground Under Repair**
 
-'Ground under repair' is any portion of the [course](#Course) so marked by order of the Committee or so declared by its authorised representative. It includes material piled for removal and a hole made by a greenkeeper, even if not so marked. Stakes and lines defining ground under repair are in such ground.  
+'Ground under repair' is any portion of the [course](#Course) so marked by order of the Committee or so declared by its authorised representative. It includes material piled for removal and a hole made by a greenkeeper, even if not so marked. Stakes and lines defining ground under repair are in such ground. The margin of ground under repair extends vertically downwards, but not upwards.  
 *Note 1*: Grass cuttings and other material left on the course which have been abandoned and are not intended to be removed are not ground under repair unless so marked.  
 *Note 2*: The Committee may make a Local Rule prohibiting play from ground under repair.
 
@@ -136,7 +139,7 @@ The side entitled to play first from the [teeing ground](#Teeing) is said to hav
 
 **Lateral Water Hazard**
 
-A 'lateral water hazard' is a [water hazard](#Water) or that part of a water hazard so situated that it is not possible or is deemed by the Committee to be impracticable to drop a ball behind the water hazard and keep the spot at which the ball last crossed the margin of the water hazard between the player and the hole.  
+A 'lateral water hazard' is a [water hazard](#Water) or that part of a water hazard so situated that it is not possible or is deemed by the Committee to be impracticable to drop a ball behind the water hazard in accordance with Rule 26-1b.  
 That part of a water hazard to be played as a lateral water hazard should be distinctively marked.  
 *Note*: Lateral water hazards should be defined by red stakes or lines.
 
@@ -144,7 +147,7 @@ That part of a water hazard to be played as a lateral water hazard should be dis
 
 'Loose impediments' are natural objects such as stones, leaves, twigs, branches and the like, dung, worms and insects and casts or heaps made by them, provided they are not fixed or growing, are not solidly embedded and do not adhere to the ball.  
 Sand and loose soil are loose impediments on the [putting green](#Putting), but not elsewhere.  
-Snow and ice are either [casual water](#casual) or loose impediments, at the option of the player.  
+Snow and ice are either [casual water](#casual) or loose impediments, at the option of the player, except that manufactured ice is an [obstruction](#obstruction).  
 Dew is not a loose impediment.
 
 **Lost Ball**
@@ -157,8 +160,7 @@ Time spent in playing a [wrong](#Wrong) ball is not counted in the five-minute p
 
 **Marker**
 
-A 'marker' is one who is appointed by the Committee to record a [competitor's](#Competitor) score in stroke play. He may be a [fellow-competitor](#Competitor). He is not a [referee](#Referee).  
-A marker should not lift a ball or mark its position unless authorised to do so by the competitor and, unless he is a fellow-competitor, should not attend the flagstick or stand at the hole or mark its position.
+A 'marker' is one who is appointed by the Committee to record a [competitor's](#Competitor) score in stroke play. He may be a [fellow-competitor](#Competitor). He is not a [referee](#Referee).
 
 **Matches**
 
@@ -170,11 +172,11 @@ A ball is deemed to have 'moved' if it leaves its position and comes to rest in 
 
 **Observer**
 
-An 'observer' is one who is appointed by the Committee to assist a [referee](#Referee) to decide questions of fact and to report to him any breach of a Rule. An observer should not attend the flagstick, stand at or mark the position of the hole, or lift the ball or mark its position.
+An 'observer' is one who is appointed by the [referee](#Referee) Committee to assist a to decide questions of fact and to report to him any breach of a Rule. An observer should not attend the flagstick, stand at or mark the position of the hole, or lift the ball or mark its position.
 
 **Obstructions**
 
-An 'obstruction' is anything artificial, including the artificial surfaces and sides of roads and paths, except:  
+An 'obstruction' is anything artificial, including the artificial surfaces and sides of roads and paths and manufactured ice, except:  
 a. Objects defining [out of bounds](#OOB), such as walls, fences, stakes and railings;  
 b. Any part of an immovable artificial object which is out of bounds; and  
 c. Any construction declared by the Committee to be an integral part of the course.
@@ -184,7 +186,7 @@ c. Any construction declared by the Committee to be an integral part of the cour
 'Out of bounds' is ground on which play is prohibited.  
 When out of bounds is defined by reference to stakes or a fence or as being beyond stakes or a fence, the out of bounds line is determined by the nearest inside points of the stakes or fence posts at ground level excluding angled supports.  
 When out of bounds is defined by a line on the ground, the line itself is out of bounds.  
-The out of bounds line is deemed to extend vertically upwards and downwards.  
+The out of bounds line extends vertically upwards and downwards.  
 A ball is out of bounds when all of it lies out of bounds.  
 A player may stand out of bounds to play a ball lying within bounds.
 
@@ -195,7 +197,7 @@ An 'outside agency' is any agency not part of the match or, in stroke play, not 
 **Partner**
 
 A 'partner' is a player associated with another player on the same side.  
-In a threesome, foursome or a four-ball match where the context so admits, the word 'player' includes his partner.
+In a threesome, foursome, best-ball or four-ball match, where the context so admits, the word 'player' includes his partner or partners.
 
 **Penalty Stroke**
 
@@ -203,8 +205,7 @@ A 'penalty stroke' is one added to the score of a player or [side](#Sides) under
 
 **Provisional Ball**
 
-A 'provisional ball' is a ball played under Rule [27-2](#2702) for a ball which may be [lost](#lost) outside a [water hazard](#Water) or may be [out of bounds](#OOB).  
-It ceases to be a provisional ball when the Rule provides either that the player continue play with it as the [ball in play](<#in play>) or that it be abandoned.
+A 'provisional ball' is a ball played under Rule [27-2](#2702) for a ball which may be [lost](#lost) outside a [water hazard](#Water) or may be [out of bounds](#OOB).
 
 **Putting Green**
 
@@ -229,7 +230,7 @@ Side: A player, or two or more players who are [partners](#Partner).
 Single: A match in which one plays against another.  
 Threesome: A match in which one plays against two, and each side plays one ball.  
 Foursome: A match in which two play against two, and each side plays one ball.  
-Three-ball: A match play competition in which three play against one another, each playing his own ball.  
+Three-ball: A match play competition in which three play against one another, each playing his own ball. Each player is playing two distinct matches.  
 Best-ball: A match in which one plays against the better ball of two or the best ball of three players.  
 Four-ball: A match in which two play their better ball against the better ball of two other players.
 
@@ -239,11 +240,11 @@ Taking the 'stance' consists in a player placing his feet in position for and pr
 
 **Stipulated Round**
 
-The 'stipulated round' consists of playing the holes of the course in their correct sequence unless otherwise authorised by the Committee. The number of holes in a stipulated round is 18 unless a smaller number is authorised by the Committee. As to extension of stipulated round in match play, see Rule [2-4](#0204).
+The 'stipulated round' consists of playing the holes of the course in their correct sequence unless otherwise authorised by the Committee. The number of holes in a stipulated round is 18 unless a smaller number is authorised by the Committee. As to extension of stipulated round in match play, see Rule [2-3](#0203).
 
 **Stroke**
 
-A 'stroke' is the forward movement of the club made with the intention of fairly striking at and moving the ball.
+A 'stroke' is the forward movement of the club made with the intention of fairly striking at and moving the ball, but if a player checks his downswing voluntarily before the clubhead reaches the ball he is deemed not to have made a stroke.
 
 **Teeing Ground**
 
@@ -258,7 +259,7 @@ b. All [hazards](#hazard) on the course.
 **Water Hazard**
 
 A 'water hazard' is any sea, lake, pond, river, ditch, surface drainage ditch or other open water course (whether or not containing water) and anything of a similar nature.  
-All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard is deemed to extend vertically upwards. Stakes and lines defining the margins of water hazards are in the hazards.  
+All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard extends vertically upwards and downwards. Stakes and lines defining the margins of water hazards are in the hazards.  
 *Note*: Water hazards (other than [lateral water hazards](#Lateral)) should be defined by yellow stakes or lines.
 
 **Wrong Ball**
@@ -266,16 +267,14 @@ All ground or water within the margin of a water hazard is part of the water haz
 A 'wrong ball' is any ball other than:  
 a. The [ball in play](<#in Play>),  
 b. A [provisional ball](#Provisional), or  
-c. In stroke play, a second ball played under Rule [3-3](#0303) or Rule [20-7b](#2007).
+c. In stroke play, a second ball played under Rule [3-3](#0303) or Rule [20-7b](#2007).  
+*Note*: Ball in play includes a ball substituted for the ball in play when the player is proceeding under an applicable Rule which does not permit substitution.
 
 ### SECTION III - THE RULES OF PLAY Rule 1. The Game
 
 ### 1-1. General
 
 The Game of Golf consists in playing a ball from the [teeing ground](#Teeing) into the hole by a [stroke](#Stroke) or successive strokes in accordance with the Rules.
-
-PENALTY FOR BREACH OF RULE 1-1:  
-*Match Play - Loss of hole; Stroke play - Disqualification.*
 
 ### 1-2. Exerting Influence on Ball
 
@@ -291,7 +290,8 @@ Players shall not agree to exclude the operation of any Rule or to waive any pen
 
 PENALTY FOR BREACH OF RULE 1-3:  
 *Match Play - Disqualification of both sides;  
-Stroke play - Disqualification of competitors concerned.*
+Stroke play - Disqualification of competitors concerned.*  
+(Agreeing to play out of turn in stroke play - see [Rule 10-2c](#1002))
 
 ### 1-4. Points Not Covered by Rules
 
@@ -299,31 +299,34 @@ If any point in dispute is not covered by the Rules, the decision shall be made 
 
 ### Rule 2. Match Play
 
-### 2-1. Winner of Hole
+### 2-1. Winner of Hole; Reckoning of Holes
 
 In match play the game is played by holes.  
-Except as otherwise provided in the Rules, a hole is won by the side which holes its ball in the fewer strokes. In a handicap match the lower net score wins the hole.
+Except as otherwise provided in the Rules, a hole is won by the side which holes its ball in the fewer strokes. In a handicap match the lower net score wins the hole.  
+The reckoning of holes is kept by the terms: so many "holes up" or "all square", and so many "to play".  
+A side is "dormie" when it is as many holes up as there are holes remaining to be played.
 
 ### 2-2. Halved Hole
 
 A hole is halved if each side holes out in the same number of strokes.  
 When a player has holed out and his opponent has been left with a stroke for the half, if the player thereafter incurs a penalty, the hole is halved.
 
-### 2-3. Reckoning of Holes
-
-The reckoning of holes is kept by the terms: so many "holes up" or "all square", and so many "to play".  
-A side is "dormie" when it is as many holes up as there are holes remaining to be played.
-
-### 2-4. Winner of Match
+### 2-3. Winner of Match
 
 A match (which consists of a [stipulated round](#Stipulated), unless otherwise decreed by the Committee) is won by the side which is leading by a number of holes greater than the number of holes remaining to be played.  
-A side may concede a match at any time prior to the conclusion of the match.  
 The Committee may, for the purpose of settling a tie, extend the stipulated round to as many holes as are required for a match to be won.
+
+### 2-4. Concession of Next Stroke, Hole or Match
+
+When the opponent’s ball is at rest or is deemed to be at rest under [Rule 16-2](#1602), the player may concede the opponent to have holed out with his next stroke and the ball may be removed by either side with a club or otherwise.  
+A player may concede a hole or a match at any time prior to the conclusion of the hole or the match.  
+Concession of a stroke, hole or match may not be declined or withdrawn.
 
 ### 2-5. Claims
 
-In match play, if a doubt or dispute arises between the players and no duly authorised representative of the Committee is available within a reasonable time, the players shall continue the match without delay. Any claim, if it is to be considered by the Committee, must be made before any player in the match plays from the next teeing ground or, in the case of the last hole of the match, before all players in the match leave the putting green.  
-No later claim shall be considered unless it is based on facts previously unknown to the player making the claim and the player making the claim had been given wrong information (Rules [6-2a](#0602) and [9](#09)) by an opponent. In any case, no later claim shall be considered after the result of the match has been officially announced, unless the Committee is satisfied that the opponent knew he was giving wrong information.
+In match play, if a doubt or dispute arises between the players and no duly authorised representative of the Committee is available within a reasonable time, the players shall continue the match without delay. Any claim, if it is to be considered by the Committee, must be made before any player in the match plays from the next teeing ground or, in the case of the last hole of the match, before all players in the match leave the putting green.
+
+No later claim shall be considered unless it is based on facts previously unknown to the player making the claim and the player making the claim had been given wrong information ([Rule 6-2a](#0602) and [Rule 9](#09)) by an opponent. In any case, no later claim shall be considered after the result of the match has been officially announced, unless the Committee is satisfied that the opponent knew he was giving wrong information.
 
 ### 2-6. General Penalty
 
@@ -337,13 +340,17 @@ The competitor who plays the [stipulated round](#Stipulated) or rounds in the fe
 
 ### 3-2. Failure to Hole Out
 
-If a competitor fails to hole out at any hole before he has played a [stroke](#Stroke) from the next [teeing ground](#Teeing) or, in the case of the last hole of the round, before he leaves the [putting green](#Putting), *he shall be disqualified.*
+If a competitor fails to hole out at any hole and does not correct his mistake before he plays a [stroke](#Stroke) from the next [teeing ground](#Teeing) or, in the case of the last hole of the round, before he leaves the [putting green](#Putting), *he shall be disqualified.*
 
 ### 3-3. Doubt as to Procedure
 
-In stroke play only, when during play of a hole a competitor is doubtful of his rights or procedure, he may, without penalty, play a second ball. After the doubtful situation has arisen and before taking further action, he should announce to his [marker](#marker) his decision to proceed under this Rule and which ball he will score with if the Rules permit.  
-On completing the round, the competitor shall report the facts immediately to the [Committee](#Committee); if he fails to do so, *he shall be disqualified.*  
-If the Rules allow the procedure selected in advance by the competitor, the score with the ball selected shall be his score for the hole. If the competitor fails to announce in advance his procedure or selection, the ball with the higher score shall count if the Rules allow the procedure adopted for such a ball.
+**a. Procedure**  
+In stroke play only, when during play of a hole a competitor is doubtful of his rights or procedure, he may, without penalty, play a second ball. After the situation which caused the doubt has arisen, the competitor should, before taking further action, announce to his [marker](#marker) or a [fellow-competitor](#competitor) his decision to invoke this Rule and the ball with which he will score if the Rules permit.  
+The competitor shall report the facts to the [Committee](#Committee) before returning his score card unless he scores the same with both balls; if he fails to do so, *he shall be disqualified.*
+
+**b. Determination of Score for Hole**  
+If the Rules allow the procedure selected in advance by the competitor, the score with the ball selected shall be his score for the hole.  
+If the competitor fails to announce in advance his decision to invoke this Rule or his selection, the score with the original ball or, if the original ball is not one of the balls being played, the first ball put into play shall count if the Rules allow the procedure adopted for such ball.
 
 *Note:* A second ball played under Rule 3-3 is not a provisional ball under [Rule 27-2](#2702).
 
@@ -361,14 +368,14 @@ The penalty for a breach of a Rule in stroke play is two strokes except when oth
 
 ### Rule 4. Clubs
 
-*If a manufacturer is in doubt as to whether a club he proposes to manufacture conforms with Rule 4 and [Appendix II](https://www.ruleshistory.com/appendices.html#1984APPII), he should submit a sample to the Royal and Ancient Golf Club of St. Andrews for a ruling, such sample to become its property for reference purposes.  
+*If there may be any reasonable basis for doubt as to whether a club which is to be manufactured conforms with Rule 4 and [Appendix II](https://www.ruleshistory.com/appendices.html#1988APPII), the manufacturer should submit a sample to the Royal and Ancient Golf Club of St. Andrews for a ruling, such sample to become its property for reference purposes. If a manufacturer fails to do so, he assumes the risk of a ruling that the club does not conform with the Rules of Golf.  
 A player in doubt as to the conformity of a club should consult the Royal and Ancient Golf Club of St. Andrews.*
 
 ### 4-1. Form and Make of Clubs
 
 A club is an implement designed to be used for striking the ball.  
 A putter is a club designed primarily for use on the putting green.  
-The player’s clubs shall conform with the provisions of this Rule and with the specifications and interpretations set forth in Appendix II.
+The player’s clubs shall conform with the provisions of this Rule and with the specifications and interpretations set forth in [Appendix II](https://www.ruleshistory.com/appendices.html#1988APPII).
 
 **a. General**  
 The club shall be composed of a shaft and a head. All parts of the club shall be fixed so that the club is one unit. The club shall not be designed to be adjustable except for weight. The club shall not be substantially different from the traditional and customary form and make.
@@ -380,21 +387,33 @@ The shaft shall be generally straight, with the same bending and twisting proper
 The grip consists of that part of the shaft designed to be held by the player and any material added to it for the purpose of obtaining a firm hold. The grip shall be substantially straight and plain in form and shall not be moulded for any part of the hands.
 
 **d. Clubhead**  
-The distance of the clubhead, from the heel to toe, shall be greater than the breadth from face to the back. The clubhead shall be generally plain in shape.  
-The clubhead shall have only one face designed for striking the ball, except that a putter may have two such faces if the loft of each is substantially the same and does not exceed ten degrees.
+The distance from the heel to the toe of the clubhead shall be greater than the distance from the face to the back. The clubhead shall be generally plain in shape.  
+The clubhead shall have only one face designed for striking the ball, except that a putter may have two such faces if their characteristics are the same, they are opposite each other and the loft of each is the same and does not exceed ten degrees.
 
 **e. Club Face**  
-The face shall not have any degree of concavity and, in relation to the ball, shall be hard and rigid. It shall be generally smooth except for such markings as are permitted by Appendix II. If the basic structural material of the head and face of a club, other than a putter, is metal, no inset or attachment is permitted.
+The face shall not have any degree of concavity and, in relation to the ball, shall be hard and rigid. It shall be generally smooth except for such markings as are permitted by [Appendix II](https://www.ruleshistory.com/appendices.html#1988APPII). If the basic structural material of the head and face of a club, other than a putter, is metal, no inset or attachment is permitted.
 
 **f. Wear**  
-A club which conforms with Rule 4-1 when new is deemed to conform after wear through normal use. Any part of a club which has been purposely altered is regarded as new and must conform, in the altered state, to the Rules.
+A club which conforms with Rule 4-1 when new is deemed to conform after wear through normal use. Any part of a club which has been purposely altered is regarded as new and must conform, in the altered state, with the Rules.
 
 **g. Damage**  
-A club which ceases to conform with Rule 4-1 because of damage sustained in the normal course of play may be used in its damaged state, but only for the remainder of the [stipulated](#Stipulated) round during which such damage was sustained. A club which ceases to conform because of damage sustained other than in the normal course of play shall not be used unless it is repaired so as to conform to Rule 4-1.
+If a player’s club ceases to conform with Rule 4-1 because of damage sustained in the normal course of play, the player may:  
+(i) use the club in its damaged state, but only for the remainder of the [stipulated](#Stipulated) round during which such damage was sustained; or  
+(ii) without unduly delaying play, repair it.
 
-### 4-2. Playing Characteristics Not to be Changed
+A club which ceases to conform because of damage sustained other than in the normal course of play shall not subsequently be used during the round.
 
-During a [stipulated](#Stipulated) round, the playing characteristics of a club shall not be purposely changed, except that damage occurring during such round may be repaired, provided play is not unduly delayed. Damage which occurred prior to the round may be repaired, provided the playing characteristics are not changed.
+(Damage changing playing characteristics of club - see Rule 4-2)
+
+### 4-2. Playing Characteristics Changed
+
+During a [stipulated](#Stipulated) round, the playing characteristics of a club shall not be purposely changed.  
+If the playing characteristics of a player’s club are changed during a round because of damage sustained in the normal course of play, the player may:  
+(i) use the club in its altered state; or  
+(ii) without unduly delaying play, repair it.
+
+If the playing characteristics of a player’s club are changed because of damage sustained other than in the normal course of play, the club shall not subsequently be used during the round.  
+Damage to a club which occurred prior to a round may be repaired during the round, provided the playing characteristics are not changed and play is not unduly delayed.
 
 ### 4-3. Foreign Material
 
@@ -406,16 +425,14 @@ PENALTY FOR BREACH OF RULE 4-1, -2 or -3:
 ### 4-4. Maximum of Fourteen Clubs
 
 **a. Selection and Replacement of Clubs**  
-The player shall start a [stipulated](#Stipulated) round with not more than fourteen clubs. He is limited to the clubs thus selected for that round except that, without unduly delaying play, he may:
+The player shall start a [stipulated](#Stipulated) round with not more than fourteen clubs. He is limited to the clubs thus selected for that round except that, without unduly delaying play, he may:  
+(i) if he started with fewer than fourteen, add as many as will bring his total to that number; and  
+(ii) replace, with any club, a club which becomes unfit for play in the normal course of play.
 
-> (i) if he started with fewer than fourteen, add as many as will bring his total to that number; and  
-> (ii) replace, with any club, a club which becomes unfit for play in the normal course of play.
+**b. Borrowing or Sharing Clubs**  
+The addition or replacement of a club or clubs may be made by borrowing from anyone; only the borrower may use such club or clubs for the remainder of the round.
 
-  
-The addition or replacement of a club or clubs may not be made by borrowing from any other person playing on the course.
-
-**b. Partners May Share Clubs**  
-Partners may share clubs, provided that the total number of clubs carried by the partners so sharing does not exceed fourteen.
+The sharing of a club or clubs is prohibited except that partners may share clubs, provided that the total number of clubs carried by the partners so sharing does not exceed fourteen.
 
 PENALTY FOR BREACH OF RULE 4-4a or b, REGARDLESS OF NUMBER OF EXCESS CLUBS CARRIED:  
 *Match Play - At the conclusion of the hole at which the breach is discovered, the state of the match shall be adjusted by deducting one hole for each hole at which a breach occurred. Maximum deduction per round: two holes.  
@@ -424,18 +441,20 @@ Bogey and par competitions - Penalties as in match play.
 Stableford competitions - see Note to [Rule 32-1b](#3201)*.
 
 **c. Excess Club Declared Out of Play**  
-Any club carried or used in breach of this Rule shall be declared out of play by the player immediately upon discovery that a breach has occurred and thereafter shall not be used by the player during the round *under penalty of disqualification*.
+Any club carried or used in breach of this Rule shall be declared out of play by the player immediately upon discovery that a breach has occurred and thereafter shall not be used by the player during the round.
+
+PENALTY FOR BREACH OF RULE 4-4c:  
+*Disqualification.*
 
 ### Rule 5. The Ball
 
 ### 5-1. General
 
-The ball the player uses shall conform to specifications set forth in [Appendix III](https://www.ruleshistory.com/appendices.html#1984appIII) on maximum weight, minimum size, spherical symmetry and initial velocity when tested under specified conditions.
+The ball the player uses shall conform to specifications set forth in [Appendix III](https://www.ruleshistory.com/appendices.html#1988APPIII) on maximum weight, minimum size, spherical symmetry, initial velocity and overall distance when tested under specified conditions.
 
-*Note 1:* The Rules of the United States Golf Association specify a larger minimum size and also an Overall Distance Standard. In international team competitions, the size of the ball shall not be less than 1.620 inches (41.15mm) and the Overall Distance Standard shall not apply.  
-*Note 2:* In laying down the conditions under which a competition is to be played (Rule [33-1](#3301)), the Committee may stipulate that the ball to be used shall be of certain specifications, provided these specifications are within the limits prescribed by Appendix III, and that it be of a size, brand and marking as detailed on the current List of Conforming Golf Balls issued by the Royal and Ancient Golf Club of St. Andrews.
+*Note:* In laying down the conditions under which a competition is to be played (Rule [33-1](#3301)), the Committee may stipulate that the ball to be used shall be of certain specifications, provided these specifications are within the limits prescribed by Appendix III, and that it be of a size, brand and marking as detailed on the current List of Conforming Golf Balls issued by the Royal and Ancient Golf Club of St. Andrews.
 
-### 5-2. Foreign Material Prohibited
+### 5-2. Foreign Material
 
 No foreign material shall be applied to a ball for the purpose of changing its playing characteristics.
 
@@ -444,25 +463,25 @@ PENALTY FOR BREACH OF RULE 5-1 or 5-2:
 
 ### 5-3. Ball Unfit for Play
 
-A ball is unfit for play if it is visibly cut or out of shape or so cracked, pierced or otherwise damaged as to interfere with its true flight or true roll or its normal behaviour when struck. A ball is not unfit for play solely because mud or other materials adhere to it, its surface is scratched or its paint is damaged or discoloured.  
+A ball is unfit for play if it is visibly cut, cracked or out of shape. A ball is not unfit for play solely because mud or other materials adhere to it, its surface is scratched or scraped or its paint is damaged or discoloured.  
 If a player has reason to believe his ball has become unfit for play during the play of the hole being played, he may during the play of such hole lift his ball without penalty to determine whether it is unfit, provided he announces his intention in advance to his opponent in match play or his marker or a fellow-competitor in stroke play and gives his opponent, marker or fellow-competitor an opportunity to examine the ball. If he lifts the ball without announcing his intention in advance or giving his opponent, marker or fellow-competitor an opportunity to examine the ball, *he shall incur a penalty of one stroke*.  
 If it is determined that the ball has become unfit for play during play of the hole being played, the player may substitute another ball, placing it on the spot where the original ball lay. Otherwise, the original ball shall be replaced.  
 If a ball breaks into pieces as a result of a stroke, the stroke shall be replayed without penalty (see Rule [20-5](#2005)).
 
 \*PENALTY FOR BREACH OF RULE 5-3:  
-*Match play - loss of hole; Stroke play - Two strokes.*
+*Match play - Loss of hole;  
+Stroke play - Two strokes.*
 
-\*If a player incurs the general penalty for breach of Rule 5-3, no additional penalty under the Rule shall be applied.
+*\*If a player incurs the general penalty for breach of Rule 5-3, no additional penalty under the Rule shall be applied.*
 
 *Note 1:* The ball may not be cleaned to determine whether it is unfit for play - see Rule [21](#21)  
 *Note 2:* If the opponent, marker or fellow-competitor wishes to dispute a claim of unfitness, he must do so before the player plays another ball.
 
-### PLAYER’S RESPONSIBILITIES Rule 6. The Player
+### PLAYER'S RESPONSIBILITIES Rule 6. The Player
 
 ### Definition
 
-A "marker" is one who is appointed by the Committee to record a [competitor](#Competitor) ’s score in stroke play. He may be a [fellow-competitor](#Competitor). He is not a [referee](#Referee).  
-A marker should not lift a ball or mark its position unless authorised to do so by the competitor and, unless he is a fellow-competitor, should not attend the flagstick or stand at the hole or mark its position.
+A "marker" is one who is appointed by the Committee to record a [competitor](#Competitor) ’s score in stroke play. He may be a [fellow-competitor](#Competitor). He is not a [referee](#Referee).
 
 ### 6-1. Conditions of Competition
 
@@ -471,10 +490,10 @@ The player is responsible for knowing the conditions under which the competition
 ### 6-2. Handicap
 
 **a. Match Play**  
-Before starting a match in a handicap competition, the player shall declare to his opponent the handicap to which he is entitled under the conditions of the competition. If a player declares and begins the match with a higher handicap which would affect the number of strokes given or received, *he shall be disqualified;* otherwise, the player shall play off the declared handicap.
+Before starting a match in a handicap competition, the players should determine from one another their respective handicaps. If a player begins the match having declared a higher handicap which would affect the number of strokes given or received, *he shall be disqualified;* otherwise, the player shall play off the declared handicap.
 
 **b. Stroke Play**  
-In any round of a handicap competition, the competitor shall ensure that the handicap to which he is entitled under the conditions of the competition is recorded on his score card before it is returned to the Committee. If no handicap is recorded on his score card before it is returned, or if the recorded handicap is higher than that to which he is entitled and this affects the number of strokes received, *he shall be disqualified* from that round of the handicap competition; otherwise, the score shall stand.
+In any round of a handicap competition, the competitor shall ensure that his handicap is recorded on his score card before it is returned to the Committee. If no handicap is recorded on his score card before it is returned, or if the recorded handicap is higher than that to which he is entitled and this affects the number of strokes received, *he shall be disqualified* from that round of the handicap competition; otherwise, the score shall stand.
 
 *Note:* It is the player’s responsibility to know the holes at which handicap strokes are to be given or received.
 
@@ -487,10 +506,11 @@ The player shall start at the time laid down by the Committee.
 In stroke play, the competitor shall remain throughout the round in the group arranged by the Committee unless the Committee authorises or ratifies a change.
 
 PENALTY FOR BREACH OF RULE 6-3:  
-*Disqualification.*  
+*Disqualification.*
+
 (Best-ball and four-ball play - see Rule [30-3a](#3003) and Rule [31-2](#3102))
 
-*Note:* The Committee may provide in the conditions of a competition (Rule [33-1](#3301)) that, in the absence of circumstances which warrant waiving the penalty of disqualification as provided in Rule [33-7](#3307), if the player arrives at his starting point, ready to play, within five minutes of his starting time, the penalty for failure to start on time is *loss of the first hole to be played in match play or two strokes in stroke play* instead of disqualification.
+*Note:* The Committee may provide in the conditions of a competition (Rule [33-1](#3301)) that, if the player arrives at his starting point, ready to play, within five minutes after his starting time, in the absence of circumstances which warrant waiving the penalty of disqualification as provided in Rule [33-7](#3307), the penalty for failure to start on time is *loss of the first hole in match play or two strokes at the first hole in stroke play* instead of disqualification.
 
 ### 6-4. Caddie
 
@@ -504,26 +524,31 @@ The responsibility for playing the proper ball rests with the player. Each playe
 ### 6-6. Scoring in Stroke Play
 
 **a. Recording Scores**  
-After each hole the [marker](#Marker) should check the score with the competitor. On completion of the round the marker shall sign the card and hand it to the competitor; if more than one marker record the scores, each shall sign for the part for which he is responsible.
+After each hole the [marker](#Marker) should check the score with the competitor and record it. On completion of the round the marker shall sign the card and hand it to the competitor. If more than one marker records the scores, each shall sign for the part for which he is responsible.
 
-**b. Checking Scores**  
-The competitor shall check his score for each hole, settle any doubtful points with the Committee, ensure that the marker has signed the card, countersign the card himself and return it to the Committee as soon as possible. The competitor is responsible for the correctness of the score recorded for each hole.
+**b. Signing and Returning Card**  
+After completion of the round, the competitor should check his score for each hole and settle any doubtful points with the Committee. He shall ensure that the marker has signed the card, countersign the card himself and return it to the Committee as soon as possible.
 
 PENALTY FOR BREACH OF RULE 6-6b:  
 *Disqualification.*
 
-**c. No Alteration of Scores**  
-No alteration may be made on a card after the competitor has returned it to the Committee.  
-If the competitor returns a score for any hole lower than actually taken, *he shall be disqualified*. If he returns a score for any hole higher than actually taken, the score as returned shall stand.
+**c. Alteration of Card**  
+No alteration may be made on a card after the competitor has returned it to the Committee.
 
-*Note:* In four-ball stroke play, see also Rules [31-4](#3104) and [\-7a](#3107).
+**d. Wrong Score for Hole**  
+The competitor is responsible for the correctness of the score recorded for each hole. If he returns a score for any hole lower than actually taken, *he shall be disqualified*. If he returns a score for any hole higher than actually taken, the score as returned shall stand.
+
+*Note 1:* The Committee is responsible for the addition of scores and application of the handicap recorded on the card - see Rule [33-5](#3305).
+
+*Note 2:* In four-ball stroke play, see also Rules [31-4](#3104) and [31-7a](#3107).
 
 ### 6-7. Undue Delay
 
 The player shall play without undue delay. Between completion of a hole and playing from the next teeing ground, the player shall not unduly delay play.
 
 PENALTY FOR BREACH OF RULE 6-7:  
-*Match play - Loss of hole; Stroke play - Two strokes.  
+*Match play - Loss of hole;  
+Stroke play - Two strokes.  
 For repeated offence - Disqualification.*
 
 *If the player unduly delays play between holes, he is delaying the play of the next hole and the penalty applies to that hole.*
@@ -540,14 +565,22 @@ The player shall not discontinue play unless:
 Bad weather is not of itself a good reason for discontinuing play.  
 If the player discontinues play without specific permission from the Committee, he shall report to the Committee as soon as practicable. If he does so and the Committee considers his reason satisfactory, the player incurs no penalty. Otherwise, *the player shall be disqualified.*
 
-*Exception in match play:* Players discontinuing match play by agreement are not subject to disqualification unless by so doing the competition is delayed.  
+*Exception in match play:* Players discontinuing match play by agreement are not subject to disqualification unless by so doing the competition is delayed.
+
 *Note:* Leaving the course does not of itself constitute discontinuance of play.
 
-**b. Procedure**  
-When play is discontinued in accordance with the Rules, it should, if feasible, be discontinued after the completion of the play of a hole. If this is not feasible, the player should lift his ball. The ball may be cleaned when so lifted. If a ball has been so lifted, the player shall, when play is resumed, place a ball on the spot from which the original ball was lifted.
+**b. Procedure When Play Suspended by Committee**  
+When play is suspended by the Committee, if the players in a match or group are between the play of two holes, they shall not resume play until the Committee has ordered a resumption of play. If they are in the process of playing a hole, they may continue provided they do so without delay. If they choose to continue, they shall discontinue either before or immediately after completing the hole, and shall not thereafter resume play until the Committee has ordered a resumption of play.
 
 PENALTY FOR BREACH OF RULE 6-8b:  
-*Match play - Loss of hole; Stroke play - Two strokes.*
+*Disqualification.*
+
+**c. Lifting Ball When Play Discontinued**  
+When during the play of a hole a player discontinues play under Rule 6-8a, he may lift his ball. A ball may be cleaned when so lifted. If a ball has been so lifted, the player shall, when play is resumed, place a ball on the spot from which the original ball was lifted.
+
+PENALTY FOR BREACH OF RULE 6-8c:  
+*Match play - Loss of hole;  
+Stroke play - Two strokes.*
 
 ### Rule 7. Practice
 
@@ -564,7 +597,7 @@ On any day of a stroke competition or play-off, a competitor shall not practise 
 PENALTY FOR BREACH OF RULE 7-1b:  
 *Disqualification.*
 
-*Note:* The Committee may in the conditions of a competition (Rule [33-1](#3301)) prohibit practice on the competition course on any day of a match play competition or permit practice on the competition course or part of the course (Rule [33-2c](#3302)) on any day of or between rounds of a stroke competition.
+*Note:* The Committee may in the conditions of a competition Rule ([33-1](#3301)) prohibit practice on the competition course on any day of a match play competition or permit practice on the competition course or part of the course (Rule [33-2c](#3302)) on any day of or between rounds of a stroke competition.
 
 ### 7-2. During Round
 
@@ -573,11 +606,13 @@ A player shall not play a practice [stroke](#Stroke) either during the play of a
 *Exception:* When play has been suspended by the Committee, a player may, prior to resumption of play, practise (a) as provided in this Rule, (b) anywhere other than on the competition course and (c) as otherwise permitted by the Committee.
 
 PENALTY FOR BREACH OF RULE 7-2:  
-*Match play - Loss of hole; Stroke play - Two strokes.*
+*Match play - Loss of hole;  
+Stroke play - Two strokes.*
 
 *In the event of a breach between the play of two holes, the penalty applies to the next hole.*
 
-*Note 1*: A practice swing is not a practice [stroke](#Stroke) and may be taken at any place, provided the player does not breach the Rules.  
+*Note 1*: A practice swing is not a practice [stroke](#Stroke) and may be taken at any place, provided the player does not breach the Rules.
+
 *Note 2*: The Committee may prohibit practice on or near the [putting green](#Putting) of the hole last played.
 
 ### Rule 8. Advice; Indicating Line of Play
@@ -589,9 +624,7 @@ Information on the Rules or on matters of public information, such as the positi
 
 ### 8-1. Advice
 
-Except as provided in Rule 8-2, a player may give advice to or ask advice from, only his partner or either of their caddies.
-
-*Note:* In a team competition without concurrent individual competition, the Committee may in the conditions of the competition (Rule [33-1](#3301)) permit each team to appoint one person, e.g., team captain or coach, who may give advice to members of that team. Such person shall be identified to the Committee prior to the start of the competition.
+A player shall not give [advice](#Advice) to anyone in the competition except his partner. A player may ask for advice from only his partner or either of their caddies.
 
 ### 8-2. Indicating Line of Play
 
@@ -602,10 +635,13 @@ Any mark placed during the play of a hole by the player or with his knowledge to
 *Exception:* Flagstick attended or held up - see Rule [17-1](#1701)
 
 **b. On the Putting Green**  
-When the player’s ball is on the [putting green](#Putting), the player’s caddie, his partner or his partner’s caddie may, before a [stroke](#Stroke) is played, point out a line for putting, but in so doing the putting green shall not be touched in front of, to the side of, or behind the hole. No mark shall be placed anywhere on the putting green to indicate a line for putting.
+When the player’s ball is on the [putting green](#Putting), the player, his partner or either of their caddies may, before but not during the [stroke](#Stroke), point out a line for putting, but in so doing the putting green shall not be touched. No mark shall be placed anywhere to indicate a line for putting.
 
 PENALTY FOR BREACH OF RULE:  
-*Match play - loss of hole; Stroke play - Two strokes.*
+*Match play - Loss of hole;  
+Stroke play - Two strokes.*
+
+*Note:* In a team competition with or without concurrent individual competition, the Committee may in the conditions the competition (Rule [33-1](#3301)) permit each team to appoint one person, e.g. team captain or coach, who may give [advice](#Advice) (including pointing out a line for putting) to members of that team. Such person shall be identified to the Committee prior to the start of the competition.
 
 ### Rule 9. Information as to Strokes Taken
 
@@ -615,10 +651,13 @@ The number of strokes a player has taken shall include any penalty strokes incur
 
 ### 9-2. Match Play
 
-A player who has incurred a penalty shall inform his opponent as soon as practicable. If he fails to do so, he shall be deemed to have given wrong information, even though he was not aware that he had incurred a penalty.  
-An opponent is entitled to ascertain from the player, during the play of a hole, the number of strokes he has taken and, after play of a hole, the number of strokes taken on the hole just completed.  
-If during the play of a hole the player gives or is deemed to give wrong information as to the number of strokes taken, he shall incur no penalty if he corrects the mistake before his opponent has played his next stroke.  
-If after play of a hole the player gives or is deemed to give wrong information as to the number of strokes taken on the hole just completed, he shall incur no penalty if he corrects his mistake before any player plays from the next [teeing ground](#Teeing) or, in the case of the last hole of the match, before all players leave the [putting green](#Putting). If the player fails so to correct the wrong information, *he shall lose the hole.*
+A player who has incurred a penalty shall inform his opponent as soon as practicable. If he fails to do so, he shall be deemed to have given wrong information, even if he was not aware that he had incurred a penalty.
+
+An opponent is entitled to ascertain from the player, during the play of a hole, the number of strokes he has taken and, after play of a hole, the number of strokes taken on the hole just completed.
+
+If during the play of a hole the player gives or is deemed to give wrong information as to the number of strokes taken, he shall incur no penalty if he corrects the mistake before his opponent has played his next stroke. If the player fails so to correct the wrong information, *he shall lose the hole.*
+
+If after play of a hole the player gives or is deemed to give wrong information as to the number of strokes taken on the hole just completed and this affects the opponent’s understanding of the result of the hole, he shall incur no penalty if he corrects his mistake before any player plays from the next [teeing ground](#Teeing) or, in the case of the last hole of the match, before all players leave the [putting green](#Putting). If the player fails so to correct the wrong information, *he shall lose the hole.*
 
 ### 9-3. Stroke Play
 
@@ -639,7 +678,7 @@ When the balls are in play, the ball farther from the hole shall be played first
 *Exception:* Rule [30-3c](#3003) (best-ball and four-ball match play).
 
 **c. Playing Out of Turn**  
-If a player plays when his opponent should have played, the opponent may immediately require the player to abandon the ball so played and, without penalty, play a ball in correct order (see Rule [20-5](#2005)).
+If a player plays when his opponent should have played, the opponent may immediately require the player to cancel the stroke so played and play a ball in correct order, without penalty (see Rule [20-5](#2005)).
 
 ### 10-2. Stroke Play
 
@@ -674,37 +713,41 @@ The "teeing ground" is the starting place for the hole to be played. It is a rec
 ### 11-1. Teeing
 
 In teeing, the ball may be placed on the ground, on an irregularity of surface created by the player on the ground or on a tee, sand or other substance in order to raise it off the ground.  
-A player may stand outside the [teeing ground](#Teeing) to play a ball within it.  
-When the first stroke with any ball (including a [provisional](#provisional) ball) is played from the teeing ground, the tee-markers are immovable [obstructions](#obstruction) (see Rule [24-2)](#2402).
+A player may stand outside the [teeing ground](#Teeing) to play a ball within it.
 
-### 11-2. Ball Falling Off Tee
+### 11-2. Tee-Markers
 
-If a ball, when not [in play](<#in Play>), falls off a tee or is knocked off a tee by the player in addressing it, it may be re-teed without penalty, but if a [stroke](#Stroke) is made at the ball in these circumstances, whether the ball is moving or not, the stroke shall be counted but no penalty shall be incurred.
+Before a player plays his first stroke with any ball from the teeing ground of the hole being played, the tee-markers are deemed to be fixed. In such circumstances, if the player moves or allows to be moved a tee-marker for the purpose of avoiding interference with his stance, the area of his intended swing or his line of play, *he shall incur the penalty for a breach of Rule [13-2](#1302)*.
 
-### 11-3. Playing from Outside Teeing Ground
+### 11-3. Ball Falling Off Tee
+
+If a ball, when not [in play](<#in Play>), falls off a tee or is knocked off a tee by the player in addressing it, it may be re-teed without penalty, but if a [stroke](#Stroke) is made at the ball in these circumstances, whether the ball is moving or not, the stroke counts but no penalty is incurred.
+
+### 11-4. Playing from Outside Teeing Ground
 
 **a. Match Play**  
-If a player, when starting a hole, plays a ball from outside the [teeing ground](#Teeing), the opponent may immediately require the player to replay the stroke from within the teeing ground, without penalty.
+If a player, when starting a hole, plays a ball from outside the [teeing ground](#Teeing), the opponent may immediately require the player to cancel the stroke so played and play a ball from within the teeing ground, without penalty.
 
 **b. Stroke Play**  
-If a competitor, when starting a hole, plays a ball from outside the [teeing ground](#Teeing), *he shall be penalised two strokes* and shall then play a ball from within the teeing ground.  
-Strokes played by a competitor from outside the teeing ground do not count in his score. If the competitor fails to rectify his mistake before making a stroke on the next teeing ground or, in the case of the last hole of the round, before leaving the [putting green](#Putting), *he shall be disqualified.*
+If a competitor, when starting a hole, plays a ball from outside the [teeing ground](#Teeing), *he shall incur a penalty of two strokes* and shall then play a ball from within the teeing ground.  
+If the competitor plays a stroke from the next teeing ground without first correcting his mistake or, in the case of the last hole of the round, leaves the [putting green](#Putting) without first declaring his intention to correct his mistake, *he shall be disqualified.*  
+Strokes played by a competitor from outside the teeing ground do not count in his score.
 
-### PLAYING THE BALLRule 12. Searching for and Identifying Ball
+### PLAYING THE BALL Rule 12. Searching for and Identifying Ball
 
 **Definitions**  
 A "hazard" is any [bunker](#Bunker) or [water hazard](#Water).
 
-A "bunker" is a [hazard](#hazard) consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker.
+A "bunker" is a [hazard](#hazard) consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker. The margin of a bunker extends vertically downwards, but not upwards.
 
 A "water hazard" is any sea, lake, pond, river, ditch, surface drainage ditch or other open water course (whether or not containing water) and anything of a similar nature.  
-All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard is deemed to extend vertically upwards. Stakes and lines defining the margins of water hazards are in the hazards.
+All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard extends vertically upwards and downwards. Stakes and lines defining the margins of water hazards are in the hazards.
 
 ### 12-1. Searching for Ball; Seeing Ball
 
-If a ball lies in long grass, rushes, bushes, whins, heather or the like, only so much thereof may be touched as will enable the player to find and identify his ball, except that nothing shall be done which improves its lie, the area of his intended swing or his line of play.  
+In searching for his ball anywhere on the course, the player may touch or bend long grass, rushes, bushes, whins, heather or the like, but only to the extent necessary to find and identify it, provided that this does not improve the lie of the ball, the area of his intended swing or his line of play.  
 A player is not necessarily entitled to see his ball when playing a stroke.  
-In a [hazard](#hazard), if a ball is covered by [loose impediments](#Loose) or sand, the player may remove only as much thereof as will enable him to see part of a ball. If the ball is moved in such removal, no penalty is incurred and the ball shall be replaced. As to removal of loose impediments outside a hazard, see Rule [23](#23).  
+In a [hazard](#hazard), if a ball is covered by [loose impediments](#Loose) or sand, the player may remove by probing, raking or other means as much thereof as will enable him to see a part of the ball. If an excess is removed, no penalty is incurred and the ball shall be re-covered so that only a part of the ball is visible. If the ball is moved in such removal, no penalty is incurred; the ball shall be replaced and, if necessary, re-covered. As to removal of loose impediments outside a hazard, see Rule [23](#23).  
 If a ball lying in [casual water](#Casual), [ground under repair](#gur) or a hole, cast or runway made by a burrowing animal, a reptile or a bird is accidentally moved during search, no penalty is incurred; the ball shall be replaced, unless the player elects to proceed under Rule [25-1b](#2501).  
 If a ball is believed to be lying in water in a [water hazard](#Water), the player may probe for it with a club or otherwise. If the ball is moved in so doing, no penalty is incurred; the ball shall be replaced, unless the player elects to proceed under Rule [26-1](#2601).
 
@@ -715,7 +758,7 @@ PENALTY FOR BREACH OF RULE 12-1:
 
 *The responsibility for playing the proper ball rests with the player. Each player should put an identification mark on his ball.*
 
-Except in a [hazard](#hazard), the player may, without penalty, lift a ball he believes to be his own for the purpose of identification and clean it to the extent necessary for identification. If the ball is the player’s ball, he shall replace it on the spot from which it was lifted. Before the player lifts the ball, he shall announce his intention to his opponent in match play or his marker or a fellow-competitor in stroke play and give his opponent, marker or fellow-competitor an opportunity to observe the lifting and replacement. If he lifts his ball without announcing his intention in advance or giving his opponent, marker or fellow-competitor an opportunity to observe, or if he lifts his ball for identification in a hazard, *he shall incur a penalty of one stroke* and the ball shall be replaced.  
+Except in a [hazard](#hazard), the player may, without penalty, lift a ball he believes to be his own for the purpose of identification and clean it to the extent necessary for identification. If the ball is the player’s ball, he shall replace it. Before the player lifts the ball, he shall announce his intention to his opponent in match play or his marker or a fellow-competitor in stroke play and give his opponent, marker or fellow-competitor an opportunity to observe the lifting and replacement. If he lifts his ball without announcing his intention in advance or giving his opponent, marker or fellow-competitor an opportunity to observe, or if he lifts his ball for identification in a hazard, *he shall incur a penalty of one stroke* and the ball shall be replaced.  
 If a player who is required to replace a ball fails to do so, *he shall incur the penalty* for a breach of [Rule 20-3a](#2003), but no additional penalty under Rule 12-2 shall be applied.
 
 ### Rule 13. Ball Played As It Lies; Lie, Area of Intended Swing and Line of Play; Stance
@@ -723,10 +766,10 @@ If a player who is required to replace a ball fails to do so, *he shall incur th
 **Definitions**  
 A "hazard" is any [bunker](#Bunker) or [water hazard](#Water).
 
-A "bunker" is a hazard consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker.
+A "bunker" is a hazard consisting of a prepared area of ground, often a hollow, from which turf or soil has been removed and replaced with sand or the like. Grass-covered ground bordering or within a bunker is not part of the bunker. The margin of a bunker extends vertically downwards, but not upwards.
 
 A "water hazard" is any sea, lake, pond, river, ditch, surface drainage ditch or other open water course (whether or not containing water) and anything of a similar nature.  
-All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard is deemed to extend vertically upwards. Stakes and lines defining the margins of water hazards are in the hazards.
+All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard extends vertically upwards and downwards. Stakes and lines defining the margins of water hazards are in the hazards.
 
 ### 13-1. Ball Played as It Lies
 
@@ -737,12 +780,11 @@ The ball shall be played as it lies, except as otherwise provided in the Rules. 
 Except as provided in the Rules, a player shall not improve or allow to be improved:
 
 > the position or lie of his ball,  
-> the area of his intended swing, or  
-> his line of play
+> the area of his intended swing,  
+> his line of play or  
+> the area in which he is to drop or place a ball
 
-by any of the following actions:
-
-> moving, bending or breaking anything growing or fixed (including objects defining [out of bounds](#oob)) or  
+> moving, bending or breaking anything growing or fixed (including immovable [obstructions](#obstruction) and objects defining [out of bounds](#oob)) or  
 > removing or pressing down sand, loose soil, replaced divots, other cut turf placed in position or other irregularities of surface
 
 except as follows:
@@ -767,9 +809,12 @@ a. Test the condition of the hazard or any similar hazard,
 b. Touch the ground in the hazard or water in the water hazard with a club or otherwise, or  
 c. Touch or move a [loose impediment](#loose) lying in or touching the hazard.
 
-*Exceptions:*  
-1\. At address or in the backward movement for the stroke, the club may touch any [obstruction](#obstruction), or any grass, bush, tree or other growing thing.  
-2\. The player may place his clubs in a hazard, provided nothing is done which may constitute testing the soil or improving the lie of the ball.  
+*Exceptions:*
+
+1\. At address or in the backward movement for the stroke, the club may touch any obstruction, or any grass, bush, tree or other growing thing.
+
+2\. The player may place his clubs in a hazard, provided nothing is done which may constitute testing the soil or improving the lie of the ball.
+
 3\. The player after playing the stroke, or his [caddie](#caddie) at any time without the authority of the player, may smooth sand or soil in the hazard, provided that, if the ball still lies in the hazard, nothing is done which improves the lie of the ball or assists the player in his subsequent play of the hole.
 
 PENALTY FOR BREACH OF RULE:  
@@ -780,7 +825,7 @@ PENALTY FOR BREACH OF RULE:
 ### Rule 14. Striking the Ball
 
 **Definition**  
-A "stroke" is the forward movement of the club made with the intention of fairly striking at and moving the ball.
+A "stroke" is the forward movement of the club made with the intention of fairly striking at and moving the ball, but if a player checks his downswing voluntarily before the clubhead reaches the ball he is deemed not to have made a stroke.
 
 ### 14-1. Ball to be Fairly Struck at
 
@@ -797,7 +842,8 @@ PENALTY FOR BREACH OF RULE 14-1 or -2:
 
 Except as provided in the Rules, during a [stipulated round](#Stipulated) the player shall not use any artificial device or unusual equipment:
 
-a. For the purpose of gauging or measuring distance or conditions which might affect his play; or  
+a. For the purpose of gauging or measuring distance or conditions which might affect his play; or
+
 b. Which might assist him in gripping the club, in making a stroke or in his play, except that plain gloves may be worn, resin, tape or gauze may be applied to the grip (provided such application does not render the grip non-conforming under Rule [4-1c](#0401)) and a towel or handkerchief may be wrapped around the grip.
 
 PENALTY FOR BREACH OF RULE 14-3:  
@@ -812,7 +858,7 @@ If a player’s club strikes the ball more than once in the course of a [stroke]
 A player shall not play while his ball is moving.
 
 *Exceptions:*  
-Ball falling off tee - Rule [11-2](#1102)  
+Ball falling off tee - Rule [11-3](#1103)  
 Striking the ball more than once - Rule 14-4  
 Ball moving in water - Rule 14-6
 
@@ -835,24 +881,26 @@ a. [The ball in play](<#in play>),
 b. [A provisional ball](#provisional), or  
 c. In stroke play, a second ball played under Rule [3-3](#0303) or Rule [20-7b](#2007).
 
+*Note:* Ball in play includes a ball substituted for the ball in play when the player is proceeding under an applicable Rule which does not permit substitution.
+
 ### 15-1. General
 
-A player must hole out with the ball played from the [teeing ground](#teeing) unless a Rule permits him to substitute another ball.
+A player must hole out with the ball played from the [teeing ground](#teeing) unless a Rule permits him to substitute another ball. If a player substitutes another ball when proceeding under an applicable Rule which does not permit substitution, that ball is not a [wrong ball](#wrong); it becomes the ball [in play](<#in play>) and, if the error is not corrected as provided in Rule [20-6](#2006), *the player shall incur a penalty of loss of hole in match play or two strokes in stroke play.*
 
 ### 15-2. Match Play
 
 If a player plays a stroke with a [wrong ball](#wrong) except in a [hazard](#hazard), *he shall lose the hole.*  
-If a player plays any strokes in a hazard with a wrong ball, there is no penalty. Strokes played in a hazard with a wrong ball do not count in the player’s score.  
+If a player plays any strokes in a hazard with a wrong ball, there is no penalty. Strokes played in a hazard with a wrong ball do not count in the player’s score. If the wrong ball belongs to another player, its owner shall place a ball on the spot from which the wrong ball was first played.  
 If the player and opponent exchange balls during the play of a hole, the first to play the wrong ball other than from a hazard shall lose the hole; when this cannot be determined, the hole shall be played out with the balls exchanged.
 
 ### 15-3. Stroke Play
 
-If a competitor plays a stroke with a [wrong ball](#wrong) except in a hazard, *he shall add two penalty strokes to his score* and shall then play the correct ball.  
-If a competitor plays any strokes in a hazard with a wrong ball, there is no penalty.  
-Strokes played with a wrong ball do not count in a competitor’s score.  
-If a competitor holes out with a wrong ball, but has not made a stroke on the next [teeing ground](#teeing) or, in the case of the last hole of the round, has not left the [putting green](#putting), he may rectify his mistake by playing the correct ball, subject to the prescribed penalty. *The competitor shall be disqualified* if he does not so rectify his mistake.
+If a competitor plays a stroke or strokes with a [wrong ball](#wrong), *he shall incur a penalty of two strokes*, unless the only stroke or strokes played with such ball were played when it was lying in a hazard, in which case no penalty is incurred.  
+The competitor must correct his mistake by playing the correct ball. If he fails to correct his mistake before he plays a stroke from the next [teeing ground](#teeing) or, in the case of the last hole of the round, fails to declare his intention to correct his mistake before leaving the [putting green](#putting), *he shall be disqualified.*  
+Strokes played by a competitor with a wrong ball do not count in his score.  
+If the wrong ball belongs to another competitor, its owner shall place a ball on the spot from which the wrong ball was first played.
 
-For procedure to be followed by owner of wrong ball, see Rule [18-1](#1801).
+(Lie of ball to be placed or replaced altered - see Rule [20-3b](#2003))
 
 ##### To Top
 
@@ -866,13 +914,15 @@ A ball is "holed" when it is at rest within the circumference of the hole and al
 ### 16-1. General
 
 **a. Touching Line of Putt**  
-The line of putt must not be touched except:  
-(i) the player may move sand, loose soil and other [loose impediments](#loose) by picking them up or by brushing them aside with his hand or a club without pressing anything down;  
+The line of putt must not be touched except:
+
+(i) the player may move sand and loose soil on the putting green and other [loose impediments](#loose) by picking them up or by brushing them aside with his hand or a club without pressing anything down;  
 (ii) in addressing the ball, the player may place the club in front of the ball without pressing anything down;  
 (iii) in measuring - Rule [10-4](#1004);  
 (iv) in lifting the ball - Rule 16-1b;  
-(v) in repairing old hole plugs or ball marks - Rule 16-1c; and  
-(vi) in removing movable [obstructions](#obstruction) - Rule [24-1](#2401)
+(v) in pressing down a ball-marker;  
+(vi) in repairing old hole plugs or ball marks on the putting green - Rule 16-1c; and  
+(vii) in removing movable [obstructions](#obstruction) - Rule [24-1](#2401)
 
 (Indicating line for putting on putting green - See Rule [8-2b](#0802))
 
@@ -891,34 +941,35 @@ The player shall not make a [stroke](#Stroke) on the [putting green](#putting) f
 **f. Position of Caddie or Partner**  
 While making a stroke, the player shall not allow his caddie, his partner or his partner’s caddie to position himself on or close to an extension of the line of putt behind the ball.
 
-**g. Other Ball to Be at Rest**  
-A player shall not play a stroke or touch his ball in play while another ball is in motion after a stroke on the putting green.
+**g. Playing Stroke While Another Ball in Motion**  
+A player shall not play a stroke while another ball is in motion after a stroke from the putting green.
 
-**h. Ball Overhanging Hole**  
-When any part of the ball overhangs the edge of the hole, the player is allowed enough time to reach the hole without unreasonable delay and an additional ten seconds to determine whether the ball is at rest. If by then the ball has not fallen into the hole, it is deemed to be at rest.
+(Lifting ball interfering with or assisting play while another ball in motion - see Rule [22](#22))
 
 PENALTY FOR BREACH OF RULE 16-1:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
 
-### 16-2. Conceding Opponent’s Next Stroke
+### 16-2. Ball Overhanging Hole
 
-When the opponent’s ball is at rest or is deemed to be at rest, the player may concede the opponent to have holed out with his next stroke and the ball may be removed by either side with a club or otherwise.
+When any part of the ball overhangs the lip of the hole, the player is allowed enough time to reach the hole without unreasonable delay and an additional ten seconds to determine whether the ball is at rest. If by then the ball has not fallen into the hole, it is deemed to be at rest. If the ball subsequently falls into the hole, the player is deemed to have holed out with his last stroke, and *he shall add a penalty stroke to his score* for the hole; otherwise there is no penalty under this Rule.
+
+(Undue delay - see Rule [6-7](#0607))
 
 ### Rule 17. The Flagstick
 
 ### 17-1. Flagstick Attended, Removed or Held Up
 
 Before and during the [stroke](#Stroke), the player may have the flagstick attended, removed or held up to indicate the position of the hole. This may be done only on the authority of the player before he plays his stroke.  
-If the flagstick is attended or removed by an opponent, a fellow-competitor or the caddie of either with the player’s knowledge and no objection is made, the player shall be deemed to have authorised it. If player or a caddie attends or removes the flagstick or stands near the hole while a stroke is being played, he shall be deemed to attend the flagstick until the ball comes to rest.  
+If the flagstick is attended, removed or held up by an opponent, a fellow-competitor or the caddie of either with the player’s knowledge and no objection is made, the player shall be deemed to have authorised it. If player or a caddie attends, removes or holds up the flagstick or stands near the hole while a stroke is being played, he shall be deemed to be attending the flagstick until the ball comes to rest.  
 If the flagstick is not attended before the stroke is played, it shall not be attended or removed while the ball is in motion.
 
 ### 17-2. Unauthorised Attendance
 
 **a. Match Play**  
-In match play, an opponent or his caddie shall not attend or remove the flagstick without the player’s knowledge or authority.
+In match play, an opponent or his caddie shall not attend, remove or hold up the flagstick without the player's knowledge or authority while the player is making a stroke or his ball is in motion.
 
 **b. Stroke Play**  
-In stroke play, if a fellow-competitor or his caddie attends or removes the flagstick without the competitor’s knowledge or authority while the competitor is making a stroke or his ball is in motion, the *fellow-competitor shall incur the penalty* for breach of this Rule. In such circumstances, if the competitor’s ball strikes the flagstick or the person attending it, the competitor incurs no penalty and the ball shall be played as it lies, except that, if the stroke was played from the putting green, the stroke shall be replayed.
+In stroke play, if a fellow-competitor or his caddie attends, removes or holds up the flagstick without the competitor’s knowledge or authority while the competitor is making a stroke or his ball is in motion, the *fellow-competitor shall incur the penalty* for breach of this Rule. In such circumstances, if the competitor’s ball strikes the flagstick or the person attending it, the competitor incurs no penalty and the ball shall be played as it lies, except that, if the stroke was played from the putting green, the stroke shall be replayed.
 
 PENALTY FOR BREACH OF RULE 17-1 or -2:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
@@ -926,7 +977,7 @@ PENALTY FOR BREACH OF RULE 17-1 or -2:
 ### 17-3. Ball Striking Flagstick or Attendant
 
 The player’s ball shall not strike:  
-a. The flagstick when attended or removed by the player, his partner or either of their caddies, or by another person with the player’s knowledge or authority; or  
+a. The flagstick when attended, removed or held up by the player, his partner or either of their caddies, or by another person with the player’s knowledge or authority; or  
 b. The player’s caddie, his partner or his partner’s caddie when attending the flagstick, or another person attending the flagstick with the player’s knowledge or authority, or [equipment](#equipment) carried by any such person; or  
 c. The flagstick in the hole, unattended, when the ball has been played from the [putting green](#putting).
 
@@ -935,23 +986,23 @@ PENALTY FOR BREACH OF RULE 17-3:
 
 ### 17-4. Ball Resting Against Flagstick
 
-If the ball rests against the flagstick when it is in the hole, the player or someone authorised by him may move or remove the flagstick and if the ball falls into the hole, the player shall be deemed to have holed out with his last stroke; otherwise the ball, if [moved](#Move), shall be placed on the lip of the hole, without penalty.
+If the ball rests against the flagstick when it is in the hole, the player or another person authorised by him may move or remove the flagstick and if the ball falls into the hole, the player shall be deemed to have holed out with his last stroke; otherwise the ball, if [moved](#Move), shall be placed on the lip of the hole, without penalty.
 
 ### BALL MOVED, DEFLECTED OR STOPPED Rule 18. Ball at Rest Moved
 
 **Definitions**  
 A ball is deemed to have "moved" if it leaves its position and comes to rest in any other place.
 
-An "outside agency" is any agency not part of the match or, in stroke play, not part of a competitor’s side, and includes a referee, a marker, an observer or a forecaddie. Neither wind nor water is an outside agency.
+An "outside agency" is any agency not part of the match or, in stroke play, not part of the competitor’s side, and includes a referee, a marker, an observer or a forecaddie. Neither wind nor water is an outside agency.
 
-"Equipment" is anything used, worn or carried by or for the player except any ball he has played and any small object, such as a coin or a tee, when used to mark the position of a ball or the extent of an area in which a ball is to be dropped. Equipment includes a golf cart, whether or not motorised. If such a cart is shared by more than one player, its status under the Rules is the same as that of a caddie employed by more than one player. See " [Caddie](#caddie) "
+"Equipment" is anything used, worn or carried by or for the player except any ball he has played at the hole being played and any small object, such as a coin or a tee, when used to mark the position of a ball or the extent of an area in which a ball is to be dropped. Equipment includes a golf cart, whether or not motorised. If such a cart is shared by more than one player, its status under the Rules is the same as that of a caddie employed by more than one player. See " [Caddie](#caddie) "
 
 A player has "addressed the ball" when he has taken his [stance](#Stance) and has also grounded his club, except that in a [hazard](#hazard) a player has addressed the ball when he has taken his stance.  
 Taking the "stance" consists in a player placing his feet in position for and preparatory to making a [stroke](#Stroke).
 
 ### 18-1. By Outside Agency
 
-If a ball at rest is moved by an [outside agency](#agency), the player shall incur no penalty and the ball shall be replaced before the player plays another [stroke](#Stroke). If the ball moved is not immediately recoverable, another ball may be substituted.
+If a ball at rest is moved by an [outside agency](#agency), the player shall incur no penalty and the ball shall be replaced before the player plays another [stroke](#Stroke).
 
 (Player’s ball at rest moved by another ball - see Rule 18-5)
 
@@ -960,9 +1011,8 @@ If a ball at rest is moved by an [outside agency](#agency), the player shall inc
 **a. General**  
 When a player’s ball is [in play](<#in play>), if:
 
-> (i) the player, his partner or either of their caddies lifts or moves it, touches it purposely (except with a club in the act of addressing it) or causes it to move except as permitted by a Rule, or  
-> (ii) equipment of the player or his partner causes the ball to move,
-
+(i) the player, his partner or either of their caddies lifts or moves it, touches it purposely (except with a club in the act of addressing it) or causes it to move except as permitted by a Rule, or  
+(ii) equipment of the player or his partner causes the ball to move,  
 *the player shall incur a penalty stroke*. The ball shall be replaced unless the movement of the ball occurs after the player has begun his swing and he does not discontinue his swing.
 
 Under the Rules no penalty is incurred if a player accidentally causes his ball to move in the following circumstances:
@@ -974,14 +1024,14 @@ Under the Rules no penalty is incurred if a player accidentally causes his ball 
 > In the process of lifting ball under a Rule - Rule [20-1](#2001)  
 > In the process of placing or replacing ball under a Rule - Rule [20-3a](#2003)  
 > In complying with Rule [22](#22) relating to lifting ball interfering with or assisting play  
-> In removal of movable [obstruction](#Obstruction) - Rule [24-1](#2401)
+> In removal of movable [obstruction](#obstruction) - Rule [24-1](#2401)
 
 **b. Ball Moving After Address**  
-If a [ball in play](<#in play>) [moves](#Move) after the player has [addressed](#Address) it other than as a result of a stroke, he shall be deemed to have moved the ball and *shall incur a penalty stroke* and the ball shall be played as it lies.
+If a player’s [ball in play](<#in play>) [moves](#Move) after he has [addressed](#Address) it (other than as a result of a stroke), the player shall be deemed to have moved the ball and *shall incur a penalty stroke.* The player shall replace the ball unless the movement of the ball occurs after he has begun his swing and he does not discontinue his swing.
 
 **c. Ball Moving After Loose Impediment Touched**  
-[Through the green](#Through), if the ball moves after any [loose impediment](#loose) lying within a club-length of it has been touched by the player, his partner or either of their caddies and before the player has [addressed](#Address) it, the player shall be deemed to have moved the ball and *shall incur a penalty stroke.* The player shall replace the ball unless the movement of the ball occurs after he has begun his swing and he does not discontinue his swing.  
-On the [putting green](#putting), if the ball moves in the process of removing any loose impediment, it shall be replaced without penalty.
+[Through the green](#Through), if the ball [moves](#Move) after any [loose impediment](#loose) lying within a club-length of it has been touched by the player, his partner or either of their caddies and before the player has [addressed](#Address) it, the player shall be deemed to have moved the ball and *shall incur a penalty stroke.* The player shall replace the ball unless the movement of the ball occurs after he has begun his swing and he does not discontinue his swing.  
+On the [putting green](#putting), if the ball [moves](#Move) in the process of removing any [loose impediment](#loose), it shall be replaced without penalty.
 
 ### 18-3. By Opponent, Caddie or Equipment in Match Play
 
@@ -989,7 +1039,7 @@ On the [putting green](#putting), if the ball moves in the process of removing a
 If, during search for a player’s ball, it is moved by an opponent, his caddie or his [equipment](#Equipment), no penalty is incurred and the player shall replace the ball.
 
 **b. Other Than During Search**  
-If, other than during search for a ball, the ball is touched or moved by an opponent, his caddie or his equipment, except as otherwise provided in the Rules, *the opponent shall incur a penalty stroke*. The player shall replace the ball.
+If, other than during search for a ball, the ball is touched or moved by an opponent, his caddie or his [equipment](#Equipment), except as otherwise provided in the Rules, *the opponent shall incur a penalty stroke*. The player shall replace the ball.
 
 (Ball moved in measuring to determine which ball farther from the hole - see Rule [10-4](#1004))  
 (Playing a wrong ball - see Rule [15-2](#1502))  
@@ -1003,64 +1053,70 @@ If a competitor’s ball is moved by a fellow-competitor, his caddie or his [equ
 
 ### 18-5. By Another Ball
 
-If a player’s ball at rest is moved by another ball, the player’s ball shall be replaced.
+If a ball in play and at rest is moved by another ball in motion after a stroke, the moved ball shall be replaced.
 
 \*PENALTY FOR BREACH OF RULE:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
 
 *\*If a player who is required to replace a ball fails to do so, he shall incur the general penalty for breach of Rule 18 but no additional penalty under Rule 18 shall be applied.*
 
-*Note*: If it is impossible to determine the spot on which a ball is to be placed, see Rule [20-3c](#2003).
+*Note 1*: If a ball to be replaced under this Rule is not immediately recoverable, another ball may be substituted.
+
+*Note 2*: If it is impossible to determine the spot on which a ball is to be placed, see Rule [20-3c](#2003).
 
 ### Rule 19. Ball in Motion Deflected or Stopped
 
 **Definitions**  
 An "outside agency" is any agency not part of the match or, in stroke play, not part of a competitor’s side, and includes a referee, a marker, an observer or a forecaddie. Neither wind nor water is an outside agency.
 
-"Equipment" is anything used, worn or carried by or for the player except any ball he has played and any small object, such as a coin or a tee, when used to mark the position of a ball or the extent of an area in which a ball is to be dropped. Equipment includes a golf cart, whether or not motorised. If such a cart is shared by more than one player, its status under the Rules is the same as that of a caddie employed by more than one player. See " [Caddie](#caddie) "
+"Equipment" is anything used, worn or carried by or for the player except any ball he has played at the hole being played and any small object, such as a coin or a tee, when used to mark the position of a ball or the extent of an area in which a ball is to be dropped. Equipment includes a golf cart, whether or not motorised. If such a cart is shared by more than one player, its status under the Rules is the same as that of a caddie employed by more than one player. See " [Caddie](#caddie) "
 
 ### 19-1. By Outside Agency
 
-If a ball in motion is accidentally deflected or stopped by any [outside agency](#agency), it is a [rub of the green](#Rub), no penalty is incurred and the ball shall be played as it lies except:  
-a. If a ball in motion after a [stroke](#Stroke) other than on the [putting green](#putting) comes to rest in or on any moving or animate outside agency, the player shall, [through the green](#Through) or in a [hazard](#hazard), drop the ball, or on the putting green place the ball, as near as possible to the spot where the outside agency was when the ball came to rest in or on it, and  
-b. If a ball in motion after a stroke on the putting green is deflected or stopped by, or comes to rest in or on, any moving or animate outside agency, the stroke shall be cancelled and the ball shall be replaced.
+If a ball in motion is accidentally deflected or stopped by any [outside agency](#agency), it is a [rub of the green](#Rub), no penalty is incurred and the ball shall be played as it lies except:
+
+a. If a ball in motion after a [stroke](#Stroke) other than on the [putting green](#putting) comes to rest in or on any moving or animate outside agency, the player shall, [through the green](#Through) or in a [hazard](#hazard), drop the ball, or on the putting green place the ball, as near as possible to the spot where the outside agency was when the ball came to rest in or on it, and
+
+b. If a ball in motion after a stroke on the putting green is deflected or stopped by, or comes to rest in or on, any moving or animate outside agency except a worm or an insect, the stroke shall be cancelled and the ball shall be replaced.
 
 If the ball is not immediately recoverable, another ball may be substituted.
 
-(Player’s ball deflected or stopped by another ball at rest - see Rule 19-5)
+(Player’s ball deflected or stopped by another ball - see Rule 19-5)
 
-*Note:* If the referee or the Committee determines that a ball has been deliberately deflected or stopped by an outside agency, including a fellow-competitor or his caddie, further procedure should be prescribed in equity under Rule [1-4](#0104).
+*Note:* If the referee or the Committee determines that a competitor’s ball has been purposely deflected or stopped by an outside agency, Rule [1-4](#0104) applies to the competitor. If the outside agency is a fellow-competitor or his caddie, Rule [1-2](#0102) applies to the fellow-competitor.
 
 ### 19-2. By Player, Partner, Caddie or Equipment
 
 **a. Match Play**  
-If a player’s ball is deflected or stopped by himself, his partner or either of their caddies or [equipment](#Equipment), *he shall lose the hole.*
+If a player’s ball is accidentally deflected or stopped by himself, his partner or either of their caddies or [equipment](#Equipment), *he shall lose the hole.*
 
 **b. Stroke Play**  
-If a competitor’s ball is deflected or stopped by himself, his partner or either of their caddies or [equipment](#Equipment), *the competitor shall incur a penalty of two strokes.* The ball shall be played as it lies, except when it comes to rest in or on the competitor’s, his partner’s or either of their caddies’ clothes or equipment, in which case the competitor shall [through the green](#through) or in a [hazard](#hazard) drop the ball, or on the [putting green](#putting) place the ball, as near as possible to where the article was when the ball came to rest in or on it.
+If a competitor’s ball is accidentally deflected or stopped by himself, his partner or either of their caddies or [equipment](#Equipment), *the competitor shall incur a penalty of two strokes.* The ball shall be played as it lies, except when it comes to rest in or on the competitor’s, his partner’s or either of their caddies’ clothes or equipment, in which case the competitor shall [through the green](#through) or in a [hazard](#hazard) drop the ball, or on the [putting green](#putting) place the ball, as near as possible to where the article was when the ball came to rest in or on it.
 
 *Exception:* Dropped Ball - see Rule [20-2a](#2002).
 
+(Ball purposely deflected or stopped by player, partner or caddie - see Rule [1-2](#0102))
+
 ### 19-3. By Opponent, Caddie or Equipment in Match Play
 
-**a. Purposely**  
-If a player’s ball is purposely deflected or stopped by an opponent, his caddie or his [equipment](#Equipment), *the opponent shall lose the hole*.
-
-*Note:* In the case of a serious breach of Rule 19-3a, the Committee may impose a penalty of disqualification.
-
-**b. Accidentally**  
-If a player’s ball is accidentally deflected or stopped by an opponent, his caddie or his [equipment](#Equipment), no penalty is incurred. The player may play the ball as it lies or, before another [stroke](#Stroke) is played by either side, cancel the stroke and replay the stroke (see [20-5](#2005)).  
-If the ball has come to rest in or on the opponent’s or his caddie’s clothes or equipment, the player may [through the green](#Through) or in a [hazard](#hazard) drop the ball, or on the [putting green](#putting) place the ball, as near as possible to where the article was when the ball came to rest in or on it.
+If a player’s ball is accidentally deflected or stopped by an opponent, his caddie or his [equipment](#Equipment), no penalty is incurred. The player may play the ball as it lies or, before another [stroke](#Stroke) is played by either side, cancel the stroke and replay it (see Rule [20-5](#2005)). If the player elects to replay the stroke and the original ball is not immediately recoverable, another ball may be substituted.  
+If the ball has come to rest in or on the opponent’s or his caddie’s clothes or equipment, the player may [through the green](#Through) or in a [hazard](#hazard) drop the ball, or on the putting green place the ball, as near as possible to where the article was when the ball came to rest in or on it.
 
 *Exception:* Ball striking person attending flagstick - see Rule [17-3b](#1703).
+
+(Ball purposely deflected or stopped by opponent or caddie - see Rule [1-2](#0102))
 
 ### 19-4. By Fellow-Competitor, Caddie or Equipment in Stroke Play
 
 See Rule 19-1 regarding ball deflected by outside agency.
 
-### 19-5. By a Ball at Rest
+### 19-5. By Another Ball
 
-If a player’s ball in motion is deflected or stopped by a ball at rest, the player shall play his ball as it lies. In stroke play, if both balls lay on the [putting green](#putting) prior to the stroke, *the player incurs a penalty of two strokes.* Otherwise, no penalty is incurred.
+If a player’s ball in motion after a stroke is deflected or stopped by a ball at rest, the player shall play his ball as it lies. In stroke play, if both balls lay on the [putting green](#putting) prior to the stroke, *the player incurs a penalty of two strokes.* Otherwise, no penalty is incurred.
+
+If a player’s ball in motion after a stroke is deflected or stopped by another ball in motion, the player shall play his ball as it lies. There is no penalty unless the player was in breach of Rule [16-1g](#1601), in which case *he shall incur the penalty for breach of that Rule.*
+
+*Exception:* Ball in motion after a stroke on the putting green deflected or stopped by moving or animate outside agency - see Rule 19-1b.
 
 PENALTY FOR BREACH OF RULE:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
@@ -1070,16 +1126,17 @@ PENALTY FOR BREACH OF RULE:
 ### 20-1. Lifting
 
 A ball to be lifted under the Rules may be lifted by the player, his partner or another person authorised by the player. In any such case, the player shall be responsible for any breach of the Rules.  
-The position of the ball shall be marked before it is lifted under a Rule which requires it to be replaced. If it is not marked, *the player shall incur a penalty of one stroke* and the ball shall be replaced. If it is not replaced, *the player shall incur the general penalty* for breach of this Rule but no additional penalty under Rule 20-1 shall be applied.  
-If a ball is accidentally moved in the process of lifting it under a Rule, no penalty shall be incurred and the ball shall be replaced.
+The position of the ball shall be marked before it is lifted under a Rule which requires it to be replaced. If it is not marked, *the player shall incur a penalty of one stroke* and the ball shall be replaced. If it is not replaced, *the player shall incur the general penalty* for breach of this Rule but no additional penalty under Rule 20-1 shall be applied.
 
-*Note:* The position of a ball to be lifted should be marked, if feasible, by placing a ball-marker or other similar object immediately behind the ball. If the ball-marker interferes with the play, [stance](#Stance) or [stroke](#Stroke) of another player, it should be placed one or more clubhead-lengths to one side.
+If a ball or ball-marker is accidentally moved in the process of lifting the ball under a Rule or marking its position, no penalty is incurred and the ball or the ball-marker shall be replaced.
+
+*Note:* The position of a ball to be lifted should be marked by placing a ball-marker, a small coin or other similar object immediately behind the ball. If the ball-marker interferes with the play, [stance](#Stance) or [stroke](#Stroke) of another player, it should be placed one or more clubhead-lengths to one side.
 
 ### 20-2. Dropping and Re-Dropping
 
 **a. By Whom and How**  
 A ball to be dropped under the Rules shall be dropped by the player himself. He shall stand erect, hold the ball at shoulder height and arm’s length and drop it. If a ball is dropped by any other person or in any other manner and the error is not corrected as provided in Rule 20-6, *the player shall incur a penalty stroke.*  
-If the ball touches the player, his partner, either of their caddies or their equipment before or after it strikes the ground, the ball shall be re-dropped, without penalty.
+If the ball touches the player, his partner, either of their caddies or their equipment before or after it strikes the ground, the ball shall be re-dropped, without penalty. There is no limit to the number of times a ball shall be re-dropped in such circumstances.
 
 (Taking action to influence position or movement of ball - see Rule [1-2](#0102))
 
@@ -1096,80 +1153,92 @@ A dropped ball shall be re-dropped without penalty if it:
 (iv) rolls [out of bounds](#oob);  
 (v) rolls back into the condition from which relief was taken under Rule [24-2](#2402) (immovable obstruction) or Rule [25](#2501) (abnormal ground conditions and wrong putting green);  
 (vi) rolls and comes to rest more than two club-lengths from where it first struck the ground; or  
-(vii) rolls and comes to rest nearer the hole than is permitted by the Rules.  
-If the ball again rolls into such position, it shall be placed as near as possible to the spot where it first struck the ground when re-dropped.
+(vii) rolls and comes to rest nearer the hole than its original position unless otherwise permitted by the Rules.  
+If the ball again rolls into such position, it shall be placed as near as possible to the spot where it first struck the ground when re-dropped.  
+If a ball to be re-dropped or placed under this Rule is not immediately recoverable, another ball may be substituted.
 
 ### 20-3. Placing and Replacing
 
 **a. By Whom and Where**  
-A ball to be placed under the Rules shall be placed by the player or his partner. A ball is to be replaced shall be replaced by the player, his partner or the person who lifted or moved it on the spot where the ball lay. In any such case, the player shall be responsible for any breach of the Rules.  
-If a ball is accidentally moved in the process of placing or replacing it under a Rule, no penalty is incurred and the ball shall be replaced.
+A ball to be placed under the Rules shall be placed by the player or his partner. A ball is to be replaced shall be replaced by the player, his partner or the person who lifted or moved it. In any such case, the player shall be responsible for any breach of the Rules.  
+If a ball or ball-marker is accidentally moved in the process of placing or replacing the ball, no penalty is incurred and the ball or the ball-marker shall be replaced.
 
 **b. Lie of Ball to Be Placed or Replaced Altered**  
-Except in a [bunker](#bunker), if the original lie of a ball to be placed or replaced has been altered, the ball shall be placed in the nearest lie most similar to that which it originally occupied, not more than one club-length from the original lie and not nearer the hole. In a bunker, the original lie shall be recreated as nearly as possible and the ball shall be placed in that lie.
+If the original lie of a ball to be placed or replaced has been altered:  
+(i) except in a [hazard](#hazard), the ball shall be placed in the nearest lie most similar to the original lie which is not more than one club-length from the original lie, not nearer the hole and not in a hazard;  
+(ii) in a [water hazard](#water), the ball shall be placed in accordance with Clause (i) above, except that the ball must be placed in the water hazard;  
+(iii) in a [bunker](#Bunker), the original lie shall be recreated as nearly as possible and the ball shall be placed in that lie.
 
 **c. Spot Not Determinable**  
-If it is impossible to determine the spot where the ball is to be placed, the ball shall [through the green](#Through) or in a [hazard](#hazard) be dropped, or on the [putting green](#putting) be placed, as near as possible to the place where it lay but not nearer the hole.
+If it is impossible to determine the spot where the ball is to be placed or replaced:  
+(i) [through the green](#Through), the ball shall be dropped as near as possible to the place where it lay but not nearer the hole or in a [hazard](#hazard);  
+(ii) in a hazard, the ball shall be dropped in the hazard as near as possible to the place where it lay but not nearer the hole;  
+(iii) on the [putting green](#putting), the ball shall be placed as near as possible to the place where it lay but not nearer the hole or in a hazard.
 
 **d. Ball Fails to Remain on Spot**  
-If a ball when placed fails to remain on the spot on which it was placed, it shall be replaced without penalty. If it still fails to remain on that spot, it shall be placed at the nearest spot not nearer the hole where it can be placed at rest.
+If a ball when placed fails to remain on the spot on which it was placed, it shall be replaced without penalty. If it still fails to remain on that spot:  
+(i) except in a [hazard](#hazard), it shall be placed at the nearest spot not nearer the hole or in a hazard where it can be placed at rest;  
+(ii) in a hazard, it shall be placed in the hazard at the nearest spot not nearer the hole where it can be placed at rest.
 
 PENALTY FOR BREACH OF RULE 20-1, -2 or -3:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
 
-### 20-4. Ball in Play When Dropped or Placed
+### 20-4. When Ball Dropped or Placed Is in Play
 
-A ball dropped or placed under a Rule governing the particular case is [in play](<#in play>).
+If the player’s [ball in play](<#in play>) has been lifted, it is again in play when dropped or placed.  
+A substituted ball becomes the ball in play if it is dropped or placed under an applicable Rule, whether or not such Rule permits substitution A ball substituted under an inapplicable Rule is a [wrong ball](#wrong).
 
 ### 20-5. Playing Next Stroke from Where Previous Stroke Played
 
-When, under the Rules, a player elects or is required to play his next [stroke](#Stroke) from where a previous stroke was played, he shall proceed as follows: If the stroke is to be played from the [teeing ground](#teeing), the ball to be played shall be played from anywhere within the teeing ground and may be teed; if the stroke is to be played from [through the green](#Through) or a [hazard](#hazard), it shall be dropped; if the stroke is to be played on the [putting green](#putting), it shall be placed.
+When, under the Rules, a player elects or is required to play his next [stroke](#Stroke) from where a previous stroke was played, he shall proceed as follows: if the stroke is to be played from the [teeing ground](#teeing), the ball to be played shall be played from anywhere within the teeing ground and may be teed; if the stroke is to be played from [through the green](#Through) or a [hazard](#hazard), it shall be dropped; if the stroke is to be played on the [putting green](#putting), it shall be placed.
 
 PENALTY FOR BREACH OF RULE 20-5:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
 
 ### 20-6. Lifting Ball Wrongly Dropped or Placed
 
-A ball dropped or placed in a wrong place or otherwise not in accordance with the Rules but not played may be lifted, without penalty, and the player shall then proceed correctly.  
-In match play, if, before the opponent plays his next stroke, the player fails to inform him that the ball has been lifted, *the player shall lose the hole*.
+A ball dropped or placed in a wrong place or otherwise not in accordance with the Rules but not played may be lifted, without penalty, and the player shall then proceed correctly.
 
 ### 20-7. Playing from Wrong Place
 
-For a ball played outside teeing ground, see Rule [11-3](#1104).
+For a ball played from outside the teeing ground, see Rule [11-4](#1104).
 
 **a. Match Play**  
-If a player plays a stroke with a ball which has been dropped or placed under an applicable Rule but in a wrong place, *he shall lose the hole.*
+If a player plays a stroke with a ball which has been dropped or placed in a wrong place, *he shall lose the hole.*
 
 **b. Stroke Play**  
-If a competitor plays a stroke with a ball which has been (i) dropped or placed under an applicable Rule but in a wrong place, or (ii) moved and not replaced in a case where the Rules require replacement, *he shall incur the penalty prescribed by the relevant Rule* and play out the hole with the ball. If a serious breach of the relevant Rule is involved, *the competitor shall be disqualified*, unless the breach has been rectified as provided in the next paragraph.
+If a competitor plays a stroke with (i) his original ball which has been dropped or placed in a wrong place, (ii) a substituted ball which has been dropped or placed under an applicable Rule but in a wrong place or (iii) his [ball in play](<#in play>) which has been moved and not replaced in a case where the Rules require replacement, *he shall*, provided a serious breach has not occurred, *incur the penalty prescribed by the applicable Rule* and play out the hole with the ball.
 
-If a serious breach may be involved and the competitor has not made a stroke on the next [teeing ground](#teeing) or, in the case of the last hole of the round, has not left the [putting green](#putting), the competitor may rectify any such serious breach by *adding two penalty strokes to his score*, dropping or placing a second ball in accordance with the Rules and playing out the hole. The competitor should play out the hole with both balls.  
-On completion of the round the competitor shall report the facts immediately to the Committee; if he fails to do so, *he shall be disqualified.* The Committee shall determine whether a serious breach of the Rule was involved and, accordingly, whether the score with the second ball shall count.
+If, after playing from a wrong place, a competitor becomes aware of that fact and believes that a serious breach may be involved, he may, provided he has not played a stroke from the next teeing ground or, in the case of the last hole of the round, left the putting green, declare that he will play out the hole with a second ball dropped or placed in accordance with the Rules. The competitor shall report the facts to the Committee before returning his score card; if he fails to do so, *he shall be disqualified.* The Committee shall determine whether a serious breach of the Rule occurred. If so, the score with the second ball shall count and *the competitor shall add two penalty strokes to his score with that ball.*
 
-*Note:* Penalty strokes incurred by playing the ball ruled not to count and strokes subsequently taken with that ball shall be disregarded.
+If a serious breach has occurred and the competitor has failed to correct it as prescribed above, *he shall be disqualified.*
+
+*Note:* If a competitor plays a second ball, penalty strokes incurred by playing the ball ruled not to count and strokes subsequently taken with that ball shall be disregarded.
 
 ### Rule 21. Cleaning Ball
 
-A ball may be cleaned when lifted as follows:
+A ball on the putting green may be cleaned when lifted under Rule [16-1b](#1601). Elsewhere, a ball may be cleaned when lifted except when it has been lifted:
 
-> Upon suspension of play in accordance with Rule [6-8b](#0608);  
-> For identification under Rule [12-2](#1202), but the ball may be cleaned only to the extent necessary for identification;  
-> On the putting green under Rule [16-1b](#1601);  
-> For relief from an obstruction under Rule [24-1b](#2401) or [\-2b](#2402);  
-> For relief from abnormal ground conditions or wrong putting green under Rules [25-1b](#2501), [\-2](#2502) and [\-3](#2503);  
-> For relief from a water hazard under Rule [26](#2601);  
-> For relief for an unplayable ball under Rule [28](#28); or  
-> under a Local Rule permitting cleaning the ball.
+a. To determine if it is unfit for play Rule ([5-3](#0503));
 
-If a player cleans his ball during play of a hole except as permitted under this Rule, *he shall incur a penalty of one stroke* and the ball, if lifted, shall be replaced.  
+b. For identification Rule ([12-2](#1202)), in which case it may be cleaned only to the extent necessary for identification; or
+
+c. Because it is interfering with or assisting play Rule ([22](#22)).
+
+If a player cleans his ball during play of a hole except as provided in this Rule, *he shall incur a penalty of one stroke* and the ball, if lifted, shall be replaced.
+
 If a player who is required to replace a ball fails to do so, *he shall incur the penalty* for breach of Rule [20-3a](#2003), but no additional penalty under Rule 21 shall be applied.
+
+*Exception:* If a player incurs a penalty for failing to act in accordance with Rule [5-3](#0503), Rule [12-2](#1202) or Rule [22](#22), no additional penalty under Rule 21 shall be applied.
 
 ### Rule 22. Ball Interfering with or Assisting Play
 
-Any player may:  
-a. Lift his ball if he considers that the ball might assist any other player or  
-b. Have any other ball lifted if he considers that the ball might interfere with his play or assist the play of any other player,  
-but this may not be done while another ball is in motion. In stroke play, a player required to lift his ball may play first rather than lift. A ball lifted under this Rule shall be replaced.  
+Any player may:
+
+a. Lift his ball if he considers that the ball might assist any other player or
+
+b. Have any other ball lifted if he considers that the ball might interfere with his play or assist the play of any other player, but this may not be done while another ball is in motion. In stroke play, a player required to lift his ball may play first rather than lift. A ball lifted under this Rule shall be replaced.
+
 If a ball is accidentally moved in complying with this Rule, no penalty is incurred and the ball shall be replaced.
 
 PENALTY FOR BREACH OF RULE:  
@@ -1180,13 +1249,13 @@ PENALTY FOR BREACH OF RULE:
 **Definition**  
 "Loose impediments" are natural objects such as stones, leaves, twigs, branches and the like, dung, worms and insects and casts or heaps made by them, provided they are not fixed or growing, are not solidly embedded and do not adhere to the ball.  
 Sand and loose soil are loose impediments on the [putting green](#putting) but not elsewhere.  
-Snow and ice are either [casual water](#casual) or loose impediments, at the option of the player.  
+Snow and ice are either [casual water](#casual) or loose impediments, at the option of the player, except that manufactured ice is an [obstruction](#obstruction).  
 Dew is not a loose impediment.
 
 ### 23-1. Relief
 
 Except when both the [loose impediment](#loose) and the ball lie in or touch a [hazard](#hazard), any loose impediment may be removed without penalty. If the ball moves, see Rule [18-2c](#1802).  
-When a player’s ball is in motion, a loose impediment on his line of play shall not be removed.
+When a player's ball is in motion, a loose impediment on his line of play shall not be removed.
 
 PENALTY FOR BREACH OF RULE:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
@@ -1197,40 +1266,42 @@ PENALTY FOR BREACH OF RULE:
 ### Rule 24. Obstructions
 
 **Definition**  
-An "obstruction" is anything artificial, including the artificial surfaces and sides of roads and paths, except:  
+An "obstruction" is anything artificial, including the artificial surfaces and sides of roads and paths and manufactured ice, except:  
 a. Objects defining [out of bounds](#oob), such as walls, fences, stakes and railings;  
 b. Any part of an immovable artificial object which is out of bounds; and  
 c. Any construction declared by the Committee to be an integral part of the course.
 
 ### 24-1. Movable Obstruction
 
-A player may obtain relief from a movable [obstruction](#Obstruction) as follows:
+A player may obtain relief from a movable [obstruction](#obstruction) as follows:
 
-a. If the ball does not lie in or on the obstruction, the obstruction may be removed; if the ball moves, no penalty is incurred and the ball shall be replaced.  
+a. If the ball does not lie in or on the obstruction, the obstruction may be removed; if the ball moves, no penalty is incurred and the ball shall be replaced.
+
 b. If the ball lies in or on the obstruction, the ball may be lifted, without penalty, and the obstruction removed. The ball shall [through the green](#Through) or in a [hazard](#hazard) be dropped, or on the [putting green](#putting) be placed, as near as possible to the spot directly under the place where the ball lay in or on the obstruction, but not nearer the hole.
 
-The ball may be cleaned when lifted for relief under Rule 24-1.
+The ball may be cleaned when lifted under Rule 24-1.
 
-When a ball is in motion, an obstruction on the player’s line of play other than an attended flagstick and equipment of the players shall not be removed.
+When a ball is in motion, an obstruction on the player's line of play other than an attended flagstick and equipment of the players shall not be removed.
 
 ### 24-2. Immovable Obstruction
 
 **a. Interference**  
-Interference by an immovable [obstruction](#Obstruction) occurs when a ball lies in or on the obstruction, or so close to the obstruction that the obstruction interferes with the player’s [stance](#Stance) or the area of his intended swing. If the player’s ball lies on the [putting green](#putting), interference also occurs if an immovable obstruction on the putting green intervenes on his line of putt. Otherwise, intervention on the line of play is not, of itself, interference under this Rule.
+Interference by an immovable [obstruction](#obstruction) occurs when a ball lies in or on the obstruction, or so close to the obstruction that the obstruction interferes with the player’s [stance](#Stance) or the area of his intended swing. If the player’s ball lies on the [putting green](#putting), interference also occurs if an immovable obstruction on the putting green intervenes on his line of putt. Otherwise, intervention on the line of play is not, of itself, interference under this Rule.
 
 **b. Relief**  
-Except when the ball lies in or touches a [water hazard](#water) or a [lateral water hazard](#lateral), a player may obtain relief from interference by an immovable [obstruction](#Obstruction), without penalty, as follows:
+Except when the ball lies in or touches a [water hazard](#water) or a [lateral water hazard](#lateral), a player may obtain relief from interference by an immovable [obstruction](#obstruction), without penalty, as follows:
 
-> (i) **Through the Green:** If the ball lies [through the green](#Through), the point on the [course](#Course) nearest to where the ball lies shall be determined (without crossing over, through or under the obstruction) which (a) is not nearer the hole, (b) avoids interference (as defined) and (c) is not in a [hazard](#hazard) or on a [putting green](#putting). The player shall lift the ball and drop it within one club-length of the point thus determined on ground which fulfils (a), (b) and (c) above.
+(i) **Through the Green:** If the ball lies [through the green](#Through), the point on the [course](#Course) nearest to where the ball lies shall be determined (without crossing over, through or under the obstruction) which (a) is not nearer the hole, (b) avoids interference (as defined) and (c) is not in a [hazard](#hazard) or on a [putting green](#putting). The player shall lift the ball and drop it within one club-length of the point thus determined on ground which fulfils (a), (b) and (c) above.
 
-*Note:* The prohibition against crossing over, through or under the obstruction does not apply to the artificial surfaces and sides of roads and paths or when the ball lies in or on the obstruction.
+*Note:* The prohibition against crossing over, through or under the [obstruction](#obstruction) does not apply to the artificial surfaces and sides of roads and paths or when the ball lies in or on the obstruction.
 
-> (ii) **In a Bunker:** If the ball lies in or touches a [bunker](#Bunker), the player shall lift and drop the ball in accordance with Clause (i) above, except that the ball must be dropped in the bunker.
-> 
-> (iii) **On the Putting Green:** If the ball lies on the [putting green](#putting), the player shall lift the ball and place it in the nearest position to where it lay which affords relief from interference, but not nearer the hole nor in a hazard.
+(ii) **In a Bunker:** If the ball lies in or touches a [bunker](#Bunker), the player shall lift and drop the ball in accordance with Clause (i) above, except that the ball must be dropped in the bunker.
 
-The ball may be cleaned when lifted under Rule 24-2b.  
-(Ball rolling back into condition from which relief taken - see Rule [20-2c](#2002) (v))
+(iii) **On the Putting Green:** If the ball lies on the [putting green](#putting), the player shall lift the ball and place it in the nearest position to where it lay which affords relief from interference, but not nearer the hole nor in a hazard.
+
+The ball may be cleaned when lifted under Rule 24-2b.
+
+(Ball rolling back into condition from which relief was taken - see Rule [20-2c](#2002) (v))
 
 *Exception:* A player may not obtain relief under Rule 24-2b if (a) it is clearly unreasonable for him to play a stroke because of interference by anything other than an immovable obstruction or (b) interference by an immovable obstruction would occur only through use of an unnecessarily abnormal stance, swing or direction of play.
 
@@ -1242,9 +1313,9 @@ PENALTY FOR BREACH OF RULE:
 ### Rule 25. Abnormal Ground Conditions and Wrong Putting Green
 
 **Definitions**  
-"Casual water" is any temporary accumulation of water on the [course](#Course) which is visible before or after the player takes his [stance](#Stance) and is not in a [water hazard](#water). Snow and ice are either casual water or [loose impediments](#loose), at the option of the player. Dew is not casual water.
+"Casual water" is any temporary accumulation of water on the [course](#Course) which is visible before or after the player takes his [stance](#Stance) and is not in a [water hazard](#water). Snow and ice are either casual water or [loose impediments](#loose), at the option of the player, except that manufactured ice is an [obstruction](#obstruction). Dew is not casual water.
 
-"Ground under repair" is any portion of the [course](#Course) so marked by order of the Committee or so declared by its authorised representative. It includes material piled for removal and a hole made by a greenkeeper, even if not so marked. Stakes and lines defining ground under repair are in such ground.
+"Ground under repair" is any portion of the [course](#Course) so marked by order of the Committee or so declared by its authorised representative. It includes material piled for removal and a hole made by a greenkeeper, even if not so marked. Stakes and lines defining ground under repair are in such ground. The margin of ground under repair extends vertically downwards, but not upwards.
 
 *Note 1*: Grass cuttings and other material left on the course which have been abandoned and are not intended to be removed are not ground under repair unless so marked.
 
@@ -1263,7 +1334,7 @@ If the player elects to take relief, he shall proceed as follows:
 
 (ii) **In a Hazard:** If the ball lies in or touches a [hazard](#hazard), the player shall lift and drop the ball either:  
 (a) Without penalty, in the hazard, as near as possible to the spot where the ball lay, but not nearer the hole, on ground which affords maximum available relief from the condition; or  
-(b) *Under penalty of one stroke,* outside the hazard, keeping the spot where the ball lay directly between himself and the hole.
+(b) *Under penalty of one stroke,* outside the hazard, keeping the point where the ball lay directly between the hole and the spot on which the ball is dropped.
 
 *Exception:* If a ball lies in or touches a [water hazard](#water) (including a [lateral water hazard](#lateral)), the player is not entitled to relief without penalty from a hole, cast or runway made by a burrowing animal, a reptile or a bird. The player shall play the ball as it lies or proceed under Rule [26-1](#2601).
 
@@ -1271,24 +1342,24 @@ If the player elects to take relief, he shall proceed as follows:
 
 The ball may be cleaned when lifted under Rule 25-1b.
 
-(Ball rolling back into condition from which relief taken - see Rule [20-2c](#2002) (v))
+(Ball rolling to a position where there is interference by the condition from which relief was taken - see Rule [20-2c](#2002) (v))
 
 *Exception:* A player may not obtain relief under Rule 25-1b if (a) it is clearly unreasonable for him to play a stroke because of interference by anything other than a condition covered by Rule 25-1a or (b) interference by such a condition would occur only through use of an unnecessarily abnormal stance, swing or direction of play.
 
 **c. Ball Lost Under Condition Covered by Rule 25-1**  
 It is a question of fact whether a ball lost after having been struck towards a condition covered by Rule 25-1 is lost under such condition. In order to treat the ball as lost under such condition, there must be reasonable evidence to that effect. In the absence of such evidence, the ball must be treated as a lost ball and Rule [27](#27) applies.
 
-> (i) **Outside a Hazard:** If a ball is lost outside a [hazard](#hazard) under a condition covered by Rule 25-1, the player may take relief as follows: the point on the [course](#Course) nearest to where the ball last crossed the margin of the area shall be determined which (a) is not nearer the hole than where the ball last crossed the margin, (b) avoids interference by the condition and (c) is not in a hazard or on a [putting green](#putting). He shall drop a ball without penalty within one club-length of the point thus determined on ground which fulfils (a), (b) and (c) above.
-> 
-> (ii) **In a Hazard:** If a ball is lost in a [hazard](#hazard) under a condition covered by Rule 25-1, the player may drop a ball either:  
-> (a) Without penalty, in the hazard, as near as possible to the point at which the ball last crossed the margin of the area, but not nearer the hole, on ground which affords maximum available relief from the condition; or  
-> (b) *Under penalty of one stroke,* outside the hazard, keeping the spot at which the ball last crossed the margin of the hazard between himself and the hole.
+(i) **Outside a Hazard:** If a ball is lost outside a [hazard](#hazard) under a condition covered by Rule 25-1, the player may take relief as follows: the point on the [course](#Course) nearest to where the ball last crossed the margin of the area shall be determined which (a) is not nearer the hole than where the ball last crossed the margin, (b) avoids interference by the condition and (c) is not in a hazard or on a [putting green](#putting). He shall drop a ball without penalty within one club-length of the point thus determined on ground which fulfils (a), (b) and (c) above.
+
+(ii) **In a Hazard:** If a ball is lost in a [hazard](#hazard) under a condition covered by Rule 25-1, the player may drop a ball either:  
+(a) Without penalty, in the hazard, as near as possible to the point at which the original ball last crossed the margin of the area, but not nearer the hole, on ground which affords maximum available relief from the condition; or  
+(b) *Under penalty of one stroke,* outside the hazard, keeping the point at which the original ball last crossed the margin of the hazard directly between the hole and the spot on which the ball is dropped.
 
 *Exception:* If a ball lies in a [water hazard](#water) (including a [lateral water hazard](#lateral)), the player is not entitled to relief without penalty for a ball lost in a hole, cast or runway made by a burrowing animal, a reptile or a bird. The player shall proceed under Rule [26-1](#2601).
 
 ### 25-2. Embedded Ball
 
-A ball embedded in its own pitch-mark in any closely-mown area [through the green](#Through) may be lifted, cleaned and dropped, without penalty, as near as possible to the spot where it lay but not nearer the hole. "Closely-mown area" means any area of the [course](#Course), including paths through the rough, cut to fairway height or less.
+A ball embedded in its own pitch-mark in the ground in any closely-mown area [through the green](#Through) may be lifted, cleaned and dropped, without penalty, as near as possible to the spot where it lay but not nearer the hole. "Closely-mown area" means any area of the [course](#Course), including paths through the rough, cut to fairway height or less.
 
 ### 25-3. Wrong Putting Green
 
@@ -1304,38 +1375,43 @@ PENALTY FOR BREACH OF RULE:
 ### Definitions
 
 A "water hazard" is any sea, lake, pond, river, ditch, surface drainage ditch or other open water course (whether or not containing water) and anything of a similar nature.  
-All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard extends vertically upwards. Stakes and lines defining the margins of water hazards are in the hazards.
+All ground or water within the margin of a water hazard is part of the water hazard. The margin of a water hazard extends vertically upwards and downwards. Stakes and lines defining the margins of water hazards are in the hazards.
 
 *Note*: Water hazards (other than [lateral water hazards](#lateral)) should be defined by yellow stakes or lines.
 
-A "lateral water hazard" is a water hazard or that part of a water hazard so situated that it is not possible or is deemed by the Committee to be impracticable to drop a ball behind the water hazard and keep the spot at which the ball last crossed the margin of the water hazard between the player and the hole.  
+A "lateral water hazard" is a [water hazard](#water) or that part of a water hazard so situated that it is not possible or is deemed by the Committee to be impracticable to drop a ball behind the water hazard in accordance with Rule 26-1b.  
 That part of a water hazard to be played as a lateral water hazard should be distinctively marked.
 
 *Note*: Lateral water hazards should be defined by red stakes or lines.
 
 ### 26-1. Ball in Water Hazard
 
-It is a question of fact whether a ball lost after having been struck toward a [water hazard](#water) is lost inside or outside the hazard. In order to treat the ball as lost in the hazard, there must be reasonable evidence that the ball lodged therein. In the absence of such evidence, the ball must be treated as a lost ball and Rule [27](#2701) applies.
+It is a question of fact whether a ball lost after having been struck toward a [water hazard](#water) is lost inside or outside the hazard. In order to treat the ball as lost in the hazard, there must be reasonable evidence that the ball lodged in it. In the absence of such evidence, the ball must be treated as a lost ball and Rule [27](#2701) applies.
 
-If a ball lies in, touches or is lost in a water hazard (whether the ball lies in water or not), the player may *under penalty of one stroke:*  
-a. Play his next stroke as nearly as possible at the spot from which the original ball was last played or moved by him (see Rule [20-5](#2005)); or  
-b. Drop a ball behind the water hazard, keeping the point at which the original ball last crossed the margin of the water hazard directly between himself and the hole, with no limit to how far behind the water hazard the ball may be dropped; or  
-c. *As additional options available only if the ball lies in or is lost in a lateral water hazard,* drop a ball outside the water hazard within two club-lengths of (i) the point where the original ball last crossed the margin of the water hazard or (ii) a point on the opposite margin of the water hazard equidistant from the hole. The ball must be dropped and come to rest not nearer the hole than the point where the original ball last crossed the margin of the water hazard.
+If a ball lies in, touches or is lost in a water hazard (whether the ball lies in water or not), the player may *under penalty of one stroke:*
+
+a. Play his next stroke as nearly as possible at the spot from which the original ball was last played (see Rule [20-5](#2005)); or  
+b. Drop a ball behind the water hazard, keeping the point at which the original ball last crossed the margin of the water hazard directly between the hole and the spot on which the ball is dropped, with no limit to how far behind the water hazard the ball may be dropped; or  
+c. *As additional options available only if the ball lies in, touches or is lost in a lateral water hazard,* drop a ball outside the water hazard within two club-lengths of (i) the point where the original ball last crossed the margin of the water hazard or (ii) a point on the opposite margin of the water hazard equidistant from the hole. The ball must be dropped and come to rest not nearer the hole than the point where the original ball last crossed the margin of the water hazard.
 
 The ball may be cleaned when lifted under this Rule.
 
-### 26-2. Ball Remains in Hazard
+(Ball moving in water in a water hazard - see Rule [14-6](#1406)).
+
+### 26-2. Ball Played Within Water Hazard
 
 **a. Ball Comes to Rest in the Hazard**  
-If a ball played from within a water hazard has not crossed any margin of the hazard, the player may:  
+If a ball played from within a water hazard comes to rest in the hazard after the stroke, the player may:  
 (i) proceed under Rule 26-1; or  
 (ii) *under penalty of one stroke,* play his next stroke as nearly as possible at the spot from which the last stroke from outside the hazard was played (see Rule [20-5](#2005)).
 
 **b. Ball Lost or Unplayable Outside Hazard or Out of Bounds**  
-If a ball played from within a water hazard is lost or declared unplayable outside the hazard or is out of bounds, the player, after taking a stroke-and-distance penalty under Rule [27-1](#2701) or Rule [28a](#28), may:  
-(i) play a ball as nearly as possible at the spot from which the original ball was last played by him (see Rule [20-5](#2005)); or  
-(ii) under the penalty prescribed therein, proceed under Rule 26-1b, or as additional options in the case of a lateral water hazard, under Rule 26-1c, using as the reference point the point where the ball last crossed the margin of the hazard before it came to rest in the hazard; or  
-(iii) *under penalty of one stroke*, play his next stroke as nearly as possible at the spot from which the last stroke from outside the hazard was played (see Rule [20-5](#2005)).
+If a ball played from within a water hazard is lost or declared unplayable outside the hazard or is out of bounds, the player, after taking *a penalty of one stroke* under Rule [27-1](#2701) or Rule [28a](#28), may:  
+(i) play a ball as nearly as possible at the spot in the hazard from which the original ball was last played (see Rule [20-5](#2005)); or  
+(ii) *under an additional penalty of one stroke*, proceed under Rule 26-1b, or if applicable Rule 26-1c, using as the reference point the point where the original ball last crossed the margin of the hazard before it came to rest in the hazard; or  
+(iii) *under an additional penalty of one stroke*, play his next stroke as nearly as possible at the spot from which the last stroke from outside the hazard was played (see Rule [20-5](#2005)).
+
+*Note*: If a ball played from within a water hazard is declared unplayable outside the hazard, nothing in Rule 26-2b precludes the player from proceeding under Rule [28b or c](#28).
 
 PENALTY FOR BREACH OF RULE:  
 *Match play - Loss of hole; Stroke play - Two strokes.*
@@ -1359,11 +1435,14 @@ The out of bounds line extends vertically upwards and downwards.
 A ball is out of bounds when all of it lies out of bounds.  
 A player may stand out of bounds to play a ball lying within bounds.
 
-A "provisional ball" is a ball played under Rule 27-2 for a ball which may be [lost](#lost) outside a [water hazard](#water) or may be [out of bounds](#oob). It ceases to be a provisional ball when the Rule provides either that the player continue play with it as the ball [in play](<#in play>) or that it be abandoned.
+A "provisional ball" is a ball played under Rule 27-2 for a ball which may be [lost](#lost) outside a [water hazard](#water) or may be [out of bounds](#oob).
 
 ### 27-1. Ball Lost or Out of Bounds
 
-If a ball is [lost](#lost) outside a [water hazard](#water) or is [out of bounds](#oob), the player shall play a ball, *under penalty of one stroke,* as nearly as possible at the spot from which the original ball was last played or moved by him (see Rule [20-5](#2005)).
+If a ball is lost outside a [water hazard](#water) or is [out of bounds](#oob), the player shall play a ball, *under penalty of one stroke,* as nearly as possible at the spot from which the original ball was last played (see Rule [20-5](#2005)).
+
+PENALTY FOR BREACH OF RULE 27-1:  
+*Match play - Loss of hole; Stroke play - Two strokes.*
 
 ### 27-2. Provisional Ball
 
@@ -1379,18 +1458,16 @@ If the original ball is neither lost outside a water hazard nor out of bounds, t
 
 *Note:* If the original ball lies in a water hazard, the player shall play the ball as it lies or proceed under Rule [26](#2601). If it is lost in a water hazard or unplayable, the player shall proceed under Rule 26 or Rule [28](#28), whichever is applicable.
 
-PENALTY FOR BREACH OF RULE:  
-*Match play - Loss of hole; Stroke play - Two strokes.*
-
 ### Rule 28. Ball Unplayable
 
-At any place on the course except in a [water hazard](#water) a player may declare his ball unplayable. The player is the sole judge as to whether his ball is unplayable.  
-If the player deems his ball to be unplayable, he shall, *under penalty of one stroke:*  
-a. Play his next stroke as nearly as possible at the spot from which the original ball was last played or moved by him (see Rule [20-5](#2005)); or  
-b. Drop a ball within two club-lengths of the spot where the ball lay, but not nearer the hole; or  
-c. Drop a ball behind the spot where the ball lay, keeping that spot directly between the himself and the hole, with no limit to how far behind that spot the ball may be dropped.
+The player may declare his ball unplayable at any place on the course except when the ball lies in or touches a [water hazard](#water). The player is the sole judge as to whether his ball is unplayable.  
+If the player deems his ball to be unplayable, he shall, *under penalty of one stroke:*
 
-If the unplayable ball lies in a [bunker](#Bunker) and the player elects to proceed under Clause b or c, a ball must be dropped in the bunker.
+a. Play his next stroke as nearly as possible at the spot from which the original ball was last played (see Rule [20-5](#2005)); or  
+b. Drop a ball within two club-lengths of the spot where the ball lay, but not nearer the hole; or  
+c. Drop a ball behind the point where the ball lay, keeping that point directly between the hole and the spot on which the ball is dropped, with no limit to how far behind that point the ball may be dropped.
+
+If the unplayable ball is in a [bunker](#Bunker) and the player elects to proceed under Clause b or c, a ball must be dropped in the bunker.
 
 The ball may be cleaned when lifted under this Rule.
 
@@ -1413,9 +1490,14 @@ If a player plays when his partner should have played, *his side shall lose the 
 
 ### 29-3. Stroke Play
 
-If the partners play a stroke or strokes in incorrect order, such stroke or strokes shall be cancelled and *the side shall be penalised two strokes.* A ball shall then be put in play as nearly as possible at the spot from which the side first played in incorrect order (see Rule [20-5](#2005)) before a stroke has been played from the next [teeing ground](#teeing) or, in the case of the last hole of the round, before the side has left the [putting green](#putting). If this is not done, *the side shall be disqualified.*
+If the partners play a stroke or strokes in incorrect order, such stroke or strokes shall be cancelled and *the side shall incur a penalty of two strokes.* The side shall correct the error by playing a ball in correct order at the spot from which it first played in incorrect order (see Rule [20-5](#2005)). If the side plays a stroke from the next [teeing ground](#teeing) without first correcting the error or, in the case of the last hole of the round, leaves the [putting green](#putting) without declaring its intention to correct the error, *the side shall be disqualified.*
 
 ### Rule 30. Three-Ball, Best-Ball and Four-Ball Match Play
+
+**Definitions**  
+Three-Ball: A match play competition in which three play against one another, each playing his own ball. Each player is playing two distinct matches.  
+Best-Ball: A match in which one plays against the better ball of two or the best ball of three players.  
+Four-Ball: A match in which two play their better ball against the better ball of two other players.
 
 ### 30-1. Rules of Golf Apply
 
@@ -1423,17 +1505,15 @@ The Rules of Golf, so far as they are not at variance with the following special
 
 ### 30-2. Three-Ball Match Play
 
-In a three-ball match, each player is playing two distinct matches.
-
 **a. Ball at Rest Moved by an Opponent**  
 Except as otherwise provided in the Rules, if the player’s ball is touched or moved by an opponent, his [caddie](#Caddie) or [equipment](#Equipment) other than during search, Rule [18-3b](#1803) applies. *That opponent shall incur a penalty stroke in his match with the player,* but not in his match with the other opponent.
 
 **b. Ball Deflected or Stopped by an Opponent Accidentally**  
-If a player’s ball is accidentally deflected or stopped by an opponent, his caddie or equipment, no penalty shall be incurred. In his match with that opponent the player may play the ball as it lies or, before another stroke is played by either side, he may cancel the stroke and replay the stroke (see Rule [20-5](#2005)). In his match with the other opponent, the occurrence shall be treated as a [rub of the green](#rub) and the hole shall be played out with the original ball.
+If a player’s ball is accidentally deflected or stopped by an opponent, his [caddie](#Caddie) or [equipment](#Equipment), no penalty shall be incurred. In his match with that opponent the player may play the ball as it lies or, before another stroke is played by either side, he may cancel the stroke and replay it (see Rule [20-5](#2005)). In his match with the other opponent, the ball shall be played as it lies.
 
 *Exception:* Ball striking person attending flagstick - see Rule [17-3b](#1703).
 
-(Ball purposely deflected or stopped by opponent - see Rule [19-3a](#1903))
+(Ball purposely deflected or stopped by opponent - see Rule [1-2](#0102))
 
 ### 30-3. Best-Ball and Four-Ball Match Play
 
@@ -1452,10 +1532,10 @@ If a player plays a stroke with a [wrong ball](#wrong) except in a [hazard](#haz
 **e. Disqualification of Side**  
 (i) *A side shall be disqualified* for a breach of any of the following by any partner:
 
-<table><tbody><tr><td><a href="#0103">Rule 1-3</a></td><td>Agreement to Waive Rules</td></tr><tr><td><a href="#0401">Rule 4-1</a>, <a href="#0402">-2</a> or <a href="#0403">-3</a></td><td>Clubs</td></tr><tr><td><a href="#0501">Rule 5</a></td><td>The Ball</td></tr><tr><td><a href="#0602">Rule 6-2a</a></td><td>Handicap (playing off higher handicap)</td></tr><tr><td><a href="#0604">Rule 6-4</a></td><td>Caddie</td></tr><tr><td><a href="#0607">Rule 6-7</a></td><td>Undue Delay (repeated offence)</td></tr><tr><td><a href="#1403">Rule 14-3</a></td><td>Artificial Devices and Unusual Equipment</td></tr><tr><td colspan="2">(ii) <i>A side shall be disqualified</i> for a breach of any of the following by all partners:</td></tr><tr><td><a href="#0603">Rule 6-3</a></td><td>Time of Starting and Groups</td></tr><tr><td><a href="#0608">Rule 6-8</a></td><td>Discontinuance of Play</td></tr></tbody></table>
+<table><tbody><tr><td><a href="#0103">Rule 1-3</a></td><td>Agreement to Waive Rules</td></tr><tr><td><a href="#0401">Rule 4-1</a>, <a href="#0402">-2</a> or <a href="#0403">-3</a></td><td>Clubs</td></tr><tr><td><a href="#0501">Rule 5-1</a> or <a href="#0502">-2</a></td><td>The Ball</td></tr><tr><td><a href="#0602">Rule 6-2a</a></td><td>Handicap (playing off higher handicap)</td></tr><tr><td><a href="#0604">Rule 6-4</a></td><td>Caddie</td></tr><tr><td><a href="#0607">Rule 6-7</a></td><td>Undue Delay (repeated offence)</td></tr><tr><td><a href="#1403">Rule 14-3</a></td><td>Artificial Devices and Unusual Equipment</td></tr><tr><td colspan="2">(ii) <i>A side shall be disqualified</i> for a breach of any of the following by all partners:</td></tr><tr><td><a href="#0603">Rule 6-3</a></td><td>Time of Starting and Groups</td></tr><tr><td><a href="#0608">Rule 6-8</a></td><td>Discontinuance of Play</td></tr></tbody></table>
 
 **f. Effect of Other Penalties**  
-If a player’s breach of a Rule assists his partner’s play or adversely affects an opponent’s play, *the partner incurs the relative penalty in addition to any penalty incurred by the player.*  
+If a player’s breach of a Rule assists his partner’s play or adversely affects an opponent’s play, *the partner incurs the applicable penalty in addition to any penalty incurred by the player.*  
 In all other cases where a player incurs a penalty for breach of a Rule, the penalty shall not apply to his partner. Where the penalty is stated to be loss of hole, the effect shall be to disqualify the player for that hole.
 
 **g. Another Form of Match Played Concurrently**  
@@ -1479,7 +1559,7 @@ A side may be represented by either partner for all or any part of a [stipulated
 
 ### 31-4. Scoring
 
-The marker is required to record for each hole only the gross score of whichever partner’s score is to count. The gross scores to count must be individually identifiable; otherwise *the side shall be disqualified.* Only one of the partners need be responsible for complying with Rule [6-6a](#0606) and b.
+The marker is required to record for each hole only the gross score of whichever partner’s score is to count. The gross scores to count must be individually identifiable; otherwise *the side shall be disqualified.* Only one of the partners need be responsible for complying with Rule [6-6b](#0606).
 
 (Wrong score - see Rule 31-7a)
 
@@ -1501,28 +1581,27 @@ The owner of the ball shall replace it on the spot from which it was played, wit
 | --- | --- |
 | [Rule 3-4](#0304) | Refusal to Comply with Rule |
 | [Rule 4-1](#0401), [\-2](#0402) or [\-3](#0403) | Clubs |
-| [Rule 5](#0501) | The Ball |
+| [Rule 5-1](#0501) or [\-2](#0502) | The Ball |
 | [Rule 6-2b](#0602) | Handicap (playing off higher handicap; failure to record handicap) |
 | [Rule 6-4](#0604) | Caddie |
-| [Rule 6-6b](#0606) | Checking Scores |
-| [Rule 6-6c](#0606) | No Alteration of Scores, i.e. when the recorded lower score of the partners is lower than actually played. If the recorded lower score of the partners is higher than actually played, it must stand as returned. |
+| [Rule 6-6b](#0606) | Signing and Returning Card |
+| [Rule 6-6d](#0606) | Wrong Score for Hole, i.e. when the recorded lower score of the partners is lower than actually taken. If the recorded lower score of the partners is higher than actually taken, it must stand as returned. |
 | [Rule 6-7](#0607) | Undue Delay (repeated offence) |
 | [Rule 7-1](#0701) | Practice Before or Between Rounds |
 | [Rule 14-3](#1403) | Artificial Devices and Unusual Equipment |
 | [Rule 31-4](#3104) | Gross Scores to count Not Individually Identifiable |
 
 **b. Breach by Both Partners**  
-*A side shall be disqualified* for a breach of any of the following by both partners:  
-Rule [6-3](#0603) Time of Starting and Groups.  
-Rule [6-8](#0608) Discontinuance of Play.  
-At the same hole, of a Rule or Rules, the penalty for which is disqualification either from the competition or for a hole.
+*A side shall be disqualified:*  
+(i) for a breach by both partners of Rule [6-3](#0603) (Time of Starting and Groups) or Rule [6-8](#0608) (Discontinuance of Play), or  
+(ii) if, at the same hole, each partner is in breach of a Rule the penalty for which is disqualification from the competition or for a hole.
 
 **c. For the Hole Only**  
 In all other cases where a breach of a Rule would entail disqualification, *the competitor shall be disqualified only for the hole at which the breach occurred.*
 
 ### 31-8. Effect of Other Penalties
 
-If a competitor’s breach of a Rule assists his partner’s play, *the partner incurs the relative penalty in addition to any penalty incurred by the competitor*.  
+If a competitor's breach of a Rule assists his partner's play, *the partner incurs the applicable penalty in addition to any penalty incurred by the competitor*.  
 In all other cases where a competitor incurs a penalty for breach of a Rule, the penalty shall not apply to his partner.
 
 ### Rule 32. Bogey, Par and Stableford Competitions
@@ -1542,7 +1621,7 @@ The reckoning in Stableford competitions is made by points awarded in relation t
 
 | **Hole Played in** | **Points** |
 | --- | --- |
-| More than one over fixed score | 0 |
+| More than one over fixed score or no score returned | 0 |
 | One over fixed score | 1 |
 | Fixed score | 2 |
 | One under fixed score | 3 |
@@ -1563,12 +1642,12 @@ The marker shall be responsible for marking only the gross number of strokes at 
 | --- | --- |
 | [Rule 3-4](#0304) | Refusal to Comply with Rule |
 | [Rule 4-1](#0401), [\-2](#0402) or [\-3](#0403) | Clubs |
-| [Rule 5](#0501) | The Ball |
+| [Rule 5-1](#0501) or [\-2](#0502) | The Ball |
 | [Rule 6-2b](#0602) | Handicap (playing off higher handicap; failure to record handicap) |
 | [Rule 6-3](#0603) | Time of Starting and Groups |
 | [Rule 6-4](#0604) | Caddie |
-| [Rule 6-6b](#0606) | Checking Scores |
-| [Rule 6-6d](#0606) | No alteration of scores, except that the competitor shall not be disqualified when a breach of this Rule does not affect the result of the hole |
+| [Rule 6-6b](#0606) | Signing and Returning Card |
+| [Rule 6-6d](#0606) | Wrong Score for Hole, except that no penalty shall be incurred when a breach of this Rule does not affect the result of the hole |
 | [Rule 6-7](#0607) | Undue Delay (repeated offence) |
 | [Rule 6-8](#0608) | Discontinuance of Play |
 | [Rule 7-1](#0701) | Practice Before or Between Rounds |
@@ -1582,6 +1661,7 @@ In all other cases where a breach of a Rule would entail disqualification, *the 
 ### 33-1. Conditions; Waiving Rule
 
 The Committee shall lay down the conditions under which a competition is to be played.  
+The Committee has no power to waive a Rule of Golf.  
 Certain special rules governing stroke play are so substantially different from those governing match play that combining the two forms of play is not practicable and is not permitted. The results of matches played and the scores returned in these circumstances shall not be accepted.  
 In stroke play the Committee may limit a referee’s duties.
 
@@ -1592,7 +1672,7 @@ The Committee shall define accurately:
 (i) the [course](#Course) and [out of bounds](#oob),  
 (ii) the margins of [water hazards](#water) and [lateral water hazards](#Lateral),  
 (iii) [ground under repair](#gur), and  
-(iv) [obstructions](#Obstruction) and integral parts of the course.
+(iv) [obstructions](#obstruction) and integral parts of the course.
 
 **b. New Holes**  
 New holes should be made on the day on which a stroke competition begins and at such other times as the Committee considers necessary, provided all competitors in a single round play with each hole cut in the same position.
@@ -1618,23 +1698,24 @@ The Committee shall publish a table indicating the order of holes at which handi
 
 ### 33-5. Score Card
 
-In stroke play, the Committee shall issue for each competitor a score card containing the date and the competitor’s name.  
-The Committee is responsible for the addition of scores and application of the handicap recorded on the card.  
-In four-ball stroke play, the Committee is responsible for recording the better-ball score for each hole, the addition and the application of the handicaps recorded on the card.
+In stroke play, the Committee shall issue for each competitor a score card containing the date and the competitor’s name or, in foursome or four-ball stroke play, the competitors’ names.  
+In stroke play, the Committee is responsible for the addition of scores and application of the handicap recorded on the card.  
+In four-ball stroke play, the Committee is responsible for recording the better-ball score for each hole and in the process applying the handicaps recorded on the card, and adding the better-ball scores.  
+In bogey, par and Stableford competitions, the Committee is responsible for applying the handicap recorded on the card and determining the result of each hole and the overall result or points total.
 
 ### 33-6. Decision of Ties
 
 The Committee shall announce the manner, day and time for the decision of a halved match or of a tie, whether played on level terms or under handicap.  
 A halved match shall not be decided by stroke play. A tie in stroke play shall not be decided by a match.
 
-### 33-7. Modification of Penalty
+### 33-7. Disqualification Penalty; Committee Discretion
 
-The Committee has no power to waive a Rule of Golf. A penalty of disqualification, however, may, in exceptional individual cases, be waived or be modified or be imposed if the Committee considers such action warranted.
+A penalty of disqualification may in exceptional individual cases be waived, modified or imposed if the Committee considers such action warranted.
 
 ### 33-8. Local Rules
 
 **a. Policy**  
-The Committee may make and publish Local Rules for abnormal conditions if they are consistent with the policy of the Governing Authority for the country concerned as set forth in [Appendix I](https://www.ruleshistory.com/appendices.html#1984appI) to these Rules.
+The Committee may make and publish Local Rules for abnormal conditions if they are consistent with the policy of the Governing Authority for the country concerned as set forth in [Appendix I](https://www.ruleshistory.com/appendices.html#1988appI) to these Rules.
 
 **b. Waiving Penalty**  
 A penalty imposed by a Rule of Golf shall not be waived by a Local Rule.
@@ -1648,7 +1729,12 @@ In match play if a claim is lodged with the Committee under Rule [2-5](#0205), a
 If a claim is not made within the time limit provided by Rule 2-5, it shall not be considered unless it is based on facts previously unknown to the player making the claim and the player making the claim had been given wrong information (Rules [6-2a](#0602) and [9](#09)) by an opponent. In any case, no later claim shall be considered after the result of the match has been officially announced, unless the Committee is satisfied that the opponent knew he was giving wrong information.
 
 **b. Stroke Play**  
-No penalty shall be imposed after the competition is closed unless the Committee is satisfied that the competitor has knowingly returned a score for any hole lower than actually taken (Rule [6-6c](#0606); no penalty shall be rescinded after the competition is closed. A competition is deemed to have closed when the result of the competition has been officially announced or, in stroke play qualifying followed by match play, when the player has teed off in his first match.
+Except as provided below, in stroke play no penalty shall be rescinded, modified or imposed after the competition is closed. A competition is deemed to have closed when the result has been officially announced or, in stroke play qualifying followed by match play, when the player has teed off in his first match.
+
+*A penalty of disqualification shall be imposed* at any time if a competitor:
+
+(i) returns a score for any hole lower than actually taken Rule ([6-6d](#0606)) for any reason other than failure to include a penalty which he did not know he had incurred; or  
+(ii) returns a score card on which he had recorded a handicap which he knows is higher than that to which he is entitled, and this affected the number of strokes received (Rule [6-2b](#0602))
 
 ### 34-2. Referee’s Decision
 
@@ -1656,7 +1742,7 @@ If a referee has been appointed by the Committee, his decision shall be final.
 
 ### 34-3. Committee’s Decision
 
-In the absence of a referee, the players shall refer any dispute to the Committee, whose decision shall be final.
+In the absence of a referee, the player shall refer any dispute to the Committee, whose decision shall be final.
 
 If the Committee cannot come to a decision, it shall refer the dispute to the Rules of Golf Committee of the Royal and Ancient Golf Club of St. Andrews, whose decision shall be final.
 
