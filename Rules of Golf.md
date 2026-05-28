@@ -1,4 +1,4 @@
-##### A short-lived rules experiment introduced: On the putting green a player may only clean his ball before the first putt. Putting must be continuous until holed out. These rules were withdrawn in 1970. Standing astride the line of putt is banned. Playing characteristics of a club cannot be changed during a round, and having more than 14 clubs now only costs four strokes/two holes maximum. Unplayable ball: penalty reduced to one stroke; no Provisional allowed. Striking an unattended flagstick from on the green is now illegal. Stableford finally makes it into the Rules, but he doesn't live to see it.
+##### Un-numbered edition issued just two years after the 21st edition. The 'continuous putting' introduced in 1968 is rescinded. Also, Rule allowing the ball to be cleaned only before the first putt is rescinded. There are no other changes.
 
 
 | \[<< [18th Century Rules Codes](https://www.ruleshistory.com/rules1744.html) \] | \[[Home](https://www.ruleshistory.com/index.html)\] \[[Contents](https://www.ruleshistory.com/contents.html)\] | \[ [19th Century Rules Codes](https://www.ruleshistory.com/rules1802.html) \>>\] |
@@ -6,28 +6,20 @@
 
   
 
-## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, SCOTLANDand theUNITED STATES GOLF ASSOCIATION effective 1 January 1968.
+## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, SCOTLANDand theUNITED STATES GOLF ASSOCIATION effective 1 January 1970.
 
   
 
 ### SECTION I - ETIQUETTE
 
-1\. No one should move, talk or stand close to or directly behind the ball or the hole when the player is making a stroke.
-
-2\. The player who has the honour should be allowed to play before his opponent or fellow-competitor tees his ball.
-
-3\. No player should play until the players in front are out of range.
-
-4\. In the interest of all, players should play without delay.
-
-5\. Players searching for a ball should allow other players coming up to pass them; they should signal to the players following them to pass, and should not continue their play until those players have passed and are out of range.
-
-6\. Before leaving a bunker, a player should carefully fill up all holes made by him therein.
-
-7\. Through the green, a player should ensure that any turf cut or displaced by him is replaced at once and pressed down, and that, after the players have holed out, any damage to the putting green made by the ball or the players is carefully repaired.
-
-8\. Players should ensure that, when dropping bags or the flagstick, no damage is done to the putting green, and that neither they nor their caddies damage the hole by standing close to the hole, in handling the flagstick or in removing the ball from the hole. The flagstick should be properly replaced in the hole before the players leave the putting green.
-
+1\. No one should move, talk or stand close to or directly behind the ball or the hole when the player is making a stroke.  
+2\. The player who has the honour should be allowed to play before his opponent or fellow-competitor tees his ball.  
+3\. No player should play until the players in front are out of range.  
+4\. In the interest of all, players should play without delay.  
+5\. Players searching for a ball should allow other players coming up to pass them; they should signal to the players following them to pass, and should not continue their play until those players have passed and are out of range.  
+6\. Before leaving a bunker, a player should carefully fill up all holes made by him therein.  
+7\. Through the green, a player should ensure that any turf cut or displaced by him is replaced at once and pressed down, and that, after the players have holed out, any damage to the putting green made by the ball or the players is carefully repaired.  
+8\. Players should ensure that, when dropping bags or the flagstick, no damage is done to the putting green, and that neither they nor their caddies damage the hole by standing close to the hole, in handling the flagstick or in removing the ball from the hole. The flagstick should be properly replaced in the hole before the players leave the putting green.  
 9\. When the play of a hole has been completed, players should immediately leave the putting green.
 
 **PRIORITY ON THE COURSE**  
@@ -449,7 +441,7 @@ In a threesome or a foursome, the partners shall strike off alternately from the
 If a player play when his partner should have played, *his side shall lose the hole*.
 
 **3\. Stroke Play**  
-If the partners play a [stroke](#stroke) or strokes in incorrect order, such stroke or strokes shall be cancelled, and *the side shall be penalised two strokes*. A ball shall then be put in play as nearly as possible at the spot from which the side first played in incorrect order. This must be done before a stroke has been played from the next teeing ground, or, in the case of the last hole of the round, before the side has left the [putting green](#putting). If they fail to do so, *they shall be disqualified*.  
+If the partners play a [stroke](#Stroke) or strokes in incorrect order, such stroke or strokes shall be cancelled, and *the side shall be penalised two strokes*. A ball shall then be put in play as nearly as possible at the spot from which the side first played in incorrect order. This must be done before a stroke has been played from the next teeing ground, or, in the case of the last hole of the round, before the side has left the [putting green](#putting). If they fail to do so, *they shall be disqualified*.  
 If the first ball was played from the teeing ground, a ball may be teed anywhere within the teeing ground; if from [through the green](#through) or a [hazard](#hazard), it shall be dropped; if on the putting green, it shall be placed.
 
 ### Rule 16. Ball Played as it Lies and not Touched
@@ -520,7 +512,6 @@ If the player strike the ball twice when making a stroke, he shall count the str
 
 **1\. General**  
 When the balls are in play, the ball farther from the hole shall be played first. If the balls are equidistant from the hole, the option of playing first shall be decided by lot.  
-*Exception: Stroke play on putting green to be continuous - Rule [35-3e](#3503)*  
 A player or a competitor incurs no penalty if a ball is moved in measuring to determine which ball is farther from the hole. A ball so moved shall be replaced.
 
 **2\. Match Play**  
@@ -531,8 +522,7 @@ A player or a competitor incurs no penalty if a ball is moved in measuring to de
 (Playing out of turn on putting green - Rule [35-2b](#3502))*
 
 **3\. Stroke Play**  
-If a competitor play out of turn, no penalty shall be incurred. The ball shall be played as it lies.  
-*Exception: Stroke play on putting green to be continuous - Rule [35-3e](#3503)*
+If a competitor play out of turn, no penalty shall be incurred. The ball shall be played as it lies.
 
 ### Rule 21 Playing a Wrong Ball or Under a Wrong Rule
 
@@ -541,10 +531,8 @@ A player must hole out with the ball driven from the [teeing ground](#teeing) un
 
 **2\. Match Play  
 a. Wrong Ball**  
-If a player play a [stroke](#stroke) with a ball other than his own except in a [hazard](#hazard) *he shall lose the hole*. There is no penalty if a player play a stroke or strokes in a hazard with a ball other than his own provided he then play his own ball; the strokes so played with a ball other than the player's own do not count in the player's score. The other ball shall be replaced.
-
-When the player and the opponent exchange balls, the first to play the wrong ball shall lose the hole; when this cannot be determined, the hole shall be played out with the balls exchanged.
-
+If a player play a [stroke](#stroke) with a ball other than his own except in a [hazard](#hazard) *he shall lose the hole*. There is no penalty if a player play a stroke or strokes in a hazard with a ball other than his own provided he then play his own ball; the strokes so played with a ball other than the player's own do not count in the player's score. The other ball shall be replaced.  
+When the player and the opponent exchange balls, the first to play the wrong ball shall lose the hole; when this cannot be determined, the hole shall be played out with the balls exchanged.  
 **b. Ball Played under Wrong Rule**  
 If a player play a stroke under a Rule which does not govern the particular case, *he shall lose the hole*.
 
@@ -729,7 +717,8 @@ If a competitor's ball be moved by a fellow-competitor, his caddie, ball or equi
 
 **PENALTY FOR BREACH OF RULE:**  
 *Match play - Loss of hole; \*Stroke play - Two strokes  
-(Playing a wrong ball - Rule [21](#21))*  
+(Playing a wrong ball - Rule [21](#21))*
+
 \*Note: *A serious breach of this Rule should be dealt with by the Committee under Rule [^2]*
 
 ### Rule 28. Ball Unfit For Play
@@ -759,12 +748,10 @@ A player may stand out of bounds to play a ball lying within bounds.
 a. Player Sole Judge**  
 The player is the sole judge as to whether his ball is unplayable. It may be declared unplayable at any place on the course except in a [water hazard](#water) (Rule [33-2](#3302), [\-3](#3303)).  
 **b. Procedure**  
-If the player deem his ball to be unplayable, he shall either:-
-
-> (i) Play his next stroke as provided in Clause 1a of this Rule (*stroke-and-distance penalty),  
-> or*  
-> (ii) Drop a ball, *under penalty of one stroke*, either (a) within two club-lengths of the point where the ball lay, but not nearer the hole, or (b) behind the point where the ball lay, keeping that point between himself and the hole, with no limit to how far behind that point the ball may be dropped. If the ball lay in a bunker, a ball must be dropped in the bunker.
-
+If the player deem his ball to be unplayable, he shall either:-  
+(i) Play his next stroke as provided in Clause 1a of this Rule (*stroke-and-distance penalty),  
+or*  
+(ii) Drop a ball, *under penalty of one stroke*, either (a) within two club-lengths of the point where the ball lay, but not nearer the hole, or (b) behind the point where the ball lay, keeping that point between himself and the hole, with no limit to how far behind that point the ball may be dropped. If the ball lay in a bunker, a ball must be dropped in the bunker.  
 *(Ball in casual water, etc.- Rule [32](#32))  
 (Ball unfit for play - Rule [28](#28))*
 
@@ -851,7 +838,7 @@ If a ball, when dropped, roll into a position covered by this Rule, it may be re
 
 **1\. Touching Hazard Prohibited**  
 When a ball lies in or touches a hazard or a water hazard, nothing shall be done which may in any way improve its lie.  
-Before making a [stroke](#stroke), the player shall not touch the ground in the hazard or water with a club or otherwise, nor touch or move a [loose impediment](#loose) lying in or touching the hazard, nor test the condition of the hazard or of any similar hazard; subject to the following considerations:-  
+Before making a [stroke](#stroke), the player shall not touch the ground in the hazard or water with a club or otherwise, nor touch or move a [loose impediment](#loose) lying in or touching the hazard, nor test the condition of the hazard or of any similar hazard; subject to the following considerations:  
 **a. Stance**  
 The player may place his feet firmly in taking his [stance](#stance).  
 **b. Touching Fixed or Growing Object**  
@@ -872,7 +859,7 @@ The player is entitled to relief from [casual water](#casual), [ground under rep
 The player is entitled to relief from interference by another ball under the provisions of Rule [24](#24).
 
 **2\. Ball in Water Hazard**  
-If a ball lie or be lost in a water hazard (whether the ball lie in water or not), the player may drop a ball, under penalty of one stroke, either:
+If a ball lie or be lost in a water hazard (whether the ball lie in water or not), the player may drop a ball, *under penalty of one stroke*, either:
 
 > a. Behind the water hazard, keeping the spot at which the ball last crossed the margin of the water hazard between himself and the hole, and with no limit to how far behind the water hazard the ball may be dropped,  
 > *or*  
@@ -937,15 +924,10 @@ The player may move any [loose impediment](#loose) on the putting green by picki
 **c. Repair of Ball Marks**  
 The player may repair damage to the putting green caused by the impact of a ball. The ball may be lifted to permit repair and shall be replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.  
 If a ball be moved during such repair, it shall be replaced, without penalty.  
-**d. Ball May be Lifted for Cleaning Only before First Putt**  
-A ball lying on the putting green may be lifted for the purpose of cleaning, without penalty, only before the player plays his first stroke, and must be replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.
-
-**PENALTY FOR BREACH OF RULE 35-1d:**  
-*One stroke.  
-*Note*: A ball lifted from the putting green in accordance with other Rules may be cleaned.*
-
+**d. Cleaning Ball**  
+A ball lying on the putting green may be lifted and cleaned, without penalty, and replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.  
 **e. Direction for Putting**  
-When the player's ball is on the putting green, the player's caddie, his partner or his partner's caddie may, before the stroke is played, point out a line for putting, but the line of the putt shall not be touched in front of, to the side of, or behind the hole.  
+When the player's ball is on the putting green, the player's caddie, his partner or his partner's caddie may, before the stroke is played, point out a line for putting but the line of the putt shall not be touched in front of, to the side of, or behind the hole.  
 No mark shall be placed anywhere on the putting green to indicate a line for putting.  
 **f. Testing Surface**  
 During the play of a hole, a player shall not test the surface of the putting green by rolling a ball or roughening or scraping the surface.  
@@ -956,7 +938,7 @@ If a ball in motion after a stroke on the putting green be stopped or deflected 
 **i. Ball Overhanging Hole**  
 When any part of the ball overhangs the edge of the hole, the owner of the ball is not allowed more than a few seconds to determine whether it is at rest. If by then the ball has not fallen into the hole, it is deemed to be at rest.  
 **j. Ball on a Wrong Putting Green**  
-A ball lying on a putting green other than that of the hole being played must be lifted and dropped off the putting green as near as possible to where the ball lay but not nearer the hole and not in a hazard, without penalty.  
+A ball lying on a putting green other than that of the hole being played must be lifted and dropped off the putting green as near as possible to where the ball lay, but not nearer the hole and not in a hazard, without penalty.  
 Note: *Unless otherwise stipulated by the Committee, the term "a putting green other than that of the hole being played" includes a practice putting or pitching green lying within the boundaries of the course.*  
 **k. Ball Played as it Lies and not Touched**  
 For ball purposely moved or purposely touched, see Rule [16](#16)  
@@ -971,13 +953,13 @@ Note: *When a ball on the putting green is to be lifted, its position should be 
 **2\. Match Play  
 a. Ball Interfering with Play**  
 When the ball nearer the hole lies on the putting green, if the player consider that the opponent's ball might either be struck by his ball or interfere with his stance or stroke, the player may require the opponent to lift his ball, without penalty. The opponent shall replace his ball after the player has played his stroke. If the player's ball stop on the spot formerly occupied by the lifted ball, the player shall first play another stroke before the lifted ball is replaced.  
-If a ball be accidentally touched or moved in complying with this Rule, no penalty shall be incurred and the ball if moved shall be replaced.  
+If the player's ball be accidentally touched or moved in complying with this Rule, no penalty shall be incurred and the ball if moved shall be replaced.  
 **b. Playing Out of Turn**  
 If a player play when his opponent should have done so, the opponent may immediately require the player to replay the stroke, in which case the player shall replace his ball and play in correct order, without penalty.  
 **c. Opponent's Ball Displaced**  
 If the player's ball knock the opponent's ball into the hole, the opponent shall be deemed to have holed out at his last stroke.  
 If the player's ball move the opponent's ball, the opponent may replace it, but this must be done before another stroke is played by either side. If the player's ball stop on the spot formerly occupied by the opponent's ball, and the opponent declare his intention to replace his ball, the player shall first play another stroke, after which the opponent shall replace his ball.  
-*(Three-Ball, Best-Ball and Four-Ball match play-Rule [40-1c](#4001).)*  
+*(Three-Ball, Best-Ball and Four-Ball match play - Rule [40-1c](#4001).)*  
 **d. Conceding Opponent's Next Stroke**  
 When the opponent's ball has come to rest, the player may concede the opponent to have holed out with his next stroke and may remove the opponent's ball with a club or otherwise. If the player does not concede the opponent's next stroke and the opponent's ball fall into the hole, the opponent shall be deemed to have holed out with his last stroke.  
 If the opponent's next stroke has not been conceded, the opponent shall play without delay in correct order.
@@ -988,22 +970,14 @@ If the opponent's next stroke has not been conceded, the opponent shall play wit
 **3\. Stroke Play  
 a. Ball Interfering with Play**  
 When the ball nearer the hole lies on the putting green, if the competitor consider that the fellow-competitor's ball might either be struck by his ball or interfere with his stance or stroke, the competitor may require the fellow-competitor to lift or play his ball, at the option of its owner, without penalty.  
-*Exception:- Play to be continuous - Rule 35-3e*  
-If the owner of the ball refuse to comply with this Rule when required to do so, the competitor making the request may lift the ball, *and the owner of the ball shall be disqualified.  
-*Note: *It is recommended that the ball nearer the hole be played, rather than lifted unless the subsequent play of a fellow-competitor is likely to be affected.*  
+If the owner of the ball refuse to comply with this Rule when required to do so, the competitor making the request may lift the ball, *and the owner of the ball shall be disqualified.*  
+Note: *It is recommended that the ball nearer the hole be played, rather than lifted unless the subsequent play of a fellow-competitor is likely to be affected.*  
 **b. Ball Assisting Play**  
 If the fellow-competitor consider that his ball lying on the putting green might be of assistance to the competitor, the fellow-competitor may lift or play first, without penalty.  
 **c. Ball Striking Fellow-Competitor's Ball**  
 When both balls lie on the putting green, if the competitor's ball strike a fellow-competitor's ball, *the competitor shall incur a penalty of two strokes* and shall play his ball as it lies. The fellow-competitor's ball shall be at once replaced.  
 **d. Ball Lifted Before Holed Out**  
-For ball lifted before holed out, see Rule [22-1b](#2201).  
-**e. Play to be Continuous**  
-On the putting green, each competitor shall play continuously until his ball is holed. However, if the fellow-competitor consider that the competitor would stand on his line of play, the fellow-competitor may require the competitor to lift his ball and play in turn
-
-**PENALTY FOR BREACH OF RULE 35-3e:**  
-*One stroke.*  
-Note 1. *This supersedes any conflicting provisions of Rules 20-1, 20-3 and 35-3a.*  
-Note 2. *This rules does not apply in four-ball stroke play.*
+For ball lifted before holed out, see Rule [22-1b](#2201).
 
 ### Rule 36 The Committee (Def. )
 
@@ -1416,7 +1390,7 @@ In a threesome or a foursome, the partners shall strike off alternately from the
 If a player play when his partner should have played, *his side shall lose the hole*
 
 **3\. Stroke Play**  
-If the partners play a [stroke](#stroke) or strokes in incorrect order, such stroke or strokes shall be cancelled, and *the side shall be penalised two strokes*. A ball shall then be put in play as nearly as possible at the spot from which the side first played in incorrect order. This must be done before a stroke has been played from the next teeing ground, or, in the case of the last hole of the round, before the side has left the [putting green](#putting). If they fail to do so, *they shall be disqualified*.  
+If the partners play a [stroke](#Stroke) or strokes in incorrect order, such stroke or strokes shall be cancelled, and *the side shall be penalised two strokes*. A ball shall then be put in play as nearly as possible at the spot from which the side first played in incorrect order. This must be done before a stroke has been played from the next teeing ground, or, in the case of the last hole of the round, before the side has left the [putting green](#putting). If they fail to do so, *they shall be disqualified*.  
 If the first ball was played from the teeing ground, a ball may be teed anywhere within the teeing ground; if from [through the green](#through) or a [hazard](#hazard), it shall be dropped; if on the putting green, it shall be placed.
 
 ### Rule 16. Ball Played as it Lies and not Touched
@@ -1487,7 +1461,6 @@ If the player strike the ball twice when making a stroke, he shall count the str
 
 **1\. General**  
 When the balls are in play, the ball farther from the hole shall be played first. If the balls are equidistant from the hole, the option of playing first shall be decided by lot.  
-*Exception: Stroke play on putting green to be continuous - Rule [35-3e](#3503)*  
 A player or a competitor incurs no penalty if a ball is moved in measuring to determine which ball is farther from the hole. A ball so moved shall be replaced.
 
 **2\. Match Play**  
@@ -1498,8 +1471,7 @@ A player or a competitor incurs no penalty if a ball is moved in measuring to de
 (Playing out of turn on putting green - Rule [35-2b](#3502))*
 
 **3\. Stroke Play**  
-If a competitor play out of turn, no penalty shall be incurred. The ball shall be played as it lies.  
-*Exception: Stroke play on putting green to be continuous - Rule [35-3e](#3503)*
+If a competitor play out of turn, no penalty shall be incurred. The ball shall be played as it lies.
 
 ### Rule 21 Playing a Wrong Ball or Under a Wrong Rule
 
@@ -1508,10 +1480,8 @@ A player must hole out with the ball driven from the [teeing ground](#teeing) un
 
 **2\. Match Play  
 a. Wrong Ball**  
-If a player play a [stroke](#stroke) with a ball other than his own except in a [hazard](#hazard) *he shall lose the hole*. There is no penalty if a player play a stroke or strokes in a hazard with a ball other than his own provided he then play his own ball; the strokes so played with a ball other than the player's own do not count in the player's score. The other ball shall be replaced.
-
-When the player and the opponent exchange balls, the first to play the wrong ball shall lose the hole; when this cannot be determined, the hole shall be played out with the balls exchanged.
-
+If a player play a [stroke](#stroke) with a ball other than his own except in a [hazard](#hazard) *he shall lose the hole*. There is no penalty if a player play a stroke or strokes in a hazard with a ball other than his own provided he then play his own ball; the strokes so played with a ball other than the player's own do not count in the player's score. The other ball shall be replaced.  
+When the player and the opponent exchange balls, the first to play the wrong ball shall lose the hole; when this cannot be determined, the hole shall be played out with the balls exchanged.  
 **b. Ball Played under Wrong Rule**  
 If a player play a stroke under a Rule which does not govern the particular case, *he shall lose the hole*
 
@@ -1690,7 +1660,8 @@ If a competitor's ball be moved by a fellow-competitor, his caddie, ball or equi
 
 **PENALTY FOR BREACH OF RULE:**  
 *Match play - Loss of hole; \*Stroke play - Two strokes  
-(Playing a wrong ball - Rule [21](#21))*  
+(Playing a wrong ball - Rule [21](#21))*
+
 \*Note: *A serious breach of this Rule should be dealt with by the Committee under Rule [1](#1)*
 
 ### Rule 28. Ball Unfit For Play
@@ -1720,12 +1691,10 @@ A player may stand out of bounds to play a ball lying within bounds.
 a. Player Sole Judge**  
 The player is the sole judge as to whether his ball is unplayable. It may be declared unplayable at any place on the course except in a [water hazard](#water) (Rule [33-2](#3302), [\-3](#3303)).  
 **b. Procedure**  
-If the player deem his ball to be unplayable, he shall either:-
-
-> (i) Play his next stroke as provided in Clause 1a of this Rule (*stroke-and-distance penalty),  
-> or*  
-> (ii) Drop a ball, *under penalty of one stroke*, either (a) within two club-lengths of the point where the ball lay, but not nearer the hole, or (b) behind the point where the ball lay, keeping that point between himself and the hole, with no limit to how far behind that point the ball may be dropped. If the ball lay in a bunker, a ball must be dropped in the bunker.
-
+If the player deem his ball to be unplayable, he shall either:-  
+(i) Play his next stroke as provided in Clause 1a of this Rule (*stroke-and-distance penalty),  
+or*  
+(ii) Drop a ball, *under penalty of one stroke*, either (a) within two club-lengths of the point where the ball lay, but not nearer the hole, or (b) behind the point where the ball lay, keeping that point between himself and the hole, with no limit to how far behind that point the ball may be dropped. If the ball lay in a bunker, a ball must be dropped in the bunker.  
 *(Ball in casual water, etc.- Rule [32](#32))  
 (Ball unfit for play - Rule [28](#28))*
 
@@ -1809,7 +1778,7 @@ If a ball, when dropped, roll into a position covered by this Rule, it may be re
 
 **1\. Touching Hazard Prohibited**  
 When a ball lies in or touches a hazard or a water hazard, nothing shall be done which may in any way improve its lie.  
-Before making a [stroke](#stroke), the player shall not touch the ground in the hazard or water with a club or otherwise, nor touch or move a [loose impediment](#loose) lying in or touching the hazard, nor test the condition of the hazard or of any similar hazard; subject to the following considerations:-  
+Before making a [stroke](#stroke), the player shall not touch the ground in the hazard or water with a club or otherwise, nor touch or move a [loose impediment](#loose) lying in or touching the hazard, nor test the condition of the hazard or of any similar hazard; subject to the following considerations:  
 **a. Stance**  
 The player may place his feet firmly in taking his [stance](#stance).  
 **b. Touching Fixed or Growing Object**  
@@ -1830,7 +1799,7 @@ The player is entitled to relief from [casual water](#casual), [ground under rep
 The player is entitled to relief from interference by another ball under the provisions of Rule [24](#24)
 
 **2\. Ball in Water Hazard**  
-If a ball lie or be lost in a water hazard (whether the ball lie in water or not), the player may drop a ball, under penalty of one stroke, either:
+If a ball lie or be lost in a water hazard (whether the ball lie in water or not), the player may drop a ball, *under penalty of one stroke*, either:
 
 > a. Behind the water hazard, keeping the spot at which the ball last crossed the margin of the water hazard between himself and the hole, and with no limit to how far behind the water hazard the ball may be dropped,  
 > *or*  
@@ -1895,15 +1864,10 @@ The player may move any [loose impediment](#loose) on the putting green by picki
 **c. Repair of Ball Marks**  
 The player may repair damage to the putting green caused by the impact of a ball. The ball may be lifted to permit repair and shall be replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.  
 If a ball be moved during such repair, it shall be replaced, without penalty.  
-**d. Ball May be Lifted for Cleaning Only before First Putt**  
-A ball lying on the putting green may be lifted for the purpose of cleaning, without penalty, only before the player plays his first stroke, and must be replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.
-
-**PENALTY FOR BREACH OF RULE 35-1d:**  
-*One stroke.  
-*Note*: A ball lifted from the putting green in accordance with other Rules may be cleaned.*
-
+**d. Cleaning Ball**  
+A ball lying on the putting green may be lifted and cleaned, without penalty, and replaced on the spot from which it was lifted; in match play the ball must be replaced immediately if the opponent so requests.  
 **e. Direction for Putting**  
-When the player's ball is on the putting green, the player's caddie, his partner or his partner's caddie may, before the stroke is played, point out a line for putting, but the line of the putt shall not be touched in front of, to the side of, or behind the hole.  
+When the player's ball is on the putting green, the player's caddie, his partner or his partner's caddie may, before the stroke is played, point out a line for putting but the line of the putt shall not be touched in front of, to the side of, or behind the hole.  
 No mark shall be placed anywhere on the putting green to indicate a line for putting.  
 **f. Testing Surface**  
 During the play of a hole, a player shall not test the surface of the putting green by rolling a ball or roughening or scraping the surface.  
@@ -1914,7 +1878,7 @@ If a ball in motion after a stroke on the putting green be stopped or deflected 
 **i. Ball Overhanging Hole**  
 When any part of the ball overhangs the edge of the hole, the owner of the ball is not allowed more than a few seconds to determine whether it is at rest. If by then the ball has not fallen into the hole, it is deemed to be at rest.  
 **j. Ball on a Wrong Putting Green**  
-A ball lying on a putting green other than that of the hole being played must be lifted and dropped off the putting green as near as possible to where the ball lay but not nearer the hole and not in a hazard, without penalty.  
+A ball lying on a putting green other than that of the hole being played must be lifted and dropped off the putting green as near as possible to where the ball lay, but not nearer the hole and not in a hazard, without penalty.  
 Note: *Unless otherwise stipulated by the Committee, the term "a putting green other than that of the hole being played" includes a practice putting or pitching green lying within the boundaries of the course.*  
 **k. Ball Played as it Lies and not Touched**  
 For ball purposely moved or purposely touched, see Rule [16](#16)  
@@ -1929,13 +1893,13 @@ Note: *When a ball on the putting green is to be lifted, its position should be 
 **2\. Match Play  
 a. Ball Interfering with Play**  
 When the ball nearer the hole lies on the putting green, if the player consider that the opponent's ball might either be struck by his ball or interfere with his stance or stroke, the player may require the opponent to lift his ball, without penalty. The opponent shall replace his ball after the player has played his stroke. If the player's ball stop on the spot formerly occupied by the lifted ball, the player shall first play another stroke before the lifted ball is replaced.  
-If a ball be accidentally touched or moved in complying with this Rule, no penalty shall be incurred and the ball if moved shall be replaced.  
+If the player's ball be accidentally touched or moved in complying with this Rule, no penalty shall be incurred and the ball if moved shall be replaced.  
 **b. Playing Out of Turn**  
 If a player play when his opponent should have done so, the opponent may immediately require the player to replay the stroke, in which case the player shall replace his ball and play in correct order, without penalty.  
 **c. Opponent's Ball Displaced**  
 If the player's ball knock the opponent's ball into the hole, the opponent shall be deemed to have holed out at his last stroke.  
 If the player's ball move the opponent's ball, the opponent may replace it, but this must be done before another stroke is played by either side. If the player's ball stop on the spot formerly occupied by the opponent's ball, and the opponent declare his intention to replace his ball, the player shall first play another stroke, after which the opponent shall replace his ball.  
-*(Three-Ball, Best-Ball and Four-Ball match play-Rule [40-1c](#4001).)*  
+*(Three-Ball, Best-Ball and Four-Ball match play - Rule [40-1c](#4001).)*  
 **d. Conceding Opponent's Next Stroke**  
 When the opponent's ball has come to rest, the player may concede the opponent to have holed out with his next stroke and may remove the opponent's ball with a club or otherwise. If the player does not concede the opponent's next stroke and the opponent's ball fall into the hole, the opponent shall be deemed to have holed out with his last stroke.  
 If the opponent's next stroke has not been conceded, the opponent shall play without delay in correct order.
@@ -1946,22 +1910,14 @@ If the opponent's next stroke has not been conceded, the opponent shall play wit
 **3\. Stroke Play  
 a. Ball Interfering with Play**  
 When the ball nearer the hole lies on the putting green, if the competitor consider that the fellow-competitor's ball might either be struck by his ball or interfere with his stance or stroke, the competitor may require the fellow-competitor to lift or play his ball, at the option of its owner, without penalty.  
-*Exception:- Play to be continuous - Rule 35-3e*  
-If the owner of the ball refuse to comply with this Rule when required to do so, the competitor making the request may lift the ball, *and the owner of the ball shall be disqualified.  
-*Note: *It is recommended that the ball nearer the hole be played, rather than lifted unless the subsequent play of a fellow-competitor is likely to be affected.*  
+If the owner of the ball refuse to comply with this Rule when required to do so, the competitor making the request may lift the ball, *and the owner of the ball shall be disqualified.*  
+Note: *It is recommended that the ball nearer the hole be played, rather than lifted unless the subsequent play of a fellow-competitor is likely to be affected.*  
 **b. Ball Assisting Play**  
 If the fellow-competitor consider that his ball lying on the putting green might be of assistance to the competitor, the fellow-competitor may lift or play first, without penalty.  
 **c. Ball Striking Fellow-Competitor's Ball**  
 When both balls lie on the putting green, if the competitor's ball strike a fellow-competitor's ball, *the competitor shall incur a penalty of two strokes* and shall play his ball as it lies. The fellow-competitor's ball shall be at once replaced.  
 **d. Ball Lifted Before Holed Out**  
-For ball lifted before holed out, see Rule [22-1b](#2201).  
-**e. Play to be Continuous**  
-On the putting green, each competitor shall play continuously until his ball is holed. However, if the fellow-competitor consider that the competitor would stand on his line of play, the fellow-competitor may require the competitor to lift his ball and play in turn
-
-**PENALTY FOR BREACH OF RULE 35-3e:**  
-*One stroke.*  
-Note 1. *This supersedes any conflicting provisions of Rules 20-1, 20-3 and 35-3a.*  
-Note 2. *This rules does not apply in four-ball stroke play.*
+For ball lifted before holed out, see Rule [22-1b](#2201)
 
 ### Rule 36 The Committee (Def. )
 
