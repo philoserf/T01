@@ -1,19 +1,19 @@
 ---
 date: 2026-05-26
 showHero: false
-title: C&RBGC
+title: README
 ---
 
-Notes on golf — its history, its architects, its courses, and especially the walking, hickory-era version of the game.
+Notes on golf—its history, its architects, its courses, and especially the walking, hickory-era version of the game.
 
 "C&RBGC" is shorthand for the [Common & Recent Bogey Golf Club](https://crbgc.org): a fellowship oriented around camaraderie, walking, and the older spirit of the game rather than scores or status. Motto: _"We can shoot an 84 here, right?"_
 
-These are working notes in motion, not finished essays — biased toward walking, hickory, classic architecture, Michigan, and the older orientation of the game.
+These are working notes in motion, not finished essays—biased toward walking, hickory, classic architecture, Michigan, and the older orientation of the game.
 
 ## Start here
 
-- [[Hickory Era American Golf]] — the pre-1930 American game and how it played
-- [[Golf's Original Constraints]] — what the game's original limits were, and why they matter
-- [[Minimalist Golf Architecture School]] — the contemporary lineage returning to those values
-- [[Recovering Golf's Original Orientation]] — the argument running underneath the rest
-- [[History of Public Golf in America]] — how the public/democratic strand became dominant
+- [[Hickory Era American Golf]]—the pre-1930 American game and how it played
+- [[Golf's Original Constraints]]—what the game's original limits were, and why they matter
+- [[Minimalist Golf Architecture School]]—the contemporary lineage returning to those values
+- [[Recovering Golf's Original Orientation]]—the argument running underneath the rest
+- [[History of Public Golf in America]]—how the public/democratic strand became dominant

@@ -1,10 +1,12 @@
-##### These are the earliest surviving written Rules of Golf, compiled by the Gentlemen Golfers of Leith, later the Honourable Company of Edinburgh Golfers, drafted on 7th March 1744, for a tournament played on 2nd April. As well as I can manage, I have reproduced the original spelling and punctuation. Obviously, disputes over the Rules are nothing new; some years later, the Gentlemen Golfers had to publish an amendment, looking rather like the very first decision, and this is attached at the bottom of the page. Pictures of the Leith links as it is today, and a layout of the original course can be seen here.
+---
+title: Rules of Golf 1744
+---
 
-\*\*
-
-## Articles & Laws in Playing at Golf.
+## Articles & Laws in Playing at Golf
 
 1\. You must Tee your Ball within a Club's length of the Hole.
+
+lint
 
 2\. Your Tee must be upon the Ground.
 

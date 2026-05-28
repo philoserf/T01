@@ -1,6 +1,8 @@
-##### The ninth edition. Re-worded rules on playing a provisional ball make it clear that the provisional ball must be played before the player goes forward to search for his original ball.
+---
+title: Rules of Golf 1925
+---
 
-## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, 28 September 1920, Amended 29 September 1925.
+## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, 28 September 1920, Amended 29 September 1925
 
 **Definitions**
 
@@ -58,7 +60,7 @@ Rule 1
 Mode of Play
 
 \*\*  
-(1) The Game of Golf is played by two sides, each playing its own ball, with clubs and balls made in conformity with the directions laid down in the clause on ‘ [Form and Make of Golf Clubs and Balls](#ball).’
+(1) The Game of Golf is played by two sides, each playing its own ball, with clubs and balls made in conformity with the directions laid down in the clause on ‘[Form and Make of Golf Clubs and Balls](#ball).’
 
 The game consists in each side playing a ball from a [teeing-ground](#teeing) into a hole by successive strokes. The hole is won by the side which holes its ball in fewer strokes than the opposing side, except as otherwise provided for in the Rules.
 
@@ -336,7 +338,7 @@ Rule 22
 Lost and Unplayable Ball
 
 \*\*  
-(1) If a ball be ‘ [lost](#lost) ’ except in water, or [casual water](#casual) or be deemed by the player to be unplayable, the player shall play his next stroke as nearly as possible at the spot from which the ball which is lost or unplayable was played, adding a penalty stroke to the score for the hole.
+(1) If a ball be ‘[lost](#lost)’ except in water, or [casual water](#casual) or be deemed by the player to be unplayable, the player shall play his next stroke as nearly as possible at the spot from which the ball which is lost or unplayable was played, adding a penalty stroke to the score for the hole.
 
 If the stroke was played from the [Teeing-Ground](#teeing), a ball may be teed; in all other cases a ball shall be dropped.
 
@@ -923,7 +925,7 @@ RECOMMENDATIONS FOR LOCAL RULES
 
 When necessary, Local Rules should be made for such obstructions as rushes, trees, hedges, fixed seats, fences, gates, railways, and walls, for such difficulties as rabbit scrapes, hoof marks, and other damage caused to the course by animals; for such local conditions as the existence of mud which may be held to interfere with the proper playing of the game, and for the penalty to be imposed in the case of a ball which lies out of bounds (see Rule [23(1)](#23))
 
-When a ball is lifted under a Local Rule, as in the case of a ball lifted from a [Putting-Green](#putting) other than that of the hole which is being played, the Rules of Golf Committee recommends that if it is to be played from ‘ [Through the Green](#through),’ it should be _dropped_; if it is to be played on the Putting-Green of the hole that is being played, it should be _placed._
+When a ball is lifted under a Local Rule, as in the case of a ball lifted from a [Putting-Green](#putting) other than that of the hole which is being played, the Rules of Golf Committee recommends that if it is to be played from ‘[Through the Green](#through),’ it should be _dropped_; if it is to be played on the Putting-Green of the hole that is being played, it should be _placed._
 
 **FORM AND MAKE OF GOLF CLUBS AND BALLS**
 

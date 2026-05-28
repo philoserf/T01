@@ -1,6 +1,8 @@
-##### The hole's dimensions are specified for the first time, at four and a quarter inches. Search time for a lost ball reduced to five minutes.
+---
+title: Rules of Golf 1891
+---
 
-## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, 29 September 1891.
+## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, 29 September 1891
 
 1
 

@@ -1,6 +1,8 @@
-##### The size of the teeing ground is increased. Loose impediments within a clublength of the ball may be removed if the ball lies 'on grass' - bringing back the rule as it was in 1829. A player accidentally moving his own ball now incurs a one stroke penalty instead of loss of hole. New rules: unplayable ball, and a rule covering the ball breaking apart (a tendency of the recently-introduced gutta-percha ball). In Medal play all balls must be holed out, and no stimies.
+---
+title: Rules of Golf 1858
+---
 
-## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, May, 1858.
+## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, May, 1858
 
 1\. _Mode and Order of Playing the Game._  
 The game of golf is played by two persons, or by four (two of a side) playing alternately. It may also be played by three or more persons, each playing his own ball. The game commences by each party playing off a ball from a place called the tee, near the first hole.  

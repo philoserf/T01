@@ -15,7 +15,7 @@ The hickory era (the period when shafts were made of hickory wood, ending around
 
 ## Details
 
-### British and Scottish reportage and journalism
+### British and Scottish Reportage and Journalism
 
 The dominant figure is Bernard Darwin (1876–1961), grandson of Charles Darwin, who became golf correspondent of The Times in 1907 (a post he held with almost unbroken authority until 1953) and simultaneously wrote weekly for Country Life. His first book, "The Golf Courses of the British Isles" (London: Duckworth, 1910, with sixty-four colour plates by Harry Rountree), was the first comprehensive hole-by-hole survey of the leading courses of Scotland, England, and Ireland and remains foundational; it is freely available on Project Gutenberg (gutenberg.org/files/44623/44623-h/44623-h.htm) and the Internet Archive (archive.org/details/golfcoursesofbri00darwuoft). The book's tone is set early—the muddy pre-heathland London courses are invoked alongside the "priceless gift of youth" of Sunningdale and Walton Heath. Darwin's other essential hickory-era volumes are "Tee Shots and Others" (1911, a collection of Evening Standard pieces), "Golf from the Times" (1912), "A Friendly Round" (1922), "Green Memories" (1928), "Out of the Rough" (1932), and "Playing the Like" (1934); his American reporting (e.g. on the 1922 Walker Cup, where he played as a substitute) yielded characteristic remarks like "the Lido is the work of Mr. CB Macdonald…he must have the imagination of a poet and a seer."
 
@@ -27,7 +27,7 @@ Garden G. Smith was founding editor of "Golf Illustrated" (London) from its 1899
 
 W. Dalrymple edited "Golf: A Royal and Ancient Game" (Edinburgh: Black, 1892), one of the first historical compendia. Robert Browning (Robert Henry Kirkwood Browning, 1884–1957) was editor of "Golfing" magazine (UK) for an extraordinary forty-five years, 1910–1955; though his celebrated "A History of Golf: The Royal and Ancient Game" (Dent, 1955) is just post-hickory, his editorial voice shaped golf journalism throughout the entire period.
 
-### American reportage and journalism
+### American Reportage and Journalism
 
 O.B. Keeler (Oscar Bane Keeler, 1882–1950) was the Atlanta Journal's golf writer from 1909 and the inseparable chronicler of Bobby Jones, traveling with him to all thirteen of his major victories. He co-wrote "Down the Fairway" (1927)—discussed below under instructional/memoir—and "The Boys' Life of Bobby Jones" (Harper, 1931). H.G. Salsinger of the Detroit News wrote that "while Jones composed his epics, Keeler sang them to the world."
 
@@ -35,7 +35,7 @@ Grantland Rice (1880–1954) was the most influential American sports columnist 
 
 H.B. Martin (Harry Brownlow Martin, 1873–1959) produced "Fifty Years of American Golf" (Dodd, Mead, 1936, foreword by Grantland Rice), along with earlier "Golf Yarns" (1913); he also ghostwrote much of Walter Hagen's prose. Innis Brown was a long-running American Golfer contributor and later co-author with Ernest Jones. William D. Richardson was the New York Times golf correspondent for decades. Charles Price's important work is post-hickory and should be set aside as outside the era.
 
-### British and Scottish instructional/technical writing
+### British and Scottish instructional/technical Writing
 
 The genre begins with Horace G. Hutchinson's "Hints on the Game of Golf" (Edinburgh: William Blackwood, 1886), the first golf instructional offered for public sale; it ran through fourteen editions to 1906. Multiple editions of Hutchinson are on HathiTrust (e.g., the 1886, 1895, and 1903 printings). Hutchinson then edited the Badminton Library "Golf" volume (Longmans, Green, 1890), with contributions from Lord Wellwood (Lord Moncreiff), Sir Walter Simpson, Andrew Lang (writing the opening "History of Golf"), Arthur Balfour, and H.S.C. Everard. It was the first compendium aimed at the educated general reader.
 
@@ -49,7 +49,7 @@ J.H. Taylor (1871–1963) published "Taylor on Golf: Impressions, Comments and H
 
 John L. Low's "Concerning Golf" (Hodder & Stoughton, 1903, with a chapter on driving by Harold Hilton) is hosted at HathiTrust (babel.hathitrust.org/cgi/pt?id=njp.32101064795923). Though brief, it is the most influential strategic-design statement of the early era; Low's argument that "no hazard is unfair wherever it is placed" is paraphrased in nearly every later architectural treatise.
 
-### American instructional/technical writing
+### American instructional/technical Writing
 
 Walter J. Travis (1862–1927), the first non-Briton to win the British Amateur (1904), wrote "Practical Golf" (Harper, 1901, with a "New & rev. ed." in 1903—HathiTrust 102984908; archive.org/details/practicalgolf02travgoog), followed by "The Art of Putting" (1904) and the founding of "The American Golfer" magazine in 1908, which he edited until selling it to Grantland Rice in spring 1920. Travis was the first major event winner using the Haskell rubber-cored ball (1901 U.S. Amateur), an event he wrote about in his magazine columns.
 
@@ -61,7 +61,7 @@ Seymour Dunn (1882–1959) issued "Golf Fundamentals: Orthodoxy of Style" (Lake 
 
 Joyce Wethered (1901–1997), whom Bobby Jones, after the 1935 exhibition match at East Lake, described as "the greatest golfer of all time, man or woman" (per the Memorial Tournament's 2004 honoree profile) and as possessing the finest swing he had ever seen, published "Golf From Two Sides" jointly with her brother Roger (Longmans, 1922) and "Golfing Memories and Methods" (Hutchinson, 1933), the latter divided into "Championship Golf," "Technical Golf," and "Other Golf." Darwin remarked, in his pre-publication notice, that she was "wise to give of memories as well as methods."
 
-### British essays, belles-lettres, and architectural writing
+### British Essays, Belles-lettres, and Architectural Writing
 
 Andrew Lang (1844–1912) wrote the opening "History of Golf" chapter for the Badminton Library volume (1890), and his light verse and essays were collected in the anthology "A Batch of Golfing Papers" (Edinburgh: Simpkin, Marshall, 1892), edited by R. Barclay; his "Ode to Golf" appears earlier in "On the Links" (Douglas, 1889). Lord Wellwood (the judge Henry Moncreiff, Lord Moncreiff) opens the Badminton volume with the famous summary that golf is "a fascination… a passion… a madness."
 
@@ -73,7 +73,7 @@ P.G. Wodehouse (1881–1975) launched his Oldest Member golf-club narrator in st
 
 H.N. Wethered (Joyce's father) and Tom Simpson's "The Architectural Side of Golf" (Longmans, 1929, with a preface by J.C. Squire and forty-four plates by Simpson plus twenty-six etchings by Wethered) is the most lavishly produced and most literary of the great late-1920s architecture books. Martin H.F. Sutton's "Golf Courses: Design, Construction and Upkeep" (1933) closes the era. Lord Wellwood, A.J. Balfour (the Prime Minister), and the Rev. John Kerr ("The Golf Book of East Lothian," 1896) round out the British essayistic field.
 
-### American essays, belles-lettres, and architectural writing
+### American Essays, Belles-lettres, and Architectural Writing
 
 Charles Blair Macdonald's "Scotland's Gift: Golf" (Scribner, 1928) is the foundational American golf memoir and architectural manifesto; it chronicles the spread of American golf from the early 1890s, when there were only a handful of courses, to over four thousand by 1927, and devotes chapters to his template-driven designs (National Golf Links, Mid-Ocean, Lido, Yale).
 
@@ -85,7 +85,7 @@ A.W. Tillinghast (1874–1942), designer of Winged Foot and Bethpage Black, was 
 
 Ring Lardner (1885–1933) is the great American golf-humour fiction writer; "A Caddy's Diary" first appeared in The Saturday Evening Post in 1922 and was collected in "How to Write Short Stories" (Scribner, 1924) and "Round Up" (1929). His golf story "Mr. Frisbie" (1928) is in "Round Up" (free at fadedpage.com/showbook.php?pid=20190233). Lardner's syndicated "In the Wake of the News" (Chicago Tribune, 1913–1919) and his Bell Syndicate weekly column also carried frequent golf material.
 
-### Magazines and publishing venues as a whole
+### Magazines and Publishing Venues as a Whole
 
 The British weekly "Golf: A Weekly Record of Ye Royal and Auncient Game" was founded September 1890 in London and ran to June 1899, when it was renamed/continued as "Golf Illustrated"—edited by Garden G. Smith until his death in 1913 and then by Harold Hilton until 1942. "Golf Monthly," founded in Edinburgh by Outram Press in 1911 with Hilton as its first editor (1911–1914), remains the oldest extant golf magazine in the world. "Golfing" (UK) was edited by Robert Browning from 1910 to 1955. "Country Life," the magazine of landed Edwardian Britain, was Darwin's other weekly base from 1907 onward, and published the country-house portraits of golf clubs that effectively created the visual genre of golf-course photography.
 

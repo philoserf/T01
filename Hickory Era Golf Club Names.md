@@ -3,15 +3,6 @@ title: Hickory Era Golf Club Names
 date: 2026-05-23
 ---
 
-- Driver
-- Brassie
-- Spoon
-- Cleek
-- Mashie
-- Mashie niblick
-- Niblick
-- Putter
-
 - Driver—modern driver
 - Brassie—like a strong 2-wood or 3-wood. Named because the sole often had a brass plate
 - Spoon—higher-lofted fairway wood, somewhere around a 5-wood or 7-wood. The face had a slight "spooned" loft

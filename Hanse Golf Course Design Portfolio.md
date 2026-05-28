@@ -7,7 +7,7 @@ Hanse Golf Course Design (Gil Hanse with longtime partner Jim Wagner since 1995)
 
 Original 18-hole designs (and notable short courses):
 
-- Stonewall (Old Course), Elverson, PA, 1992 — early work while at Renaissance; co-credited with Doak by some sources, with RGD itself crediting Doak
+- Stonewall (Old Course), Elverson, PA, 1992—early work while at Renaissance; co-credited with Doak by some sources, with RGD itself crediting Doak
 - Inniscrone Golf Club, Avondale, PA, 1998
 - Craighead Links at Crail Golfing Society, Fife, Scotland, 1998
 - Applebrook Golf Club, Malvern, PA, 2001

@@ -34,7 +34,7 @@ Coore & Crenshaw 18-hole original designs:
 - Cabot Cliffs, Inverness, Nova Scotia, 2016
 - Sand Valley, Nekoosa, WI, 2017
 - The Sandbox, 17-hole par-3, Sand Valley, Nekoosa, WI, 2018
-- Mammoth Dunes — not Coore; that’s David McLay Kidd, skip
+- Mammoth Dunes—not Coore; that’s David McLay Kidd, skip
 - Ozarks National, Big Cedar Lodge, Hollister, MO, 2019
 - Sheep Ranch (Bally Bandon Sheep Ranch), Bandon, OR, 2020 (rebuilt from a 13-hole Doak original; the firm calls this its 2020 design)
 - Bougle Run, 14-hole short course at Barnbougle, Bridport, Tasmania, 2021 (some sources list 2023)
@@ -49,9 +49,9 @@ Coore & Crenshaw 18-hole original designs:
 
 In progress / announced:
 
-- Rodeo Dunes, Hudson, CO — Coore & Crenshaw 18-hole at the new Dream Golf property; preview play targeted 2026
-- Wild Spring Dunes, near Nacogdoches, TX — Coore & Crenshaw 18-hole at the new Dream Golf property, alongside a Doak 18
-- Palmetto Bluff, Bluffton, SC — a new 18-hole on 500 Lowcountry acres for South Street Partners; opening targeted winter 2025–2026
+- Rodeo Dunes, Hudson, CO—Coore & Crenshaw 18-hole at the new Dream Golf property; preview play targeted 2026
+- Wild Spring Dunes, near Nacogdoches, TX—Coore & Crenshaw 18-hole at the new Dream Golf property, alongside a Doak 18
+- Palmetto Bluff, Bluffton, SC—a new 18-hole on 500 Lowcountry acres for South Street Partners; opening targeted winter 2025–2026
 - Several additional sites under contract that the firm has not publicly confirmed
 
 9-hole additions:
@@ -77,17 +77,17 @@ Renovations and master-plan restorations:
 
 Bill Coore solo and pre-partnership work (with Pete Dye & Associates or independently):
 
-- Waterwood National Resort, Huntsville, TX, 1979 (closed) — with Pete and Roy Dye
-- Country Club of Montreal, Quebec, Canada, 1974 — with Pete Dye & Associates
-- Cardinal Golf Club, Greensboro, NC, 1975 — with Pete Dye & Associates
-- Kingsmill Resort, River Course, Williamsburg, VA, 1982 — with Pete Dye & Associates
-- Rockport Country Club, Rockport, TX, 1984 — Coore’s first solo design
-- Denver Country Club, Denver, CO, 1985 — Coore master course renovation
-- Kings Crossing Golf & Country Club, Corpus Christi, TX, 1986 — Coore’s second solo design (closed)
-- Golf du Médoc, Château Course, Le Pian-Médoc, Bordeaux, France, 1989 — Coore’s third solo (now part of the Cabot Bordeaux portfolio)
+- Waterwood National Resort, Huntsville, TX, 1979 (closed)—with Pete and Roy Dye
+- Country Club of Montreal, Quebec, Canada, 1974—with Pete Dye & Associates
+- Cardinal Golf Club, Greensboro, NC, 1975—with Pete Dye & Associates
+- Kingsmill Resort, River Course, Williamsburg, VA, 1982—with Pete Dye & Associates
+- Rockport Country Club, Rockport, TX, 1984—Coore’s first solo design
+- Denver Country Club, Denver, CO, 1985—Coore master course renovation
+- Kings Crossing Golf & Country Club, Corpus Christi, TX, 1986—Coore’s second solo design (closed)
+- Golf du Médoc, Château Course, Le Pian-Médoc, Bordeaux, France, 1989—Coore’s third solo (now part of the Cabot Bordeaux portfolio)
 
 Ben Crenshaw pre-partnership work:
 
-- TPC Four Seasons at Las Colinas, Irving, TX, 1982 — Crenshaw as player consultant with Byron Nelson and architect Jay Morrish
+- TPC Four Seasons at Las Colinas, Irving, TX, 1982—Crenshaw as player consultant with Byron Nelson and architect Jay Morrish
 
 Two notes on attribution. First, the firm's portfolio omits a handful of projects that show up in Wikipedia and the press, most visibly Trinity Forest (the Dallas club closed in 2024) and Torch Cay in the Bahamas; both are confirmed Coore & Crenshaw work. Second, on a few resort short courses the firm and the resort sometimes list slightly different opening years (the Sandbox at Sand Valley, Bougle Run at Barnbougle), which reflects preview play versus formal opening. The firm's own portfolio page at coorecrenshaw.com is the cleanest current source, and the Fried Egg and LINKS Magazine architect pages are useful for the recent and in-progress work that the firm has not yet posted.

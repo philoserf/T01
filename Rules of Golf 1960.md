@@ -1,6 +1,8 @@
-##### Artificial devices banned. Player may now only have one caddie. Ball on the putting green may be lifted and cleaned. If a dropped ball rolls more than two club lengths, it is to be re-dropped. Also, a ball dropped in a wrong place can be rectified. The one stroke penalty for a ball on the putting green which moves after a loose impediment has been removed is rescinded.
+---
+title: Rules of Golf 1960
+---
 
-## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, SCOTLANDand theUNITED STATES GOLF ASSOCIATION effective 1 January 1960.
+## RULES OF GOLF AS APPROVED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS, SCOTLANDand theUNITED STATES GOLF ASSOCIATION effective 1 January 1960
 
 ### SECTION I - ETIQUETTE
 
@@ -371,7 +373,7 @@ If a ball, when not [in play](<#in play>), fall off a tee or be knocked off a te
 **RULE 15 ORDER OF PLAY IN THREESOME OR FOURSOME**
 
 1\. General  
-In a threesome or a foursome, the partners shall strike off alternately from the [teeing ground](#teeing) s, and thereafter shall strike alternately during the play of each hole. Penalty strokes (Definition [24](#PENALTY) ) do not affect the order of play.
+In a threesome or a foursome, the partners shall strike off alternately from the [teeing ground](#teeing) s, and thereafter shall strike alternately during the play of each hole. Penalty strokes (Definition [24](#PENALTY)) do not affect the order of play.
 
 **2\. Match Play**  
 If a player play when his partner should have played, _his side shall lose the hole_.
@@ -769,7 +771,7 @@ If a ball, when dropped, roll into a position covered by this Rule, it may be re
 PENALTY FOR BREACH OF RULE:  
 _Match play - Loss of hole; Stroke play - Two strokes._
 
-**RULE 33 HAZARDS AND WATER HAZARDS (Def. [14](#hazard) )**
+**RULE 33 HAZARDS AND WATER HAZARDS (Def. [14](#hazard))**
 
 1\. Touching Hazard Prohibited  
 When a ball lies in or touches a hazard or a water hazard, nothing shall be done which may in any way improve its lie.  
@@ -974,7 +976,7 @@ The player shall be responsible for acquainting himself with the conditions unde
 For any breach of a Rule or Local Rule by his caddie, the player incurs the relative penalty.  
 The player may have only one caddie, _under penalty of disqualification_.  
 The player may send his own caddie forward to mark the position of any ball.  
-If a forecaddie be employed by the Committee, he is an outside agency (Definition [22](#agency) ).
+If a forecaddie be employed by the Committee, he is an outside agency (Definition [22](#agency)).
 
 **3\. Infringement Assisting Partner**  
 If a player infringe a Rule or Local Rule so as to assist his partner's play, _the partner incurs the relative penalty in addition to any penalty incurred by the player._
