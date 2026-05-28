@@ -1,9 +1,9 @@
-##### The hole's dimensions are specified for the first time, at four and a quarter inches. Search time for a lost ball reduced to five minutes.
+##### Close to being universally accepted Rules of Golf, but not quite. These rules did form the basis of the first official Rules at the end of the decade. Little change from 1891, only a clarification that touching anything growing in a hazard during a swing is no penalty. This code was adopted by the newly-formed USGA in June 1897 with, additionally, its own comments.
 
 
   
 
-## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, 29 September 1891.
+## RULES FOR THE GAME OF GOLF AS IT IS PLAYED BY THE ROYAL AND ANCIENT GOLF CLUB OF ST. ANDREWS OVER THEIR LINKS, 29 September 1891. amended 1st May 1895
 
   
 
@@ -39,7 +39,7 @@ The player who shall play first on each side shall be named by his own side. In 
 
 13\. A ball stuck fast in wet ground or sand may be taken out and replaced loosely in the hole which it has made.
 
-14\. When a ball lies in or touches a [hazard](#hazard), the club shall not touch the ground, nor shall anything be touched or moved before the player strikes at the ball, except that the player may place his feet firmly on the ground for the purpose of addressing the ball, under the penalty of the loss of the hole.
+14\. When a ball lies in or touches a [hazard](#hazard), the club shall not touch the ground, nor shall anything be touched or moved before the player strikes at the ball, except that the player may place his feet firmly on the ground for the purpose of addressing the ball, under the penalty of the loss of the hole. But if in the backward or in the downward swing any grass, bent, whin, or other growing substance, or the side of a bunker, a wall, a paling, or other immovable obstacle be touched, no penalty shall be incurred.
 
 15\. A ‘hazard’ shall be any bunker of whatever nature:- water, sand, loose earth, mole hills, paths, roads or railways, whins, bushes, rushes, rabbit scrape, fences, ditches or anything which is not the ordinary green of the course, except sand blown on to the grass by wind, or sprinkled on grass for the preservation of the Links, or snow or ice, or bare patches on the course.
 
@@ -47,9 +47,9 @@ The player who shall play first on each side shall be named by his own side. In 
 
 17\. If any vessel, wheel-barrow, tool, roller, grass-cutter, box or similar obstruction has been placed upon the course, such obstruction may be removed. A ball lying on or touching such obstruction, or on clothes, or nets, or on ground under repair or temporarily covered up or opened, may be lifted and dropped on the nearest point of the course, but a ball lifted in a [hazard](#hazard) shall be dropped in the hazard. A ball lying in a golf hole or flag hole, may be lifted and dropped not more than a club length behind such hole.
 
-18\. If a ball be completely covered in fog, bent, whins, etc., only so much thereof shall be set aside as that the player shall have a view of his ball before he plays, whether in a line with the hole or otherwise.
+18\. When a ball is completely covered in fog, bent, whins, etc., only so much thereof shall be set aside as that the player shall have a view of his ball before he plays, whether in a line with the hole or otherwise.
 
-19\. When a ball is to be dropped, the player shall drop it. He shall face the hole, stand erect behind the [hazard](#hazard), keep the spot from which the ball was lifted (or in the case of running water, the spot at which it entered) in a line between himself and the hole, and drop the ball behind him from his head, standing as far behind the hazard as he may please.
+19\. When a ball is to be dropped, the player shall drop it. He shall front the hole, stand erect behind the [hazard](#hazard), keep the spot from which the ball was lifted (or in the case of running water, the spot at which it entered) in a line between himself and the hole, and drop the ball behind him from his head, standing as far behind the hazard as he may please.
 
 20\. When the balls in play lie within six inches of each other - measured from their nearest points - the ball nearer the hole shall be lifted until the other is p1ayed, and shall then be replaced as near as possible in its original position. Should the ball further from the hole be accidentally moved in so doing, it shall be replaced. Should the lie of the lifted ball be altered by the opponent in playing, it may be placed in a lie near to, and as nearly as possible similar to that from which it was lifted.
 
