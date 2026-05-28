@@ -10,11 +10,11 @@ title: Rules of Golf
 
 #### Rule 1–The Game, Player Conduct and the Rules
 
-\_Purpose: Rule 1 introduces these central principles of the game for the player:
+Purpose: Rule 1 introduces these central principles of the game for the player:
 
 - Play the course as you find it and play the ball as it lies.
 - Play by the Rules and in the spirit of the game.
-- You are responsible for applying your own penalties if you breach a Rule, so that you cannot gain any potential advantage over your opponent in match play or other players in stroke play.\_
+- You are responsible for applying your own penalties if you breach a Rule, so that you cannot gain any potential advantage over your opponent in match play or other players in stroke play.
 
 ##### 1.1 The Game of Golf
 
@@ -118,11 +118,11 @@ But any penalty strokes a player gets for taking penalty relief (such as a one-s
 
 #### Rule 2–The Course
 
-\_Purpose: Rule 2 introduces the basic things every player should know about the course:
+Purpose: Rule 2 introduces the basic things every player should know about the course:
 
 - There are five defined areas of the course, and
 - There are several types of defined objects and conditions that can interfere with play.  
-  It is important to know the area of the course where the ball lies and the status of any interfering objects and conditions, because they often affect the player’s options for playing the ball or taking relief.\_
+  It is important to know the area of the course where the ball lies and the status of any interfering objects and conditions, because they often affect the player’s options for playing the ball or taking relief.
 
 ##### 2.1 Course Boundaries and Out of Bounds
 
@@ -177,11 +177,11 @@ A player must take relief when:
 
 #### Rule 3–The Competition
 
-\_Purpose: Rule 3 covers the three central elements of all golf competitions:
+Purpose: Rule 3 covers the three central elements of all golf competitions:
 
 - Playing either match play or stroke play,
 - Playing either as an individual or with a partner as part of a side, and
-- Scoring either by gross scores (no handicap strokes applied) or net scores (handicap strokes applied).\_
+- Scoring either by gross scores (no handicap strokes applied) or net scores (handicap strokes applied).
 
 **3.1 Central Elements of Every Competition  
 a. Form of Play: Match Play or Stroke Play**  
@@ -217,11 +217,11 @@ Although Rules 1-20 focus on individual play, they also apply:
 
 #### 3.2 Match Play
 
-\_Purpose: Match play has specific Rules (particularly about concessions and giving information about the number of strokes taken) because the player and opponent:
+Purpose: Match play has specific Rules (particularly about concessions and giving information about the number of strokes taken) because the player and opponent:
 
 - Compete solely against each other on every hole,
 - Can see each other’s play, and
-- Can protect their own interests\_.
+- Can protect their own interests.
 
 ##### A. Result of Hole and Match
 
@@ -336,11 +336,11 @@ If the players mistakenly agree on a wrong match score:
 
 #### 3.3 Stroke Play
 
-\_Purpose: Stroke play has specific Rules (particularly for scorecards and holing out) because:
+Purpose: Stroke play has specific Rules (particularly for scorecards and holing out) because:
 
 - Each player competes against all the other players in the competition, and
 - All players need to be treated equally under the Rules.  
-  After the round, the player and the marker (who keeps the player’s score) must certify that the player’s score for each hole is right and the player must return the scorecard to the Committee.\_
+  After the round, the player and the marker (who keeps the player’s score) must certify that the player’s score for each hole is right and the player must return the scorecard to the Committee.
 
 ##### A. Winner in Stroke Play
 
@@ -408,11 +408,11 @@ See Rules 21.1, 21.2 and 21.3 (Rules for other forms of stroke play (Stableford,
 
 #### Rule 4–The Player’s Equipment
 
-\_Purpose: Rule 4 covers the equipment that players may use during a round. Based on the principle that golf is a challenging game in which success should depend on the player’s judgment, skills and abilities, the player:
+Purpose: Rule 4 covers the equipment that players may use during a round. Based on the principle that golf is a challenging game in which success should depend on the player’s judgment, skills and abilities, the player:
 
 - Must use conforming clubs and balls,
 - Is limited to no more than 14 clubs and normally must not replace damaged or lost clubs, and
-- Is restricted in the use of other equipment that gives artificial help to their play.\_
+- Is restricted in the use of other equipment that gives artificial help to their play.
 
 For detailed requirements for clubs, balls and other equipment and the process for consultation and submission of equipment for conformity review, see the [Equipment Rules](https://www.randa.org/roe/the-rules-of-equipment).
 
@@ -1050,10 +1050,10 @@ A player may play more than one ball at a time on a hole only when:
 
 ##### 6.4 Order of Play When Playing Hole
 
-\_Purpose: Rule 6.4 covers the order of play throughout a hole. The order of play from the teeing area depends on who has the honour, and after that is based on which ball is farthest from the hole.
+Purpose: Rule 6.4 covers the order of play throughout a hole. The order of play from the teeing area depends on who has the honour, and after that is based on which ball is farthest from the hole.
 
 - In match play, the order of play is fundamental; if a player plays out of turn, the opponent may cancel that stroke and make the player play again.
-- In stroke play, there is no penalty for playing out of turn, and players are both allowed and encouraged to play ‘ready golf’–that is, to play out of turn in a safe and responsible way.\_
+- In stroke play, there is no penalty for playing out of turn, and players are both allowed and encouraged to play ‘ready golf’–that is, to play out of turn in a safe and responsible way.
 
 ###### A. Match Play
 
@@ -1142,10 +1142,10 @@ See Rules 21.1b(1), 21.2b(1), 21.3b(1) and 23.3c (when a player has completed a 
 
 #### Rule 7–Ball Search: Finding and Identifying Ball
 
-\_Purpose: Rule 7 allows the player to take reasonable actions to fairly search for their ball in play after each stroke.
+Purpose: Rule 7 allows the player to take reasonable actions to fairly search for their ball in play after each stroke.
 
 - But the player still must be careful, as a penalty will apply if the player acts excessively and causes improvement to the conditions affecting their next stroke.
-- The player gets no penalty if the ball is accidentally moved in trying to find or identify it, but must then replace the ball on its original spot.\_
+- The player gets no penalty if the ball is accidentally moved in trying to find or identify it, but must then replace the ball on its original spot.
 
 ##### 7.1 How to Fairly Search for Ball
 
@@ -1374,11 +1374,11 @@ See Rules 22.2 (in Foursomes, either partner may act for the side and action by 
 
 #### Rule 9–Ball Played as It Lies; Ball at Rest Lifted or Moved
 
-\_Purpose: Rule 9 covers a central principle of the game: ‘play the ball as it lies.’
+Purpose: Rule 9 covers a central principle of the game: ‘play the ball as it lies.’
 
 - If the player’s ball comes to rest and is then moved by natural forces such as wind or water, the player normally must play it from its new spot.
 - If a ball at rest is lifted or moved by anyone or any outside influence before the stroke is made, the ball must be replaced on its original spot.
-- Players should take care when near any ball at rest, and a player who causes their own ball or an opponent’s ball to move will normally get a penalty (except on the putting green).\_
+- Players should take care when near any ball at rest, and a player who causes their own ball or an opponent’s ball to move will normally get a penalty (except on the putting green).
 
 Rule 9 applies to a ball in play at rest on the course, and applies both during a round and while play is stopped under Rule 5.7a.
 
@@ -2089,11 +2089,11 @@ If a ball overhanging the hole is lifted or moved before the waiting time under 
 
 #### Rule 14–Procedures for Ball: Marking, Lifting and Cleaning; Replacing on Spot; Dropping in Relief Area; Playing from Wrong Place
 
-\_Purpose: Rule 14 covers when and how the player may mark the spot of a ball at rest and lift and clean the ball and how to put a ball back into play so that the ball is played from the right place.
+Purpose: Rule 14 covers when and how the player may mark the spot of a ball at rest and lift and clean the ball and how to put a ball back into play so that the ball is played from the right place.
 
 - When a lifted or moved ball is to be replaced, the same ball must be set down on its original spot.
 - When taking free relief or penalty relief, a substituted ball or the original ball must be dropped in a particular relief area.  
-  A mistake in using these procedures may be corrected without penalty before the ball is played, but the player gets a penalty if they play the ball from the wrong place.\_
+  A mistake in using these procedures may be corrected without penalty before the ball is played, but the player gets a penalty if they play the ball from the wrong place.
 
 ##### 14.1 Marking, Lifting and Cleaning Ball
 
@@ -2390,10 +2390,10 @@ b. How to Complete a Hole after Playing from Wrong Place in Stroke Play
 
 #### Rule 15–Relief from Loose Impediments and Movable Obstructions (including Ball or Ball-Marker Helping or Interfering with Play)
 
-\_Purpose: Rule 15 covers when and how the player may take free relief from loose impediments and movable obstructions.
+Purpose: Rule 15 covers when and how the player may take free relief from loose impediments and movable obstructions.
 
 - These movable natural and artificial objects are not treated as part of the challenge of playing the course, and a player is normally allowed to remove them when they interfere with play.
-- But the player needs to be careful in moving loose impediments near their ball off the putting green, because there will be a penalty if moving them causes the ball to move.\_
+- But the player needs to be careful in moving loose impediments near their ball off the putting green, because there will be a penalty if moving them causes the ball to move.
 
 ##### 15.1 Loose Impediments
 
@@ -2511,11 +2511,11 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 15.3: **General Pe
 
 #### Rule 16–Relief from Abnormal Course Conditions (Including Immovable Obstructions), Dangerous Animal Condition, Embedded Ball
 
-\_Purpose: Rule 16 covers when and how the player may take free relief by playing a ball from a different place, such as when there is interference by an abnormal course condition or a dangerous animal condition.
+Purpose: Rule 16 covers when and how the player may take free relief by playing a ball from a different place, such as when there is interference by an abnormal course condition or a dangerous animal condition.
 
 - These conditions are not treated as part of the challenge of playing the course, and free relief is generally allowed except in a penalty area.
 - The player normally takes relief by dropping a ball in a relief area based on the nearest point of complete relief.  
-  This Rule also covers free relief when a player’s ball is embedded in its own pitch mark in the general area.\_
+  This Rule also covers free relief when a player’s ball is embedded in its own pitch mark in the general area.
 
 ##### 16.1 Abnormal Course Conditions (Including Immovable Obstructions)
 
@@ -3847,7 +3847,7 @@ In applying Rule 5.6a’s prohibition on unreasonable delay to players with disa
 
 See [Committee Procedures](https://www.randa.org/rog/committee-procedures/sections/5), Section 5D (providing additional guidance on Rule 25 and competitions involving players with disabilities).
 
-### X DEFINITIONS
+### X Definitions
 
 #### Abnormal Course Conditions
 

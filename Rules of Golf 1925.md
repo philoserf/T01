@@ -776,7 +776,7 @@ When necessary, Local Rules should be made for such obstructions as rushes, tree
 
 When a ball is lifted under a Local Rule, as in the case of a ball lifted from a Putting-Green other than that of the hole which is being played, the Rules of Golf Committee recommends that if it is to be played from ‘Through the Green,’ it should be _dropped_; if it is to be played on the Putting-Green of the hole that is being played, it should be _placed._
 
-### FORM AND MAKE OF GOLF CLUBS AND BALLS
+### Form and Make of Golf Clubs and Balls
 
 The Rules of Golf Committee intimates that it will not sanction any substantial departure from the traditional and accepted form and make of golf clubs, which in its opinion, consist of a plain shaft and a head which does not contain any mechanical contrivance, such as springs; it also regards as illegal the use of such clubs as those of the mallet-head type, or such clubs as have the neck so bent as to produce a similar effect.
 
@@ -788,7 +788,7 @@ The shaft shall be fixed to the heel, or to a neck, socket, or hose which termin
 
 The lower part of the shaft shall, if produced, meet the heel of the club, or (as for example in the case of the Park and Fairlie clubs) a point opposite the heel, either to right or left, when the club is soled in the ordinary position for play.
 
-### BALLS
+### Balls
 
 The weight of the ball shall not be greater than 1.62 ounces avoirdupois, and the size not less than 1.62 inches in diameter. The Rules of Golf Committee will take whatever steps it thinks necessary to limit the power of the ball with regard to distance, should any ball of greater power be introduced.
 

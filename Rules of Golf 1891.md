@@ -56,7 +56,7 @@ If it be discovered before either side has struck off at the tee that one side h
 39. A penalty stroke shall not be counted the stroke of the player, and shall not affect the rotation of play.
 40. Should any dispute arise on any point, the players have the right of determining the party or parties to whom the dispute shall be referred, but should they not agree, either party may refer it to the Green Committee of the green where the dispute occurs, and their decision shall be final. Should the dispute not be covered by the Rules of Golf; the arbiters must decide it by equity.
 
-### SPECIAL RULES FOR MEDAL PLAY
+### Special Rules for Medal Play
 
 (1) In Club competitions, the competitor doing the stipulated course in fewest strokes shall be the winner.
 
@@ -86,7 +86,7 @@ If it be discovered before either side has struck off at the tee that one side h
 
 (14) The ordinary Rules of Golf so far as they are not at variance with these special rules, shall apply to medal play.
 
-### ETIQUETTE OF GOLF
+### Etiquette of Golf
 
 1. No player, caddie, or onlooker should move or talk during a stroke.
 2. No player should play from the tee until the party in front have played their second strokes, and are out of range, nor play up to the putting-green till the party in front have holed out and moved away.
