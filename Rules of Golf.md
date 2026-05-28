@@ -1,42 +1,35 @@
-##### Rearrangement of the 1812 Rules, but few changes. The putting green is defined for the first time, being all ground with 20 yards of the hole. The embryo of a provisional ball procedure in Rule.
+##### Rules of the Musselburgh Club, said to have been instituted in 1744. Now Royal Musselburgh. Musselburgh is where the HCEG moved to when the Leith links became untenable in 1836. Uniquely among clubs at this time, there was no relief at all from balls closer than six inches to each other.
 
 
   
+  
 
-## RULES OF GOLF AS IT IS PLAYED BY THE SOCIETY OF ST. ANDREWS GOLFERS, September 1829.
+## RULES TO BE OBSERVED BY THE MUSSELBURGH GOLF CLUB,
 
-I. The balls must be teed not nearer the hole than two club lengths nor further from it than four.
+1st. The Game to be commenced at the hole opposite the distance post, to be proceeded with Eastward, and the present round of seven holes to be completed.
 
-II. The ball farthest from the hole must be played first.
+2d. The Ball shall not be teed nearer the hole than two club lengths, nor farther from it than four, and the tee shall not be behind the hole. The green shall not be dug up for a tee, nor shall turf, sand, or clay be taken from any part of it, within ten yards of the hole.
 
-III. The ball struck from the tee must not be changed before the hole is played out; and if the parties are at a loss to know one ball from the other, neither shall be lifted till both parties agree.
+3d. The ball which is struck off the tee shall not be changed before the hole is played out.
 
-IV. Stones, bones or any break-club within a club length of the ball may be removed when the ball lies on grass, but nothing can be removed if it lie on sand, or in a bunker; no other loose impediment such as turf, bent, whins, or anything whatever can be removed on the driving course, nor is any obstruction to be bent down or levelled with the club.
+4th. The ball farthest from the hole to which the party are proceeding, shall always be played first.
 
-V. When a ball is completely covered with fog, bent, whins, &c., so much thereof shall be set aside as that the player shall have a full view of his ball before he plays; a ball which is stuck fast in the ground may be loosened.
+5th. No second party shall play off till the first has struck a second stroke; and while first party is putting at the hole the second shall not play upon them.
 
-VI. All loose impediments of whatever kind may be removed on the putting green, which is considered not to exceed 20 yards from the hole.
+6\. Should a player break his Club in striking the Ball, or strike the ground, or pass over his ball, a stroke shall in each of these cases be counted.
 
-VII. If the ball lie in a rabbit scrape the player shall not be at liberty to take it out, but must play it as from any common hazard; if, however, it be in one of the burrows, he may lift it, drop it behind the hazard, and play with an iron without losing a stroke.
+7th. No stones, nor any break-club, shall be removed from the ball, in order that it might be played.
 
-VIII. When the balls touch each other, one of them must be lifted till the other is played.
+8th. When the ball is covered with, sunk or swimming in, water or under ice or in a hole when a Club cannot reach it (such hole being at least three inches in depth and not more than twelve inches in diameter) the player may take it out, allow a Cady to drop it behind the Hazard, and play it with an Iron; his opponent being entitled to a stroke.
 
-IX. When the balls lie within six inches of one another, the ball nearest the hole must be lifted till the other is played, but on the putting green it shall not be lifted although within six inches, unless it lie directly between the other and the hole; the six inches to be measured from the surface of each ball.
+9th. No Player shall beat down or spread back the turf or sand in playing through the green.
 
-X. If the ball is half covered or more with water, the player may take it out, tee it, and play from behind the hazard, losing a stroke.
+10th. When a ball is lost, the Player shall lose the Hole; only five minutes being allowed him to seek for the Ball.
 
-XI. If the ball lie in the supernumerary hole on the Hole-across green, it may be dropped behind the hazard and played with an iron without losing a stroke. The same rule applies to the short holes at the first hole.
+11th. When a ball is accidentally stopped by any third party, it shall be played from the spot where it lies; but if stopped by an antagonist or his Cady, the antagonist shall lose one stroke, if the opponent playing the Ball requires it.
 
-XII. Whatever happens to a ball by accident must be reckoned a rub of the green; if, however, the player's ball strike his adversary, or his caddie, or his clubs, the adversary loses the hole; if it strike his own caddie or hits his clubs, the player loses the hole. If the player strike his adversary's ball with his club, the player loses the hole.
+12th. No ball shall be lifted to allow the opponent to play, however near the Balls may be to each other; and should they be equi-distant from the hole, the party whose turn it is to strike, shall play.
 
-XIII. If a ball be lost, the stroke goes for nothing; the player returns to the spot whence the ball was struck, tees it, and loses a stroke. If the original ball is found before the party playing a new one has come to the ground where it was lost, the first continues the one to be played.
+13th. No obstructions shall be removed at Putting; but the parties may order the ground, for ten yards round the Holes, to be swept or cleaned before the game is commenced.
 
-XIV. If, in striking, the club breaks, it is nevertheless accounted a stroke if the player either strike the ground or pass the ball.
-
-XV. In holing, you are not to place any mark, nor draw any line, to direct you to the hole; you are to play your ball fairly and honestly for the hole, and not on your adversary's ball not lying in your way to the hole. Either party may smooth sand lying round the hole.
-
-XVI. In all cases where a ball is to be dropped the party dropping shall front the hole to which he is playing, and drop the ball behind him over his head.
-
-XVII. New holes shall always be made on the day a medal is played for, and no competitor shall play at these holes before he starts for the prize.
-
-XVIII. Any disputes respecting the play shall be determined by the Captain or Senior member present, and if none of the members are present, by the Captain and his annual Council for the time.
+13\. When Holing, no party shall play upon his antagonist's Ball, if it is not lying directly in his way to the hole. Neither shall any party mark by a line upon the ground, the direction he wishes the Ball to take.
