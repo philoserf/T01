@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### What This Repo is
 
-A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. Content-only—Flowershow renders the markdown from its hosted side; pushing to `main` is the "deploy."
+A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. GitHub holds the history; publishing to Flowershow is a separate step via the `fl` CLI (see the `flowershow-cli` skill). `git push` does **not** auto-deploy.
 
 ### Related: the Club Site
 
