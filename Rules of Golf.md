@@ -1,43 +1,45 @@
-##### These rules were adopted from the Honourable Company of Edinburgh Golfers 1809, with slight modifications. Where a ball may be lifted and played with an iron without penalty, the Glasgow golfer could play with an iron or spoon. The last four rules, concerning etiquette and bottles of rum, are Glasgow's addition.
+##### Expanded revision of the first St Andrews Rules of 1754. The putting green has its first mention, but not defined. First example of relief from abnormal ground conditions, specifically rabbit scrapes and burrows. The links land of St Andrews had been given over to rabbit farming in the early 1800s. Dropping procedure introduced. Player is allowed to see his ball before playing. Relief from a wrong hole, but only apparently on one hole (the hole-across green is the current 5th/13th on the Old Course).
 
 
   
   
 
-## RULES TO BE OBSERVED BY THE GLASGOW GOLF CLUB, 1810
+## RULES OF GOLF AS IT IS PLAYED BY THE SOCIETY OF ST. ANDREWS GOLFERS, May, 1812.
 
-1\. You must tee your ball not nearer the hole than two club-lengths, nor further from it than four, and the tee must be on the ground.
+I. The balls must be teed not nearer the hole than two club lengths nor further from it than four.
 
-2\. The ball furthest from the hole must be played first.
+II. The ball farthest from the hole must be played first.
 
-3\. You are not to change the ball struck from the tee before the hole is played out, and if at a loss to know one ball from the other, neither of them to be uplifted till both parties agree.
+III. The ball struck from the tee must not be changed before the hole is played out; and if the parties are at a loss to know one ball from the other, neither shall be lifted till both parties agree.
 
-4\. You are not to remove stones, bones or any break-club in order to play your ball, except upon the fair green, but if a ball stick fast in the ground, it may be loosened.
+IV. Stones, bones or any break-club within a club length of the ball may be removed when the ball lies on grass, but nothing can be removed if it lie on sand, or in a bunker; if however it stick fast in the ground, it may be loosened.
 
-5\. The player, in every case, shall be entitled to lift his ball, drop it behind, at such distance as he thinks proper, behind the hazard, and lose one stroke; but where he cannot get behind the hazard without going off the green, he shall be entitled to drop his ball on the green, on a line with the place where it lay, except it lies on any of the roads bounding the links.
+V. If the ball lie in a rabbit scrape the player shall not be at liberty to take it out, but must play it as from any common hazard; if, however, it lie in one of the burrows, he may lift it, drop it behind the hazard, and play with an iron without losing a stroke.
 
-6\. If the ball is half covered, or more, with water on the green, the player is at liberty to take it out, drop it behind the hazard, and play it with an iron or spoon without losing a stroke; and when the ball is completely covered with fog or grass, so much thereof may be set aside that the player shall have a view of his ball before he plays.
+VI. If the ball is half covered or more with water, the player may take it out, tee it, and play from behind the hazard, losing a stroke.
 
-7\. If a ball lies in any of the water tracks on the green, it may be taken out, dropped behind the track, and played with an iron without losing a stroke.
+VII. If the ball lie in the supernumerary hole on the hole-across green, it may be dropped behind the hazard and played with an iron without losing a stroke.
 
-8\. When the balls lie within six inches of one another, the ball nearest the hole to be lifted till the other is played.
+VIII. When the balls lie within six inches of one another, the ball nearest the hole must be lifted till the other is played, but on the putting green it shall not be lifted, although within six inches, unless it lie directly between the other and the hole.
 
-9\. If a ball be stopped by accident it must be played where it lies, but if stopped by the adversary or his cady, the party who stops the ball to lose the hole.
+IX. Whatever happens to a ball by accident must be reckoned a rub of the green; if, however, the player's ball strike his adversary, or his cady, the adversary loses the hole; if it strike his own cady, the player loses the hole; If the player strike his adversary's ball with his club, the player loses the hole.
 
-10\. If a ball is lost on the green, the player shall drop another behind the place where the other was lost, and lose one.
+X. If a ball be lost, the stroke goes for nothing; the player returns to the spot whence the ball was struck, tees it, and loses a stroke.
 
-11\. If, in striking, the club breaks, it is, nevertheless, to be accounted a stroke, if you either strike the ground or pass the ball.
+XI. If, in striking, the club breaks, it is nevertheless accounted a stroke if the player either strike the ground or pass the ball.
 
-12\. At holing, you are not to mark the direction to the hole; you are to play your ball honestly for the hole, and not play on your adversary's ball, not lying in your way to the hole; but all loose impediments may be removed within six club-lengths of the hole.
+XII. On holing, you are not to place any mark to direct you to the hole; you are to play your ball fairly and honestly for the hole, and not on your adversary's ball not lying in your way to the hole.
 
-13\. In all cases where a ball is to be dropped, the party dropping shall front the hole to which he is playing, and drop the ball behind him over his head.
+XIII. All loose impediments of whatever kind, may be removed upon the putting green.
 
-14\. Any disputes respecting the play shall be determined by the Captain or senior counsellor present.
+XIV. In all cases where a ball is to be dropped the party dropping shall front the hole to which he is playing, and drop the ball behind him over his head.
 
-15\. No player shall commence playing from a hole, until the party immediately before them have struck their second stroke.
+![Fog, bent, whins &c](https://www.ruleshistory.com/images/whins.jpg)
 
-16\. When a party of two, and another of three, are playing from or waiting at a hole to play from, it is to be considered that the party of two is to have the privilege of playing first - a party of three are not to be considered as regular players and may be passed on the green in the regular course of play.
+##### Fog, bent, whins &c on the Old Course
 
-17\. When a match is made there shall be a forfeit of a bottle of rum each if it is not played.
+XV. When a ball is completely covered with fog, bent, whins, &c., so much thereof shall be set aside as that the player shall have a full view of his ball before he plays.
 
-18\. That every member who is a player, that is who has played twice during the season, shall make a match on the day when the club is played for, and play for it under the penalty of a bottle of rum.
+XVI. When the balls touch each other, one of them must be lifted until the other is played.
+
+XVII. Any disputes respecting the play shall be determined by the Captain or Senior member present, and if none of the members are present, by the Captain and his annual Council for the time.
