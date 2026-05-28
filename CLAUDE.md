@@ -12,7 +12,7 @@ A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-
 
 ### Related: the Club Site
 
-The club's formal/governance site (bylaws, minutes, notices, news) lives in the sibling repo `../crbgc/` ([philoserf/crbgc](https://github.com/philoserf/crbgc)) and publishes via Hugo to <https://crbgc.org>. This repo (`T01/`) is the personal/editorial side—essays, history surveys, course architecture writing. Keep the split clean: prose and notes here, governance and official records there.
+The club's formal/governance site (bylaws, minutes, notices, news) lives in the sibling repo `../crbgc/` ([philoserf/crbgc](https://github.com/philoserf/crbgc)) and publishes via Hugo to <https://crbgc.org>. This repo (`crbgc-notes/`) is the personal/editorial side—essays, history surveys, course architecture writing. Keep the split clean: prose and notes here, governance and official records there.
 
 ### Commands
 
@@ -32,4 +32,4 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 
 ### Backlog
 
-The next concrete step for this repo lives in `../NEXT.md` at the workspace root (one row per repo). Read the T01 row when starting work; update it when that step ships. If no T01 row exists yet, add one.
+The next concrete step for this repo lives in `../NEXT.md` at the workspace root (one row per repo). Read the crbgc-notes row when starting work; update it when that step ships. If no row exists yet, add one.
