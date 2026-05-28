@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rules of Golf README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Rules of Golf README"
             }
           }
         ]
@@ -188,32 +188,33 @@
   },
   "active": "cbb784360e99fac4",
   "lastOpenFiles": [
-    "Walkable Public Golf Courses Ranked.md",
-    "Tom Doak Course Chronology.md",
-    "Taskfile.yml",
-    "Scottish Golf in the Regency Era.md",
-    "Recovering Golf's Original Orientation.md",
-    "Modernization's Corruption of Golf.md",
+    "Rules of Golf 1960.md",
+    "Rules of Golf 1925.md",
+    "Rules of Golf 1891.md",
+    "Rules of Golf 1858.md",
+    "Rules of Golf 1744.md",
+    "Rules of Golf.md",
+    "Rules of Golf README.md",
+    "History of Public Golf in America.md",
     "Minimalist Golf Architecture School.md",
+    "Modernization's Corruption of Golf.md",
+    "North American Links Courses.md",
+    "README.md",
+    "Recovering Golf's Original Orientation.md",
+    "Scottish Golf in the Regency Era.md",
+    "Tom Doak Course Chronology.md",
+    "Walkable Public Golf Courses Ranked.md",
     "Michigan's Top Golf Courses.md",
     "Michigan Golf Terrain.md",
     "Links-Style Golf Courses.md",
     "History.md",
-    "History of Public Golf in America.md",
     "Hickory Golf Starter Guide.md",
     "Hickory Golf Resources Directory.md",
-    "Hickory Era.md",
-    "Hickory Era Golf Club Names.md",
+    "Hickory Era Golf Writing Survey.md",
     "Hickory Era American Golf.md",
+    "Hickory Era.md",
     "Hanse Golf Course Design Portfolio.md",
-    "Golf's Original Constraints.md",
-    "Golf Rules History 1830s to Hickory Era.md",
-    "Golf Equipment Historical Eras.md",
-    "Golf Course Design Principles.md",
-    "Golden Age Walking Courses Near Grand Rapids.md",
-    "Game Philosophy.md",
-    "Enemies of Golf.md",
-    "Early American Golf's Decline.md",
-    "Dream Golf & Cabot Portfolio.md"
+    "config.json",
+    "Taskfile.yml"
   ]
 }
