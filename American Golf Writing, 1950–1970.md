@@ -1,7 +1,6 @@
 ---
-date: 2026-05-26
-showHero: false
 title: American Golf Writing, 1950–1970
+date: 2026-05-26
 ---
 
 ## TL;DR

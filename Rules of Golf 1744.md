@@ -1,7 +1,6 @@
 ---
-date: 2026-05-27
-showHero: false
 title: Rules of Golf 1744
+date: 2026-05-27
 ---
 
 ## Articles & Laws in Playing at Golf—Gentlemen Golfers of Leith, 7 March 1744

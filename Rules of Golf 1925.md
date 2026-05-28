@@ -1,7 +1,6 @@
 ---
-date: 2026-05-27
-showHero: false
 title: Rules of Golf 1925
+date: 2026-05-27
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, 28 September 1920, Amended 29 September 1925

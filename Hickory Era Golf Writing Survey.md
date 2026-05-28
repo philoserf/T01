@@ -1,7 +1,6 @@
 ---
-date: 2026-05-26
-showHero: false
 title: Hickory Era Golf Writing Survey
+date: 2026-05-26
 ---
 
 ## TL;DR

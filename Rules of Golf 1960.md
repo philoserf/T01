@@ -1,7 +1,6 @@
 ---
-date: 2026-05-27
-showHero: false
 title: Rules of Golf 1960
+date: 2026-05-27
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, Scotland and the United States Golf Association, effective 1 January 1960

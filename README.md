@@ -1,7 +1,6 @@
 ---
-date: 2026-05-26
-showHero: false
 title: README
+date: 2026-05-26
 ---
 
 Notes on golf—its history, its architects, its courses, and especially the walking, hickory-era version of the game.

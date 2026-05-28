@@ -27,7 +27,7 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 
 ### Content Model
 
-- Markdown files use YAML frontmatter. Current keys in use: `title`, `date` (`YYYY-MM-DD`), `showHero` (bool). Match the existing shape when adding new pages.
+- Markdown files use YAML frontmatter. Keys in use: `title` and `date` (`YYYY-MM-DD`), in that order. Match the existing shape when adding new pages.
 - Two licenses by design, and the split is load-bearing: `LICENSE` (MIT) covers code/config/templates; `CONTENT-LICENSE.md` (CC BY-NC-SA 4.0) covers prose and media. Don't merge them or apply one license to the other domain.
 
 ### Backlog

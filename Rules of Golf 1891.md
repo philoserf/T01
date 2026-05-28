@@ -1,7 +1,6 @@
 ---
-date: 2026-05-27
-showHero: false
 title: Rules of Golf 1891
+date: 2026-05-27
 ---
 
 ## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, 29 September 1891
