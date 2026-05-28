@@ -22,10 +22,10 @@ title: Rules of Golf 1744
 12. He whose Ball lyes farthest from the Hole is obliged to play first.
 13. Neither Trench, Ditch or Dyke, made for the preservation of the Links, nor the Scholar's Holes, or the Soldier's Lines, Shall be accounted a Hazard; But the Ball is to be taken out _<sup>Teed</sup>_ and play’d with any Iron Club.
 
-_—John Rattray, Capt_
+—John Rattray, Capt
 
 ### Amendment (1758)
 
 The 5th, and 13th Articles of the foregoing Laws having occasioned frequent Disputes It is found Convenient That in all time Coming, the Law Shall be, That in no Case Whatever a Ball Shall be Lifted without losing a Stroke Except it is in the Scholars holes When it may be taken out teed and played with any Iron Club without losing a Stroke - And in all other Cases the Ball must be Played where it lyes Except it is at least half Covered with Water or filth When it may, if the Player Chuses be taken out Teed and Played with any Club upon Loosing a Stroke.
 
-Thomas Boswall, Capt
+—Thomas Boswall, Capt
