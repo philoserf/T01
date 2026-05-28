@@ -1,43 +1,49 @@
-##### The Gentlemen Golfers' revision of the original 1744 Rules. The teeing area is enlarged. The ball must be half covered or more by water for relief (incorporating the 1758 amendment). Balls within 6 inches of each other can be lifted. If a ball strikes opponent or his caddie, he loses the hole. Penalty for a lost ball is stroke only, going against the other prominent rules of the day - an old rule kept alive on modern day municipals! New Rule giving relief from 'the cut of the Spade' - sounds like the first GUR.
+##### Three years after their first code, Bruntsfield adopt this new version, based on the Leith Code of 1775. I do not know what curious device the writers had in mind in Rule 2. A forecaddie here is referred to as a 'forerunner'. Although there will not be any putting greens for another 36 years, there is an initial recognition that a stroke to be played within four or five club lengths of the hole is 'putting'. Relief at the cost of one stroke from excrement - human or bovine. A new concept: Lost ball=lost hole. This was the rule in match play until 1920. Amendments in 1790 include a distance only penalty for lost ball, and adoption of the six-inch rule for lifting another ball.
 
 
   
   
 
-## Laws to be Observed by the Members of The Golfing Company in playing Golf22 April 1775
+## Rules to be observed in the Play of Golf by the Company of Golfers which meet at Thomas Combs, Bruntsfield links 20 July 1776
 
   
 
-1\. You must Tee your Ball not nearer the Hole than two club lengths, nor farther distant than four.
+1\. In playing you must Tee your Ball not nearer the Hole than Two Club lengths, nor further from it than Four.
 
-2\. Your Tee must be upon the Ground.
+2\. Your Tee must be upon the ground and unconnected with any Conductor or leader to the Ball.
 
-3\. You are not to change the Ball you strike off the Tee before that Hole is played out.
+3\. You must not alter, lift or change the Ball which you strike off the Tee until the hole is played out, or given up.
 
-4\. You are not to remove stones, bones or any break club, in order to play your Ball, except upon the fair Green.
+4\. You must not remove stones, bones or any other break club in order to play your Ball, except upon the fair green.
 
-5\. If your Ball is half covered or more with water, you are at liberty to take it out, tee it behind the Hazard and play it with any Club allowing your Adversary a stroke; And if on Tee, you may take it up, and tee behind the Tee, losing one, or play it off the Tee, in the option of the Player.
+5\. If your Balls are found anywhere touching one another, you are to lift the first (Ball) until the other be played and then lay it back on the same spot of ground, and in the same situation as nearly as possible.
 
-6\. If your Ball lye in a made Hazard, or in any of the Water-tracts for draining the links, when the cut of the Spade appears at the place where the Ball lyes, it may be taken out, dropped behind the Hazard, and played with an iron club without losing a stroke; or, in the opinion of the Player, the Ball to be tee’d, and lose one; And in no case, but what is mentioned in this and the immediately preceding law, can a Ball be lifted, but must be played where it lyes.
+6\. If your Ball is stopped by the forerunner or by any other person not of your party, it must be played where it lies, but if it is stopped by your adversary, his Cadie or servant, he must lose one for every such stopping.
 
-7\. If your Balls be found anywhere touching or within six inches of one another, you are to lift the first Ball until the other is played.
+7\. If your Ball lies in water you may, upon losing one, take it out, throw it over your head, behind the water and play it with any club you please; but if it be in the Meadow Ditch it must be played where it lies.
 
-8\. At Holing, you are to play your Ball honestly for the Hole, and not to play upon your Adversary’s Ball not lying in your way to the Hole.
+8\. If your Ball lies amongst Human Ordure, Cow Dung or any such nuisance on the fair green, you may, upon losing one, lift it, throw it over your head, behind the nuisance and play it with any club you please.
 
-9\. If you lose a Ball, you are to drop another as near as can be judged to the place where your Ball was lost, and allow your adversary a stroke for the misfortune.
+9\. If your Ball lies in the Quarries’ Pipe Track, or amongst the whins it must be played as it lies, without removing stones, bones or any other break Club, or altering in the least, the situation of the whins either growing or loose.
 
-10\. At Holing, you are not to mark the direction to the Hole.
+10\. If you lose your Ball, you lose the Hole.
 
-11\. If a Ball be stopped by accident, it must be played where it lies; and if stopped by the Adversary, his cadie, or servant, the party who stops the Ball to lose one.
+11\. If your Ball falls into any of the Short Holes made for the practice of putting, you may lift it out, throw it over your head behind that hole and play it with any club you please.
 
-12\. If in striking, your club breaks, it is nevertheless to be accounted a stroke, if you strike the ground, or pass the ball with the club.
+12\. When your Ball comes within four or five Club lengths from the hole to which you are playing, you must not mark, or cause to be marked, the direction to the hole, nor must any person whatever stand at the hole to point out or to do any other thing to assist you in putting.
 
-13\. The Ball farthest from the Hole must be played first.
-
-14\. In playing, you are to strike off from the Braehead-hole, and play from it to the Sawmill, for the First Hole; from the Sawmill to the North Mid-hole, for the Second Hole; to the east Hole for the Third; to the South Mid-hole, for the Fourth; and to the Thorntree-Hole, for the Fifth, where the First Round ends; and every other Round is to begin at the Thorntree-Hole, playing from that to the Sawmill-hole, and from thence to the North mid-hole, etcetera, as above, until you come again to the Thorntree-hole, where every Round ends.
-
-15\. Any disputes arising between the parties on the Green shall be determined by the Captain for the time being, if present, or by the latest Captain who may be on the ground.
+13\. All Disputes arising between Parties on the Green, are to be determined by the Captain and any two or more of the Council.
 
   
 
-At the Golf House the 22nd day of April 1775. In a general meeting of the Company of Golfers, called for revising the Laws and Regulations of the Company, the meeting having taken the above Laws and Regulations under consideration they Approve of the same.
+The foregoing Rules were upon the 20th day of July 1776 considered, agreed to and approven, by the Companies Quarterly Meeting.
+
+---
+
+  
+
+On 2 July 1790 the following Regulations were passed into Law:-
+
+1\. That when any person having played his Ball, loses the same he shall go back to the place from which he played and shall thereby *lose only one stroke*, viz: - that stroke by which his Ball was lost.
+
+2\. That every person shall have it in his power to play his Ball in any direction he chuses, either upon his Adversary's Ball or otherwise, but if the one Ball lies betwixt the other and the hole and within six inches of each other, it shall be in the power of either party to cause the Ball next the hole be lifted until the other is played, and if any person shall strike his Adversary's Ball with his Club it shall be in the power of the person whose Ball was so struck to replace the same in its former situation.
