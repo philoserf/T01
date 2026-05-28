@@ -4,7 +4,7 @@ showHero: false
 title: Rules of Golf 1858
 ---
 
-_Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, May 1858_
+## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, May 1858
 
 1. _Mode and Order of Playing the Game._  
    The game of golf is played by two persons, or by four (two of a side) playing alternately. It may also be played by three or more persons, each playing his own ball. The game commences by each party playing off a ball from a place called the tee, near the first hole.  
@@ -68,6 +68,5 @@ _Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club o
     If a ball split into two or more pieces, a fresh ball shall be put down in playing for a medal, without a penalty, and likewise in a match on the penalty of one stroke.
 
 19. _Breach of Rules._ - Where no penalty for the infringement of a rule is specially mentioned, the loss of the hole shall be understood to be the penalty.
-
 20. _Repairing the Links._  
     The person appointed to take charge of keeping the links shall make new holes every Monday morning, and in such places as to preserve the putting-green in proper order.
