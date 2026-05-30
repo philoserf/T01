@@ -1,5 +1,5 @@
 ---
-title: Home
+title: README
 date: 2026-05-26
 ---
 
