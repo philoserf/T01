@@ -3,6 +3,10 @@
   --color-l-foreground: #1a1a1a;
   --color-l-accent: #006747;
 
+  /* Explicit unprefixed aliases so the override rules below resolve even
+     if the theme doesn't remap --color-l-* (light-only, set in config.json). */
+  --color-accent: #006747;
+
   --font-body: ui-serif, Georgia, Cambria, "Times New Roman", serif;
   --font-heading:
     ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
