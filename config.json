@@ -1,21 +1,21 @@
 {
-	"title": "C&RBGC Notes",
-	"description": "Notes on golf — its history, its architects, its courses, and especially the walking, hickory-era version of the game.",
-	"nav": {
-		"title": "C&RBGC Notes",
-		"links": [
-			{ "href": "https://crbgc.org", "name": "Club" },
-			{ "href": "/Game Philosophy", "name": "Game Philosophy" },
-			{ "href": "/Course Architecture", "name": "Course Architecture" },
-			{ "href": "/Courses to Play", "name": "Courses to Play" },
-			{ "href": "/Hickory Era", "name": "Hickory Era" },
-			{ "href": "/History", "name": "History" }
-		]
-	},
-	"showSidebar": true,
-	"theme": {
-		"theme": "letterpress",
-		"defaultMode": "light",
-		"showModeSwitch": false
-	}
+  "title": "C&RBGC Notes",
+  "description": "Notes on golf — its history, its architects, its courses, and especially the walking, hickory-era version of the game.",
+  "nav": {
+    "title": "C&RBGC Notes",
+    "links": [
+      { "href": "https://crbgc.org", "name": "Club" },
+      { "href": "/Game Philosophy", "name": "Game Philosophy" },
+      { "href": "/Course Architecture", "name": "Course Architecture" },
+      { "href": "/Courses to Play", "name": "Courses to Play" },
+      { "href": "/Hickory Era", "name": "Hickory Era" },
+      { "href": "/History", "name": "History" }
+    ]
+  },
+  "showSidebar": true,
+  "theme": {
+    "theme": "letterpress",
+    "defaultMode": "light",
+    "showModeSwitch": false
+  }
 }

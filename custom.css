@@ -1,49 +1,49 @@
 :root {
-	--color-l-background: #fafaf7;
-	--color-l-foreground: #1a1a1a;
-	--color-l-accent: #2f5d3a;
+  --color-l-background: #fafaf7;
+  --color-l-foreground: #1a1a1a;
+  --color-l-accent: #2f5d3a;
 
-	--font-body: ui-serif, Georgia, Cambria, "Times New Roman", serif;
-	--font-heading:
-		ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-body: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+  --font-heading:
+    ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 
-	--font-size-base: 1.0625rem;
-	--line-height-normal: 1.6;
-	--font-size-h1: calc(var(--font-size-base) * 1.765);
-	--font-size-h2: calc(var(--font-size-base) * 1.294);
-	--font-size-h3: var(--font-size-base);
+  --font-size-base: 1.0625rem;
+  --line-height-normal: 1.6;
+  --font-size-h1: calc(var(--font-size-base) * 1.765);
+  --font-size-h2: calc(var(--font-size-base) * 1.294);
+  --font-size-h3: var(--font-size-base);
 }
 
 /* Links: green underline, 2px offset, drop on hover */
-.prose a,
-article a {
-	color: var(--color-accent);
-	text-decoration: underline;
-	text-underline-offset: 2px;
+article a,
+.prose a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
-.prose a:hover,
-article a:hover {
-	text-decoration: none;
+article a:hover,
+.prose a:hover {
+  text-decoration: none;
 }
 
 /* Blockquote: green left rule, muted italic */
 .prose blockquote {
-	border-left: 3px solid var(--color-accent);
-	font-style: italic;
-	color: var(--color-foreground-600, #595959);
+  border-left: 3px solid var(--color-accent);
+  font-style: italic;
+  color: var(--color-foreground-600, #595959);
 }
 
 /* Wordmark: suppress default logo image, style title to match club */
-.navbar img,
-nav img {
-	display: none;
+nav img,
+.navbar img {
+  display: none;
 }
-.navbar a[href="/"],
-nav a[href="/"] {
-	font-family: var(--font-heading);
-	font-size: 0.9rem;
-	letter-spacing: 0.08em;
-	text-transform: uppercase;
-	color: var(--color-foreground-600, #595959);
-	text-decoration: none;
+nav a[href="/"],
+.navbar a[href="/"] {
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-foreground-600, #595959);
+  text-decoration: none;
 }
