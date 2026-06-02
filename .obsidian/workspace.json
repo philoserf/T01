@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -136,16 +134,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "flowershow:Publish with Flowershow": false,
-      "zenmode:Toggle zen mode": false,
-      "recent-notes:Recent notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "flowershow:Publish with Flowershow": false,
+      "zenmode:Toggle zen mode": false,
+      "recent-notes:Recent notes": false
     }
   },
   "active": "cbb784360e99fac4",
   "lastOpenFiles": [
+    "(Index) Players and Writers.md",
+    "(Index) Rules of Golf Editions.md",
+    "(Index) Solo Golf.md",
+    "(Index) History.md",
+    "(Index) Hickory Era.md",
+    "(Index) Game Philosophy.md",
+    "(Index) Courses to Play.md",
+    "(Index) Course Architecture.md",
+    "Players and Writers.md",
+    "Rules of Golf Editions.md",
+    "Solo Golf.md",
     "custom.css",
     "biome.json",
     "Nicklaus's Golf Shot Ratios.md",
@@ -163,16 +172,6 @@
     "History of Solo Golf Play.md",
     "Recovering Golf's Original Orientation.md",
     "Minimalist Golf Architecture School.md",
-    "Golf's Original Constraints.md",
-    "Hickory Era American Golf.md",
-    "Hickory Era Golf Writing Survey.md",
-    "American Golf Writing, 1950–1970.md",
-    "Walkable Public Golf Courses Ranked.md",
-    "Tom Doak Course Chronology.md",
-    "Scottish Golf in the Regency Era.md",
-    "Rules of Golf 1960.md",
-    "Rules of Golf 1925.md",
-    "Rules of Golf 1891.md",
     "config.json",
     "Taskfile.yml"
   ]

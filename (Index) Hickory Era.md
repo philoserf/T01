@@ -11,3 +11,6 @@ Notes on the hickory-shaft era of golf—roughly 1830s through the late 1920s—
 - [[Hickory Golf Resources Directory]]
 - [[Golf Rules History 1830s to Hickory Era]]
 - [[Hickory Era Golf Writing Survey]]
+- [[Society of Hickory Golfers Overview]]
+- [[Society of Hickory Golfers Origins]]
+- [[Tad Moore Hickory Golf Clubs]]
