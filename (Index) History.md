@@ -1,5 +1,5 @@
 ---
-title: History
+title: (Index) History
 date: 2026-05-26
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Rules of Golf Editions
+title: (Index) Rules of Golf Editions
 date: 2026-06-01
 ---
 

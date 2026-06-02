@@ -1,5 +1,5 @@
 ---
-title: Players and Writers
+title: (Index) Players and Writers
 date: 2026-06-01
 ---
 

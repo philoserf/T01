@@ -1,5 +1,5 @@
 ---
-title: Game Philosophy
+title: (Index) Game Philosophy
 date: 2026-05-26
 ---
 

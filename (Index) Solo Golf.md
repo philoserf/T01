@@ -1,5 +1,5 @@
 ---
-title: Solo Golf
+title: (Index) Solo Golf
 date: 2026-06-01
 ---
 

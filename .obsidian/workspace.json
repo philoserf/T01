@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4ae9a9dd81e0746",
+        "id": "9eba11be896e0d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb784360e99fac4",
+            "id": "384b8b6a8c2bc7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History of Solo Golf Play.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Solo Golf Play"
+              "title": "README"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -134,27 +136,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "flowershow:Publish with Flowershow": false,
       "zenmode:Toggle zen mode": false,
-      "recent-notes:Recent notes": false
+      "recent-notes:Recent notes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cbb784360e99fac4",
+  "active": "384b8b6a8c2bc7b8",
   "lastOpenFiles": [
+    "(Index) Course Architecture.md",
+    "(Index) Courses to Play.md",
+    "(Index) Game Philosophy.md",
+    "(Index) Hickory Era.md",
+    "(Index) History.md",
     "(Index) Players and Writers.md",
     "(Index) Rules of Golf Editions.md",
     "(Index) Solo Golf.md",
-    "(Index) History.md",
-    "(Index) Hickory Era.md",
-    "(Index) Game Philosophy.md",
-    "(Index) Courses to Play.md",
-    "(Index) Course Architecture.md",
-    "Players and Writers.md",
-    "Rules of Golf Editions.md",
-    "Solo Golf.md",
+    "Enemies of Golf.md",
+    "Recovering Golf's Original Orientation.md",
+    "README.md",
+    "History of Solo Golf Play.md",
     "custom.css",
     "biome.json",
     "Nicklaus's Golf Shot Ratios.md",
@@ -165,13 +168,12 @@
     "Solo Play in Golf History.md",
     "Solo Golf in Amateur History.md",
     "Solo Golf Historical Continuity.md",
-    "README.md",
     "Tom Coyne Golf Writer Profile.md",
     "Society of Hickory Golfers Origins.md",
     "Honourable Company of Edinburgh Golfers History.md",
-    "History of Solo Golf Play.md",
-    "Recovering Golf's Original Orientation.md",
     "Minimalist Golf Architecture School.md",
+    "Golf's Original Constraints.md",
+    "Hickory Era American Golf.md",
     "config.json",
     "Taskfile.yml"
   ]

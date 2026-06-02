@@ -1,5 +1,5 @@
 ---
-title: Courses to Play
+title: (Index) Courses to Play
 date: 2026-05-26
 ---
 

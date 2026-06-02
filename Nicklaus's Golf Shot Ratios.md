@@ -1,5 +1,5 @@
 ---
-title: Nicklaus's Golf Shot Ratios
+title: "Nicklaus's Golf Shot Ratios"
 date: 2026-05-31
 ---
 

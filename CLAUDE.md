@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### What This Repo is
 
-A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. GitHub holds the history; publishing to Flowershow is done from inside Obsidian using the Flowershow plugin (config at `.obsidian/plugins/flowershow/data.json`, including `excludePatterns`). `git push` does **not** auto-deploy. Do **not** publish this vault with the `fl` CLI — the CLI ignores the plugin's exclude list and uploads everything outside `.gitignore`.
+A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. GitHub holds the history; publishing to Flowershow is done from inside Obsidian using the Flowershow plugin (config at `.obsidian/plugins/flowershow/data.json`, including `excludePatterns`). `git push` does **not** auto-deploy. Do **not** publish this vault with the `fl` CLI—the CLI ignores the plugin's exclude list and uploads everything outside `.gitignore`.
 
 ### Related: the Club Site
 

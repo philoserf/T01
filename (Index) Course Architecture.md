@@ -1,5 +1,5 @@
 ---
-title: Course Architecture
+title: (Index) Course Architecture
 date: 2026-05-26
 ---
 
