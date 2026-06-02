@@ -4,50 +4,31 @@ if you want to view the source, please visit the github repository of this plugi
 */
 
 "use strict";
-var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
-var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __export = (target, all) => {
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
 var __copyProps = (to, from, except, desc) => {
-  if ((from && typeof from === "object") || typeof from === "function") {
+  if (from && typeof from === "object" || typeof from === "function") {
     for (let key of __getOwnPropNames(from))
       if (!__hasOwnProp.call(to, key) && key !== except)
-        __defProp(to, key, {
-          get: () => from[key],
-          enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable,
-        });
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
   }
   return to;
 };
-var __toESM = (mod, isNodeMode, target) => (
-  (target = mod != null ? __create(__getProtoOf(mod)) : {}),
-  __copyProps(
-    // If the importer is in node compatibility mode or this is not an ESM
-    // file that has been converted to a CommonJS file using a Babel-
-    // compatible transform (i.e. "__esModule" has not been set), then set
-    // "default" to the CommonJS "module.exports" for node compatibility.
-    isNodeMode || !mod || !mod.__esModule
-      ? __defProp(target, "default", { value: mod, enumerable: true })
-      : target,
-    mod,
-  )
-);
-var __toCommonJS = (mod) =>
-  __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
-  default: () => ZenMode,
+  default: () => ZenMode
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian2 = require("obsidian");
 
 // src/settings.ts
 var DEFAULT_SETTINGS = {
@@ -64,48 +45,12 @@ var DEFAULT_SETTINGS = {
   focusedFileMode: false,
   hideStatusBar: false,
   hideLinkedMentions: false,
-  hideScrollBar: false,
+  hideScrollBar: false
 };
 
 // src/settings-tab.ts
-var import_obsidian2 = require("obsidian");
-
-// src/utils/settings-compat.ts
 var import_obsidian = require("obsidian");
-var ObsidianModule = __toESM(require("obsidian"), 1);
-function createSettingsGroup(containerEl, heading, manifestId) {
-  if ((0, import_obsidian.requireApiVersion)("1.11.0")) {
-    const SettingGroupClass = ObsidianModule.SettingGroup;
-    if (SettingGroupClass) {
-      const group = heading
-        ? new SettingGroupClass(containerEl).setHeading(heading)
-        : new SettingGroupClass(containerEl);
-      return {
-        addSetting(cb) {
-          group.addSetting(cb);
-        },
-      };
-    }
-  }
-  if (manifestId) {
-    containerEl.addClass(`${manifestId}-settings-compat`);
-  }
-  {
-    if (heading) {
-      const headingEl = containerEl.createDiv("setting-group-heading");
-      headingEl.createEl("h3", { text: heading });
-    }
-    return {
-      addSetting(cb) {
-        const setting = new import_obsidian.Setting(containerEl);
-        cb(setting);
-      },
-    };
-  }
-}
-
-// src/settings-tab.ts
-var ZenModeSettingTab = class extends import_obsidian2.PluginSettingTab {
+var ZenModeSettingTab = class extends import_obsidian.PluginSettingTab {
   /**
    * Creates a new settings tab instance.
    * @param app - The Obsidian app instance
@@ -123,168 +68,114 @@ var ZenModeSettingTab = class extends import_obsidian2.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    const generalGroup = createSettingsGroup(containerEl, void 0, "zenmode");
+    const generalGroup = new import_obsidian.SettingGroup(containerEl);
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Full screen")
-        .setDesc("Automatically enter fullscreen when enabling zen mode.")
-        .addToggle((toggle) =>
-          toggle.setValue(this.plugin.settings.fullscreen).onChange((value) => {
-            this.plugin.settings.fullscreen = value;
-            void this.plugin.saveSettings();
-          }),
-        );
+      setting.setName("Full screen").setDesc(
+        "Automatically enter fullscreen when enabling zen mode."
+      ).addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.fullscreen).onChange((value) => {
+          this.plugin.settings.fullscreen = value;
+          void this.plugin.saveSettings();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Show zen mode exit button")
-        .setDesc(
-          "When to show the exit button in zen mode. You can also exit via the command palette, by pressing esc, or by assigning a hotkey to the 'toggle zen mode' command.",
-        )
-        .addDropdown((dropdown) =>
-          dropdown
-            .addOption("always", "Always show")
-            .addOption("mobile-only", "Mobile only")
-            .addOption("never", "Never show")
-            .setValue(this.plugin.settings.exitButtonVisibility)
-            .onChange((value) => {
-              this.plugin.settings.exitButtonVisibility = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Show zen mode exit button").setDesc(
+        "When to show the exit button in zen mode. You can also exit via the command palette, by pressing esc, or by assigning a hotkey to the 'toggle zen mode' command."
+      ).addDropdown(
+        (dropdown) => dropdown.addOption("always", "Always show").addOption("mobile-only", "Mobile only").addOption("never", "Never show").setValue(this.plugin.settings.exitButtonVisibility).onChange((value) => {
+          this.plugin.settings.exitButtonVisibility = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Auto-hide zen mode exit button on desktop")
-        .setDesc(
-          "When enabled, the exit button is hidden on desktop but reveals itself on hover as long as the zen mode exit button is on.",
-        )
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.autoHideButtonOnDesktop)
-            .onChange((value) => {
-              this.plugin.settings.autoHideButtonOnDesktop = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Auto-hide zen mode exit button on desktop").setDesc(
+        "When enabled, the exit button is hidden on desktop but reveals itself on hover as long as the zen mode exit button is on."
+      ).addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.autoHideButtonOnDesktop).onChange((value) => {
+          this.plugin.settings.autoHideButtonOnDesktop = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Hide properties in zen mode")
-        .setDesc("Hide properties when zen mode is active.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.hideProperties)
-            .onChange((value) => {
-              this.plugin.settings.hideProperties = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Hide properties in zen mode").setDesc("Hide properties when zen mode is active.").addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.hideProperties).onChange((value) => {
+          this.plugin.settings.hideProperties = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Hide inline title in zen mode")
-        .setDesc("Hide the inline title (note title) when zen mode is active.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.hideInlineTitle)
-            .onChange((value) => {
-              this.plugin.settings.hideInlineTitle = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Hide inline title in zen mode").setDesc(
+        "Hide the inline title (note title) when zen mode is active."
+      ).addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.hideInlineTitle).onChange((value) => {
+          this.plugin.settings.hideInlineTitle = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Hide status bar in zen mode")
-        .setDesc("Hide the status bar when zen mode is active.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.hideStatusBar)
-            .onChange((value) => {
-              this.plugin.settings.hideStatusBar = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Hide status bar in zen mode").setDesc("Hide the status bar when zen mode is active.").addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.hideStatusBar).onChange((value) => {
+          this.plugin.settings.hideStatusBar = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Hide linked mentions in zen mode")
-        .setDesc("Hide linked mentions when zen mode is active.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.hideLinkedMentions)
-            .onChange((value) => {
-              this.plugin.settings.hideLinkedMentions = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Hide linked mentions in zen mode").setDesc("Hide linked mentions when zen mode is active.").addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.hideLinkedMentions).onChange((value) => {
+          this.plugin.settings.hideLinkedMentions = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Hide scroll bar in zen mode")
-        .setDesc("Hide scroll bar when zen mode is active.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.hideScrollBar)
-            .onChange((value) => {
-              this.plugin.settings.hideScrollBar = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Hide scroll bar in zen mode").setDesc("Hide scroll bar when zen mode is active.").addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.hideScrollBar).onChange((value) => {
+          this.plugin.settings.hideScrollBar = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Top padding")
-        .setDesc("Top padding in pixels (0-100).")
-        .addSlider((slider) =>
-          slider
-            .setLimits(0, 100, 1)
-            .setValue(this.plugin.settings.topPadding)
-            .setDynamicTooltip()
-            .onChange((value) => {
-              this.plugin.settings.topPadding = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Top padding").setDesc("Top padding in pixels (0-100).").addSlider(
+        (slider) => slider.setLimits(0, 100, 1).setValue(this.plugin.settings.topPadding).setDynamicTooltip().onChange((value) => {
+          this.plugin.settings.topPadding = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Bottom padding")
-        .setDesc("Bottom padding in pixels (0-100).")
-        .addSlider((slider) =>
-          slider
-            .setLimits(0, 100, 1)
-            .setValue(this.plugin.settings.bottomPadding)
-            .setDynamicTooltip()
-            .onChange((value) => {
-              this.plugin.settings.bottomPadding = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Bottom padding").setDesc("Bottom padding in pixels (0-100).").addSlider(
+        (slider) => slider.setLimits(0, 100, 1).setValue(this.plugin.settings.bottomPadding).setDynamicTooltip().onChange((value) => {
+          this.plugin.settings.bottomPadding = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
     generalGroup.addSetting((setting) => {
-      setting
-        .setName("Focused file mode")
-        .setDesc("Only show the active file in zen mode, hide all other panes.")
-        .addToggle((toggle) =>
-          toggle
-            .setValue(this.plugin.settings.focusedFileMode)
-            .onChange((value) => {
-              this.plugin.settings.focusedFileMode = value;
-              void this.plugin.saveSettings();
-              this.plugin.refresh();
-            }),
-        );
+      setting.setName("Focused file mode").setDesc(
+        "Only show the active file in zen mode, hide all other panes."
+      ).addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.focusedFileMode).onChange((value) => {
+          this.plugin.settings.focusedFileMode = value;
+          void this.plugin.saveSettings();
+          this.plugin.refresh();
+        })
+      );
     });
   }
 };
@@ -298,7 +189,7 @@ function setCssProps(element, props) {
 }
 
 // src/main.ts
-var ZenMode = class extends import_obsidian3.Plugin {
+var ZenMode = class extends import_obsidian2.Plugin {
   constructor() {
     super(...arguments);
     // Safe: always initialized in onload
@@ -327,28 +218,28 @@ var ZenMode = class extends import_obsidian3.Plugin {
       document.body.classList.toggle("zenmode-active", this.settings.zenMode);
       document.documentElement.style.setProperty(
         "--zen-mode-top-padding",
-        `${this.settings.topPadding}px`,
+        `${this.settings.topPadding}px`
       );
       document.documentElement.style.setProperty(
         "--zen-mode-bottom-padding",
-        `${this.settings.bottomPadding}px`,
+        `${this.settings.bottomPadding}px`
       );
       if (this.settings.zenMode) {
         document.body.classList.toggle(
           "zenmode-hide-properties",
-          this.settings.hideProperties,
+          this.settings.hideProperties
         );
         document.body.classList.toggle(
           "zenmode-hide-status-bar",
-          this.settings.hideStatusBar,
+          this.settings.hideStatusBar
         );
         document.body.classList.toggle(
           "zenmode-hide-linked-mentions",
-          this.settings.hideLinkedMentions,
+          this.settings.hideLinkedMentions
         );
         document.body.classList.toggle(
           "zenmode-hide-scroll-bar",
-          this.settings.hideScrollBar,
+          this.settings.hideScrollBar
         );
       } else {
         document.body.classList.remove("zenmode-hide-properties");
@@ -359,11 +250,11 @@ var ZenMode = class extends import_obsidian3.Plugin {
       if (this.settings.zenMode) {
         document.body.setAttribute(
           "data-zen-hide-inline-title",
-          this.settings.hideInlineTitle.toString(),
+          this.settings.hideInlineTitle.toString()
         );
         document.body.setAttribute(
           "data-zen-focused-file",
-          this.settings.focusedFileMode.toString(),
+          this.settings.focusedFileMode.toString()
         );
       } else {
         document.body.removeAttribute("data-zen-hide-inline-title");
@@ -384,7 +275,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
       name: "Toggle",
       callback: () => {
         void this.toggleZenMode();
-      },
+      }
     });
     this.addRibbonIcon("expand", "Toggle zen mode", () => {
       void this.toggleZenMode();
@@ -394,7 +285,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
         if (this.settings.zenMode && this.settings.focusedFileMode) {
           void this.updateFocusedFileMode();
         }
-      }),
+      })
     );
     this.registerEvent(
       this.app.workspace.on("layout-change", () => {
@@ -402,7 +293,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
         if (this.settings.zenMode && this.settings.focusedFileMode) {
           void this.updateFocusedFileMode();
         }
-      }),
+      })
     );
     this.registerDomEvent(document, "keydown", (evt) => {
       var _a;
@@ -416,11 +307,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
               return;
             }
           }
-          if (
-            target instanceof HTMLTextAreaElement &&
-            target.className &&
-            target.className.includes("excalidraw")
-          ) {
+          if (target instanceof HTMLTextAreaElement && target.className && target.className.includes("excalidraw")) {
             return;
           }
         }
@@ -445,7 +332,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
     if (this.visualViewportResizeHandler && window.visualViewport) {
       window.visualViewport.removeEventListener(
         "resize",
-        this.visualViewportResizeHandler,
+        this.visualViewportResizeHandler
       );
     }
     if (this.settings.zenMode) {
@@ -478,10 +365,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
       return;
     }
     const app = this.app;
-    if (
-      app.workspace.leftSplit == void 0 ||
-      app.workspace.rightSplit == void 0
-    ) {
+    if (app.workspace.leftSplit == void 0 || app.workspace.rightSplit == void 0) {
       return;
     }
     if (!this.settings.zenMode) {
@@ -510,7 +394,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
   createButton() {
     this.buttonContainer = document.createElement("div");
     this.buttonContainer.classList.add("zenmode-button");
-    this.button = new import_obsidian3.ButtonComponent(this.buttonContainer);
+    this.button = new import_obsidian2.ButtonComponent(this.buttonContainer);
     this.button.setIcon("shrink");
     this.button.onClick(() => {
       void this.toggleZenMode();
@@ -526,7 +410,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
       };
       window.visualViewport.addEventListener(
         "resize",
-        this.visualViewportResizeHandler,
+        this.visualViewportResizeHandler
       );
     }
   }
@@ -537,21 +421,16 @@ var ZenMode = class extends import_obsidian3.Plugin {
    */
   adjustButtonPosition() {
     var _a;
-    if (
-      !this.buttonContainer ||
-      !document.body.classList.contains("is-mobile")
-    ) {
+    if (!this.buttonContainer || !document.body.classList.contains("is-mobile")) {
       return;
     }
-    const viewportHeight =
-      ((_a = window.visualViewport) == null ? void 0 : _a.height) ||
-      window.innerHeight;
+    const viewportHeight = ((_a = window.visualViewport) == null ? void 0 : _a.height) || window.innerHeight;
     const windowHeight = window.outerHeight;
     const navigationBarHeight = Math.max(0, windowHeight - viewportHeight);
     const minBottomOffset = 60;
     const calculatedOffset = Math.max(
       minBottomOffset,
-      navigationBarHeight + 10,
+      navigationBarHeight + 10
     );
     setCssProps(this.buttonContainer, { bottom: `${calculatedOffset}px` });
   }
@@ -561,10 +440,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
    */
   setButtonVisibility() {
     const isMobile = document.body.classList.contains("is-mobile");
-    const shouldShow =
-      this.settings.zenMode &&
-      (this.settings.exitButtonVisibility === "always" ||
-        (this.settings.exitButtonVisibility === "mobile-only" && isMobile));
+    const shouldShow = this.settings.zenMode && (this.settings.exitButtonVisibility === "always" || this.settings.exitButtonVisibility === "mobile-only" && isMobile);
     if (shouldShow) {
       if (!this.hasButton) {
         this.createButton();
@@ -573,27 +449,25 @@ var ZenMode = class extends import_obsidian3.Plugin {
       this.buttonContainer.classList.add("zenmode-button-visible");
       this.buttonContainer.classList.toggle(
         "zenmode-button-moved-up",
-        !isMobile,
+        !isMobile
       );
-      if (
-        this.settings.autoHideButtonOnDesktop &&
-        !isMobile &&
-        this.settings.exitButtonVisibility === "always"
-      ) {
+      if (this.settings.autoHideButtonOnDesktop && !isMobile && this.settings.exitButtonVisibility === "always") {
         this.buttonContainer.classList.add("zenmode-button-auto-hide");
         if (!this._hasShownInitialHighlight) {
           this.buttonContainer.classList.add(
-            "zenmode-button-initial-highlight",
+            "zenmode-button-initial-highlight"
           );
           this._hasShownInitialHighlight = true;
           const timeout1 = window.setTimeout(() => {
             if (this.buttonContainer) {
               this.buttonContainer.classList.remove(
-                "zenmode-button-initial-highlight",
+                "zenmode-button-initial-highlight"
               );
               const timeout2 = window.setTimeout(() => {
                 if (this.buttonContainer) {
-                  this.buttonContainer.classList.add("zenmode-button-fade-out");
+                  this.buttonContainer.classList.add(
+                    "zenmode-button-fade-out"
+                  );
                 }
               }, 300);
               this._highlightTimeouts.push(timeout2);
@@ -602,16 +476,22 @@ var ZenMode = class extends import_obsidian3.Plugin {
           this._highlightTimeouts.push(timeout1);
         }
       } else {
-        this.buttonContainer.classList.remove("zenmode-button-auto-hide");
         this.buttonContainer.classList.remove(
-          "zenmode-button-initial-highlight",
+          "zenmode-button-auto-hide"
         );
-        this.buttonContainer.classList.remove("zenmode-button-fade-out");
+        this.buttonContainer.classList.remove(
+          "zenmode-button-initial-highlight"
+        );
+        this.buttonContainer.classList.remove(
+          "zenmode-button-fade-out"
+        );
       }
       this.adjustButtonPosition();
     } else {
       if (this.hasButton) {
-        this.buttonContainer.classList.remove("zenmode-button-visible");
+        this.buttonContainer.classList.remove(
+          "zenmode-button-visible"
+        );
       }
     }
   }
@@ -623,11 +503,11 @@ var ZenMode = class extends import_obsidian3.Plugin {
     var _a;
     if (!leaf) return null;
     const leafWithContainer = leaf;
-    const leafContainer =
-      (_a = leafWithContainer.containerEl) != null ? _a : null;
+    const leafContainer = (_a = leafWithContainer.containerEl) != null ? _a : null;
     if (!leafContainer) return null;
     const tabContainer = leafContainer.closest(".workspace-tabs");
-    if (!tabContainer || !(tabContainer instanceof HTMLElement)) return null;
+    if (!tabContainer || !(tabContainer instanceof HTMLElement))
+      return null;
     return tabContainer;
   }
   /**
@@ -652,13 +532,10 @@ var ZenMode = class extends import_obsidian3.Plugin {
         const leafWithContainer = leaf;
         if (leafWithContainer.containerEl) {
           const tabHeader = leafWithContainer.containerEl.querySelector(
-            ".workspace-tab-header",
+            ".workspace-tab-header"
           );
           if (tabHeader && tabHeader instanceof HTMLElement) {
-            if (
-              tabHeader.classList.contains("is-pinned") ||
-              tabHeader.hasAttribute("data-pinned")
-            ) {
+            if (tabHeader.classList.contains("is-pinned") || tabHeader.hasAttribute("data-pinned")) {
               isPinned = true;
             }
           }
@@ -673,7 +550,8 @@ var ZenMode = class extends import_obsidian3.Plugin {
           return;
         }
       }
-    } catch (e) {}
+    } catch (e) {
+    }
   }
   /**
    * Helper function to find the active tab container by checking the DOM.
@@ -681,7 +559,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
    */
   findActiveTabContainerFromDOM() {
     const activeTabHeader = document.querySelector(
-      ".workspace-tab-header.is-active",
+      ".workspace-tab-header.is-active"
     );
     if (activeTabHeader) {
       const tabContainer = activeTabHeader.closest(".workspace-tabs");
@@ -690,14 +568,11 @@ var ZenMode = class extends import_obsidian3.Plugin {
       }
     }
     const allTabContainers = Array.from(
-      document.querySelectorAll(".workspace-tabs"),
+      document.querySelectorAll(".workspace-tabs")
     );
     for (const container of allTabContainers) {
       const el = container;
-      if (
-        el.offsetParent !== null &&
-        !el.classList.contains("zenmode-tab-hidden")
-      ) {
+      if (el.offsetParent !== null && !el.classList.contains("zenmode-tab-hidden")) {
         return el;
       }
     }
@@ -731,7 +606,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
     await this.revealPinnedTabIfExists();
     if (!this._tabContainersCache) {
       this._tabContainersCache = Array.from(
-        document.querySelectorAll(".workspace-tabs"),
+        document.querySelectorAll(".workspace-tabs")
       );
     }
     const allTabContainers = this._tabContainersCache;
@@ -740,8 +615,8 @@ var ZenMode = class extends import_obsidian3.Plugin {
       const el = container;
       const pinnedTabs = Array.from(
         el.querySelectorAll(
-          ".workspace-tab-header.is-pinned, .workspace-tab-header[data-pinned='true']",
-        ),
+          ".workspace-tab-header.is-pinned, .workspace-tab-header[data-pinned='true']"
+        )
       );
       if (pinnedTabs.length > 0) {
         activeTabContainer = el;
@@ -770,7 +645,7 @@ var ZenMode = class extends import_obsidian3.Plugin {
         setCssProps(el, {
           display: "",
           width: "100%",
-          flex: "1 1 100%",
+          flex: "1 1 100%"
         });
       } else {
         el.classList.add("zenmode-tab-hidden");
@@ -797,14 +672,14 @@ var ZenMode = class extends import_obsidian3.Plugin {
         if (this.settings.focusedFileMode) {
           await this.revealPinnedTabIfExists();
         }
-        if (
-          this.settings.fullscreen &&
-          document.documentElement.requestFullscreen
-        ) {
+        if (this.settings.fullscreen && document.documentElement.requestFullscreen) {
           try {
             await document.documentElement.requestFullscreen();
-            await new Promise((resolve) => requestAnimationFrame(resolve));
-          } catch (e) {}
+            await new Promise(
+              (resolve) => requestAnimationFrame(resolve)
+            );
+          } catch (e) {
+          }
         }
         this.settings.zenMode = true;
         await this.saveSettings();
@@ -813,8 +688,11 @@ var ZenMode = class extends import_obsidian3.Plugin {
         if (document.fullscreenElement && document.exitFullscreen) {
           try {
             await document.exitFullscreen();
-            await new Promise((resolve) => requestAnimationFrame(resolve));
-          } catch (e) {}
+            await new Promise(
+              (resolve) => requestAnimationFrame(resolve)
+            );
+          } catch (e) {
+          }
         }
         this.settings.zenMode = false;
         await this.saveSettings();
@@ -825,5 +703,6 @@ var ZenMode = class extends import_obsidian3.Plugin {
     }
   }
 };
+
 
 /* nosourcemap */
