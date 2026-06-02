@@ -146,6 +146,8 @@
   },
   "active": "cbb784360e99fac4",
   "lastOpenFiles": [
+    "custom.css",
+    "biome.json",
     "Nicklaus's Golf Shot Ratios.md",
     "Society of Hickory Golfers Overview.md",
     "Luke Kerr-Dineen Golf Instruction.md",
@@ -171,7 +173,6 @@
     "Rules of Golf 1960.md",
     "Rules of Golf 1925.md",
     "Rules of Golf 1891.md",
-    "Rules of Golf 1858.md",
     "config.json",
     "Taskfile.yml"
   ]
