@@ -4,7 +4,6 @@
   "nav": {
     "title": "C&RBGC Notes",
     "links": [
-      { "href": "https://crbgc.org", "name": "Club" },
       { "href": "/(Index) Game Philosophy", "name": "Game Philosophy" },
       { "href": "/(Index) Course Architecture", "name": "Course Architecture" },
       { "href": "/(Index) Courses to Play", "name": "Courses to Play" },
