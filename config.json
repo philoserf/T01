@@ -5,11 +5,14 @@
     "title": "C&RBGC Notes",
     "links": [
       { "href": "https://crbgc.org", "name": "Club" },
-      { "href": "/Game Philosophy", "name": "Game Philosophy" },
-      { "href": "/Course Architecture", "name": "Course Architecture" },
-      { "href": "/Courses to Play", "name": "Courses to Play" },
-      { "href": "/Hickory Era", "name": "Hickory Era" },
-      { "href": "/History", "name": "History" }
+      { "href": "/(Index) Game Philosophy", "name": "Game Philosophy" },
+      { "href": "/(Index) Course Architecture", "name": "Course Architecture" },
+      { "href": "/(Index) Courses to Play", "name": "Courses to Play" },
+      { "href": "/(Index) Hickory Era", "name": "Hickory Era" },
+      { "href": "/(Index) History", "name": "History" },
+      { "href": "/(Index) Solo Golf", "name": "Solo Golf" },
+      { "href": "/(Index) Rules of Golf Editions", "name": "Rules of Golf" },
+      { "href": "/(Index) Players and Writers", "name": "Players and Writers" }
     ]
   },
   "showSidebar": true,
